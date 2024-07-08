@@ -1,0 +1,3016 @@
+Buscando Ativos
+Ativos encontrados
+['UK100-OTC', 'USNDAQ100-OTC', 'SP500-OTC', 'US30-OTC', 'EU50-OTC', 'FR40-OTC', 'AUS200-OTC', 'NZDUSD', 'EURUSD', 'GBPUSD', 'GER30-OTC', 'EURJPY', 'JP225-OTC', 'HK33-OTC', 'SP35-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+NZDUSD M5 2024-06-30 21:35:00 PUT 30
+Sinal inserido com sucesso.
+EURGBP-OTC M5 2024-06-30 21:30:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Buscando Ativos
+Ativos encontrados
+['NZDUSD', 'EU50-OTC', 'EURJPY', 'SP35-OTC', 'GER30-OTC', 'US30-OTC', 'UK100-OTC', 'SP500-OTC', 'FR40-OTC', 'GBPUSD', 'EURUSD', 'USNDAQ100-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'EU50-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+NZDUSD M5 2024-06-30 21:35:00 PUT 30
+Sinal inserido com sucesso.
+Buscando Ativos
+Ativos encontrados
+['EURUSD', 'GBPJPY', 'CADCHF', 'UK100-OTC', 'USNDAQ100-OTC', 'USDJPY', 'EU50-OTC', 'SP35-OTC', 'EURJPY', 'USDCAD', 'XAUUSD', 'AUS200-OTC', 'GBPUSD', 'FR40-OTC', 'NZDUSD', 'HK33-OTC', 'US30-OTC', 'GER30-OTC', 'SP500-OTC', 'EURGBP', 'JP225-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+EURGBP M5 2024-06-30 21:35:00 CALL 92
+Sinal inserido com sucesso.
+USDCHF-OTC M1 2024-06-30 21:36:00 PUT 92
+Sinal inserido com sucesso.
+GBPJPY-OTC M1 2024-06-30 21:36:00 CALL 92
+Sinal inserido com sucesso.
+Buscando Ativos
+Ativos encontrados
+['JP225-OTC', 'GBPUSD', 'NZDUSD', 'EURJPY', 'EURUSD', 'GER30-OTC', 'USDJPY', 'HK33-OTC', 'AUS200-OTC', 'SP35-OTC', 'USDCAD', 'XAUUSD', 'US30-OTC', 'UK100-OTC', 'USNDAQ100-OTC', 'GBPJPY', 'EURGBP', 'EU50-OTC', 'SP500-OTC', 'CADCHF', 'FR40-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Buscando Ativos
+Ativos encontrados
+['EURUSD', 'UK100-OTC', 'USNDAQ100-OTC', 'EURGBP', 'JP225-OTC', 'GER30-OTC', 'GBPJPY', 'SP500-OTC', 'CADCHF', 'US30-OTC', 'NZDUSD', 'GBPUSD', 'AUS200-OTC', 'XAUUSD', 'USDJPY', 'EURJPY', 'USDCAD', 'FR40-OTC', 'HK33-OTC', 'SP35-OTC', 'EU50-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Buscando Ativos
+Buscando Ativos
+Buscando Ativos
+Ativos encontrados
+['GBPJPY', 'EURGBP', 'AUS200-OTC', 'USDJPY', 'JP225-OTC', 'GBPUSD', 'US30-OTC', 'NZDUSD', 'CADCHF', 'EU50-OTC', 'XAUUSD', 'EURUSD', 'SP35-OTC', 'SP500-OTC', 'UK100-OTC', 'FR40-OTC', 'GER30-OTC', 'HK33-OTC', 'USDCAD', 'EURJPY', 'USNDAQ100-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Buscando Ativos
+Ativos encontrados
+['USDJPY', 'SP35-OTC', 'SP500-OTC', 'GBPUSD', 'UK100-OTC', 'EURJPY', 'NZDUSD', 'GER30-OTC', 'JP225-OTC', 'EURUSD', 'CADCHF', 'GBPJPY', 'XAUUSD', 'FR40-OTC', 'AUS200-OTC', 'EURGBP', 'EU50-OTC', 'USNDAQ100-OTC', 'HK33-OTC', 'US30-OTC', 'USDCAD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Mon Jul  1 06:40:48 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USDJPY', 'HK33-OTC', 'GER30-OTC', 'USDCAD', 'EU50-OTC', 'EURUSD', 'AUS200-OTC', 'EURGBP', 'FR40-OTC', 'XAUUSD', 'US30-OTC', 'JP225-OTC', 'GBPJPY', 'CADCHF', 'GBPUSD', 'SP500-OTC', 'USNDAQ100-OTC', 'UK100-OTC', 'SP35-OTC', 'NZDUSD', 'EURJPY', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+USDJPY M5 2024-07-01 06:45:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Mon Jul  1 06:44:03 2024: Stopping script ia.py
+Mon Jul  1 12:50:36 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['XAUUSD', 'FR40-OTC', 'GBPJPY', 'EURJPY', 'EURUSD', 'BAIDU', 'INTEL', 'MCDON', 'APPLE', 'MORSTAN', 'SP35-OTC', 'CADCHF', 'MSFT', 'GBPUSD', 'EURGBP', 'EU50-OTC', 'FACEBOOK', 'USDCAD', 'JPM', 'AUS200-OTC', 'GS', 'GER30-OTC', 'AIG', 'ALIBABA', 'NIKE', 'COKE', 'HK33-OTC', 'SNAP', 'UK100-OTC', 'CITI', 'TESLA', 'AMAZON', 'USDJPY', 'NZDUSD', 'GOOGLE', 'JP225-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'AUDCAD', 'NZDUSD', 'USDCHF', 'XAUUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'AUDUSD', 'USDCAD', 'USSPX500:N', 'USNDAQ100:N', 'US30:N', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPJPY M5 2024-07-01 06:45:00 PUT 90
+Sinal inserido com sucesso.
+EURJPY M5 2024-07-01 12:50:00 PUT 90
+Sinal inserido com sucesso.
+EURGBP M5 2024-07-01 12:55:00 PUT 90
+Sinal inserido com sucesso.
+USDJPY M1 2024-07-01 12:54:00 CALL 89
+Sinal inserido com sucesso.
+USDJPY M5 2024-07-01 12:55:00 PUT 89
+Sinal inserido com sucesso.
+EURGBP M1 2024-07-01 12:55:00 CALL 90
+Sinal inserido com sucesso.
+GBPJPY M1 2024-07-01 12:56:00 CALL 90
+Sinal inserido com sucesso.
+EURJPY M1 2024-07-01 12:56:00 CALL 90
+Sinal inserido com sucesso.
+NZDUSD M1 2024-07-01 12:57:00 PUT 30
+Sinal inserido com sucesso.
+USDCHF M1 2024-07-01 12:57:00 CALL 90
+Sinal inserido com sucesso.
+Mon Jul  1 13:50:36 2024: Stopping script ia.py
+Mon Jul  1 13:50:37 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['CITI', 'GBPJPY', 'UK100-OTC', 'SNAP', 'GS', 'AIG', 'GBPUSD', 'USDJPY', 'FACEBOOK', 'NIKE', 'GER30-OTC', 'NZDUSD', 'COKE', 'FR40-OTC', 'EURGBP', 'INTEL', 'BAIDU', 'AMAZON', 'EURJPY', 'GOOGLE', 'APPLE', 'XAUUSD', 'CADCHF', 'MCDON', 'JP225-OTC', 'TESLA', 'HK33-OTC', 'EU50-OTC', 'AUS200-OTC', 'MSFT', 'EURUSD', 'ALIBABA', 'MORSTAN', 'SP35-OTC', 'JPM', 'EURUSD', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCHF', 'XAUUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'AUDUSD', 'USDCAD', 'USSPX500:N', 'USNDAQ100:N', 'US30:N', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPJPY M5 2024-07-01 13:50:00 PUT 89
+Sinal inserido com sucesso.
+GBPUSD M5 2024-07-01 13:55:00 PUT 89
+Sinal inserido com sucesso.
+USDJPY M1 2024-07-01 13:53:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+GBPUSD-OTC M1 2024-07-01 13:55:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+EURJPY M5 2024-07-01 13:55:00 PUT 89
+Sinal inserido com sucesso.
+GBPJPY M1 2024-07-01 13:58:00 CALL 89
+Sinal inserido com sucesso.
+Mon Jul  1 14:50:37 2024: Stopping script ia.py
+Mon Jul  1 14:50:38 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['MSFT', 'FR40-OTC', 'JP225-OTC', 'GOOGLE', 'JPM', 'SNAP', 'GER30-OTC', 'EURJPY', 'CADCHF', 'CITI', 'ALIBABA', 'EU50-OTC', 'AUS200-OTC', 'MORSTAN', 'BAIDU', 'MCDON', 'UK100-OTC', 'INTEL', 'AMAZON', 'EURUSD', 'COKE', 'AIG', 'FACEBOOK', 'APPLE', 'SP35-OTC', 'NIKE', 'TESLA', 'NZDUSD', 'HK33-OTC', 'GBPUSD', 'GS', 'EURUSD', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'AUDUSD', 'USDCAD', 'USSPX500:N', 'USNDAQ100:N', 'US30:N', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURJPY M1 2024-07-01 14:52:00 PUT 87
+Sinal inserido com sucesso.
+EURUSD M5 2024-07-01 14:55:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+GBPJPY M1 2024-07-01 14:53:00 CALL 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Mon Jul  1 19:42:27 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EU50-OTC', 'GBPUSD-OTC', 'NZDUSD-OTC', 'US30-OTC', 'AUDCAD-OTC', 'USDCHF-OTC', 'EURGBP-OTC', 'AUS200-OTC', 'FR40-OTC', 'SP500-OTC', 'JP225-OTC', 'HK33-OTC', 'USNDAQ100-OTC', 'GER30-OTC', 'EURUSD-OTC', 'EURJPY-OTC', 'UK100-OTC', 'SP35-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPUSD-OTC M1 2024-07-01 15:40:00 CALL 87
+Sinal inserido com sucesso.
+GBPUSD-OTC M5 2024-07-01 15:40:00 PUT 87
+Sinal inserido com sucesso.
+EURGBP-OTC M5 2024-07-01 19:45:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas possui notícia
+AUDCAD-OTC M5 2024-07-01 19:50:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Mon Jul  1 19:49:53 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['FR40-OTC', 'HK33-OTC', 'EURUSD-OTC', 'SP35-OTC', 'AUDCAD-OTC', 'USDCHF-OTC', 'NZDUSD-OTC', 'UK100-OTC', 'US30-OTC', 'EU50-OTC', 'USNDAQ100-OTC', 'JP225-OTC', 'SP500-OTC', 'GER30-OTC', 'EURJPY-OTC', 'EURGBP-OTC', 'AUS200-OTC', 'GBPUSD-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Mon Jul  1 19:50:56 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['AUS200-OTC', 'US30-OTC', 'FR40-OTC', 'AUDCAD-OTC', 'UK100-OTC', 'USNDAQ100-OTC', 'SP35-OTC', 'EURJPY-OTC', 'GBPUSD-OTC', 'EU50-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'JP225-OTC', 'HK33-OTC', 'GER30-OTC', 'SP500-OTC', 'NZDUSD-OTC', 'EURUSD-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURJPY-OTC M5 2024-07-01 19:55:00 PUT 87
+Sinal inserido com sucesso.
+EURGBP-OTC M1 2024-07-01 19:53:00 CALL 87
+Sinal inserido com sucesso.
+EURGBP-OTC M5 2024-07-01 19:55:00 PUT 87
+Sinal inserido com sucesso.
+EURUSD-OTC M1 2024-07-01 19:54:00 CALL 87
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Mon Jul  1 19:53:42 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['UK100-OTC', 'AUDCAD-OTC', 'NZDUSD-OTC', 'HK33-OTC', 'USNDAQ100-OTC', 'SP35-OTC', 'EURUSD-OTC', 'JP225-OTC', 'EURJPY-OTC', 'AUS200-OTC', 'FR40-OTC', 'US30-OTC', 'USDCHF-OTC', 'GER30-OTC', 'GBPUSD-OTC', 'EURGBP-OTC', 'SP500-OTC', 'EU50-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Mon Jul  1 19:56:10 2024: Stopping script ia.py
+Mon Jul  1 19:56:54 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GBPUSD-OTC', 'USNDAQ100-OTC', 'EURGBP-OTC', 'EURJPY-OTC', 'EURUSD-OTC', 'GER30-OTC', 'HK33-OTC', 'EU50-OTC', 'AUS200-OTC', 'JP225-OTC', 'USDCHF-OTC', 'SP35-OTC', 'SP500-OTC', 'FR40-OTC', 'UK100-OTC', 'US30-OTC', 'NZDUSD-OTC', 'AUDCAD-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURGBP-OTC M1 2024-07-01 19:58:00 CALL 87
+Sinal inserido com sucesso.
+Mon Jul  1 20:07:00 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP35-OTC', 'SP500-OTC', 'US30-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'AUDCAD-OTC', 'USDCHF-OTC', 'EURJPY-OTC', 'EU50-OTC', 'HK33-OTC', 'GBPUSD-OTC', 'UK100-OTC', 'USNDAQ100-OTC', 'FR40-OTC', 'JP225-OTC', 'GER30-OTC', 'NZDUSD-OTC', 'AUS200-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURUSD-OTC M5 2024-07-01 20:05:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+USDCHF-OTC M5 2024-07-01 20:15:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+NZDUSD-OTC M5 2024-07-01 20:20:00 CALL 87
+Sinal inserido com sucesso.
+Mon Jul  1 20:24:39 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GER30-OTC', 'EURJPY-OTC', 'FR40-OTC', 'JP225-OTC', 'UK100-OTC', 'SP35-OTC', 'SP500-OTC', 'US30-OTC', 'GBPUSD-OTC', 'NZDUSD-OTC', 'USNDAQ100-OTC', 'USDCHF-OTC', 'EU50-OTC', 'EURGBP-OTC', 'HK33-OTC', 'AUS200-OTC', 'EURUSD-OTC', 'AUDCAD-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+EURUSD-OTC M5 2024-07-01 20:25:00 PUT 87
+Sinal inserido com sucesso.
+Mon Jul  1 20:28:10 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'AUS200-OTC', 'GER30-OTC', 'EURUSD-OTC', 'JP225-OTC', 'EURJPY-OTC', 'FR40-OTC', 'EURGBP-OTC', 'SP500-OTC', 'GBPUSD-OTC', 'NZDUSD-OTC', 'UK100-OTC', 'EU50-OTC', 'HK33-OTC', 'SP35-OTC', 'USDCHF-OTC', 'USNDAQ100-OTC', 'AUDCAD-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+GBPUSD-OTC M5 2024-07-01 20:30:00 CALL 87
+Sinal inserido com sucesso.
+Mon Jul  1 20:29:43 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'FR40-OTC', 'EURUSD-OTC', 'EURJPY-OTC', 'USDCHF-OTC', 'AUDCAD-OTC', 'SP35-OTC', 'NZDUSD-OTC', 'GER30-OTC', 'EURGBP-OTC', 'HK33-OTC', 'AUS200-OTC', 'GBPUSD-OTC', 'EU50-OTC', 'USNDAQ100-OTC', 'SP500-OTC', 'UK100-OTC', 'JP225-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+EURUSD-OTC M5 2024-07-01 20:35:00 PUT 87
+Sinal inserido com sucesso.
+Mon Jul  1 20:37:04 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURUSD-OTC', 'SP35-OTC', 'HK33-OTC', 'EURGBP-OTC', 'SP500-OTC', 'EURJPY-OTC', 'USDCHF-OTC', 'JP225-OTC', 'UK100-OTC', 'NZDUSD-OTC', 'GBPUSD-OTC', 'EU50-OTC', 'FR40-OTC', 'US30-OTC', 'USNDAQ100-OTC', 'AUDCAD-OTC', 'GER30-OTC', 'AUS200-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURUSD-OTC M5 2024-07-01 20:40:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Mon Jul  1 20:42:58 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['FR40-OTC', 'USNDAQ100-OTC', 'NZDUSD-OTC', 'EURGBP-OTC', 'SP35-OTC', 'HK33-OTC', 'UK100-OTC', 'US30-OTC', 'GBPUSD-OTC', 'AUDCAD-OTC', 'SP500-OTC', 'AUS200-OTC', 'EURJPY-OTC', 'USDCHF-OTC', 'GER30-OTC', 'JP225-OTC', 'EU50-OTC', 'EURUSD-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+NZDUSD-OTC M5 2024-07-01 20:45:00 PUT 87
+Sinal inserido com sucesso.
+Mon Jul  1 20:44:12 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['HK33-OTC', 'EURGBP-OTC', 'FR40-OTC', 'EURJPY-OTC', 'USNDAQ100-OTC', 'AUDCAD-OTC', 'GBPUSD-OTC', 'SP35-OTC', 'NZDUSD-OTC', 'UK100-OTC', 'GER30-OTC', 'EURUSD-OTC', 'EU50-OTC', 'SP500-OTC', 'USDCHF-OTC', 'JP225-OTC', 'AUS200-OTC', 'US30-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+AUDCAD-OTC M5 2024-07-01 20:45:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Mon Jul  1 20:45:42 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURUSD-OTC', 'US30-OTC', 'GBPUSD-OTC', 'EU50-OTC', 'GER30-OTC', 'EURJPY-OTC', 'USDCHF-OTC', 'HK33-OTC', 'EURGBP-OTC', 'UK100-OTC', 'FR40-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'NZDUSD-OTC', 'SP35-OTC', 'AUDCAD-OTC', 'AUS200-OTC', 'JP225-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Mon Jul  1 20:46:56 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURJPY-OTC', 'NZDUSD-OTC', 'GBPUSD-OTC', 'AUS200-OTC', 'USDCHF-OTC', 'EURUSD-OTC', 'UK100-OTC', 'HK33-OTC', 'EU50-OTC', 'EURGBP-OTC', 'JP225-OTC', 'AUDCAD-OTC', 'US30-OTC', 'FR40-OTC', 'GER30-OTC', 'USNDAQ100-OTC', 'SP35-OTC', 'SP500-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+NZDUSD-OTC M5 2024-07-01 20:50:00 PUT 87
+Sinal inserido com sucesso.
+Mon Jul  1 20:47:56 2024: Stopping script ia.py
+Mon Jul  1 20:47:57 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['NZDUSD-OTC', 'EU50-OTC', 'FR40-OTC', 'AUDCAD-OTC', 'SP500-OTC', 'HK33-OTC', 'USNDAQ100-OTC', 'SP35-OTC', 'US30-OTC', 'AUS200-OTC', 'EURJPY-OTC', 'USDCHF-OTC', 'UK100-OTC', 'JP225-OTC', 'EURUSD-OTC', 'GBPUSD-OTC', 'GER30-OTC', 'EURGBP-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Mon Jul  1 20:48:57 2024: Stopping script ia.py
+Mon Jul  1 20:48:58 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['JP225-OTC', 'EURGBP-OTC', 'EURUSD-OTC', 'GBPUSD-OTC', 'EURJPY-OTC', 'USDCHF-OTC', 'NZDUSD-OTC', 'GER30-OTC', 'US30-OTC', 'EU50-OTC', 'USNDAQ100-OTC', 'UK100-OTC', 'AUS200-OTC', 'SP35-OTC', 'HK33-OTC', 'SP500-OTC', 'FR40-OTC', 'AUDCAD-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Mon Jul  1 20:49:58 2024: Stopping script ia.py
+Mon Jul  1 20:49:59 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GER30-OTC', 'US30-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'EU50-OTC', 'SP35-OTC', 'GBPUSD-OTC', 'USNDAQ100-OTC', 'EURJPY-OTC', 'JP225-OTC', 'SP500-OTC', 'EURUSD-OTC', 'AUS200-OTC', 'HK33-OTC', 'NZDUSD-OTC', 'UK100-OTC', 'AUDCAD-OTC', 'FR40-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Mon Jul  1 20:51:02 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['FR40-OTC', 'EURGBP-OTC', 'EU50-OTC', 'GER30-OTC', 'EURUSD-OTC', 'US30-OTC', 'AUDCAD-OTC', 'HK33-OTC', 'EURJPY-OTC', 'SP35-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'NZDUSD-OTC', 'AUS200-OTC', 'GBPUSD-OTC', 'USDCHF-OTC', 'UK100-OTC', 'JP225-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURUSD-OTC M5 2024-07-01 20:55:00 PUT 87
+Sinal inserido com sucesso.
+Mon Jul  1 20:52:02 2024: Stopping script ia.py
+Mon Jul  1 20:52:03 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURJPY-OTC', 'AUS200-OTC', 'FR40-OTC', 'GER30-OTC', 'SP35-OTC', 'EURUSD-OTC', 'GBPUSD-OTC', 'NZDUSD-OTC', 'USNDAQ100-OTC', 'JP225-OTC', 'HK33-OTC', 'US30-OTC', 'EU50-OTC', 'SP500-OTC', 'UK100-OTC', 'AUDCAD-OTC', 'USDCHF-OTC', 'EURGBP-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Mon Jul  1 20:53:03 2024: Stopping script ia.py
+Mon Jul  1 20:53:04 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP500-OTC', 'GBPUSD-OTC', 'EU50-OTC', 'SP35-OTC', 'GER30-OTC', 'AUS200-OTC', 'AUDCAD-OTC', 'NZDUSD-OTC', 'EURGBP-OTC', 'UK100-OTC', 'HK33-OTC', 'US30-OTC', 'EURUSD-OTC', 'EURJPY-OTC', 'JP225-OTC', 'USNDAQ100-OTC', 'USDCHF-OTC', 'FR40-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Mon Jul  1 20:54:04 2024: Stopping script ia.py
+Mon Jul  1 20:54:05 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['FR40-OTC', 'USNDAQ100-OTC', 'SP35-OTC', 'EURUSD-OTC', 'GER30-OTC', 'GBPUSD-OTC', 'EURJPY-OTC', 'US30-OTC', 'SP500-OTC', 'UK100-OTC', 'AUDCAD-OTC', 'JP225-OTC', 'EURGBP-OTC', 'AUS200-OTC', 'NZDUSD-OTC', 'HK33-OTC', 'USDCHF-OTC', 'EU50-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Mon Jul  1 20:55:06 2024: Stopping script ia.py
+Mon Jul  1 20:55:07 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURGBP-OTC', 'UK100-OTC', 'AUS200-OTC', 'SP35-OTC', 'GER30-OTC', 'HK33-OTC', 'NZDUSD-OTC', 'US30-OTC', 'GBPUSD-OTC', 'USNDAQ100-OTC', 'FR40-OTC', 'USDCHF-OTC', 'AUDCAD-OTC', 'JP225-OTC', 'EURUSD-OTC', 'EU50-OTC', 'SP500-OTC', 'EURJPY-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Mon Jul  1 20:56:07 2024: Stopping script ia.py
+Mon Jul  1 20:56:08 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['JP225-OTC', 'EURUSD-OTC', 'EU50-OTC', 'UK100-OTC', 'AUS200-OTC', 'EURJPY-OTC', 'HK33-OTC', 'USDCHF-OTC', 'SP500-OTC', 'GER30-OTC', 'US30-OTC', 'AUDCAD-OTC', 'GBPUSD-OTC', 'NZDUSD-OTC', 'USNDAQ100-OTC', 'FR40-OTC', 'EURGBP-OTC', 'SP35-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Mon Jul  1 20:57:04 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURJPY-OTC', 'SP35-OTC', 'EU50-OTC', 'NZDUSD-OTC', 'SP500-OTC', 'USDCHF-OTC', 'EURGBP-OTC', 'EURUSD-OTC', 'UK100-OTC', 'USNDAQ100-OTC', 'HK33-OTC', 'AUS200-OTC', 'GER30-OTC', 'US30-OTC', 'FR40-OTC', 'AUDCAD-OTC', 'JP225-OTC', 'GBPUSD-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Mon Jul  1 20:57:51 2024: Stopping script ia.py
+Mon Jul  1 20:58:08 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EU50-OTC', 'USNDAQ100-OTC', 'SP500-OTC', 'USDCHF-OTC', 'AUDCAD-OTC', 'HK33-OTC', 'US30-OTC', 'FR40-OTC', 'GBPUSD-OTC', 'EURUSD-OTC', 'NZDUSD-OTC', 'UK100-OTC', 'SP35-OTC', 'AUS200-OTC', 'EURGBP-OTC', 'GER30-OTC', 'JP225-OTC', 'EURJPY-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Mon Jul  1 21:00:53 2024: Starting script ia.py
+Buscando Ativos
+Erro ao buscar os Ativos: Expecting value: line 1 column 2 (char 1)
+Utilizando Ativos padrões
+['EURUSD', 'GBPUSD', 'USDJPY', 'USDCHF', 'AUDUSD', 'USDCAD', 'NZDUSD', 'EURGBP', 'EURJPY', 'GBPJPY', 'EURAUD', 'EURCHF', 'GBPCHF', 'AUDJPY', 'NZDJPY', 'AUDNZD', 'GBPAUD', 'EURUSD-OTC', 'GBPUSD-OTC', 'USDJPY-OTC', 'USDCHF-OTC', 'AUDUSD-OTC', 'USDCAD-OTC', 'NZDUSD-OTC', 'EURGBP-OTC', 'EURJPY-OTC', 'GBPJPY-OTC', 'EURAUD-OTC', 'EURCHF-OTC', 'GBPCHF-OTC', 'AUDJPY-OTC', 'NZDJPY-OTC', 'AUDNZD-OTC', 'GBPAUD-OTC']
+Mon Jul  1 21:01:50 2024: Stopping script ia.py
+Mon Jul  1 21:14:25 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURUSD', 'EURJPY-OTC', 'UK100-OTC', 'JP225-OTC', 'USDCHF-OTC', 'EU50-OTC', 'EURJPY', 'USNDAQ100-OTC', 'GER30-OTC', 'NZDUSD', 'AUS200-OTC', 'HK33-OTC', 'SP35-OTC', 'AUDCAD-OTC', 'NZDUSD-OTC', 'GBPUSD-OTC', 'US30-OTC', 'GBPUSD', 'FR40-OTC', 'EURGBP-OTC', 'EURUSD-OTC', 'SP500-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Mon Jul  1 21:15:55 2024: Stopping script ia.py
+Mon Jul  1 21:18:51 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURGBP-OTC', 'JP225-OTC', 'SP500-OTC', 'NZDUSD', 'EURJPY-OTC', 'NZDUSD-OTC', 'FR40-OTC', 'SP35-OTC', 'HK33-OTC', 'EURJPY', 'AUS200-OTC', 'GBPUSD', 'GBPUSD-OTC', 'AUDCAD-OTC', 'USDCHF-OTC', 'USNDAQ100-OTC', 'UK100-OTC', 'EU50-OTC', 'US30-OTC', 'EURUSD-OTC', 'EURUSD', 'GER30-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+NZDUSD M5 2024-07-01 21:25:00 CALL 30
+Sinal inserido com sucesso.
+EURJPY-OTC M5 2024-07-01 21:20:00 PUT 87
+Sinal inserido com sucesso.
+Mon Jul  1 21:20:03 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USDCHF-OTC', 'EU50-OTC', 'UK100-OTC', 'USNDAQ100-OTC', 'AUDCAD-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'SP500-OTC', 'GBPUSD', 'NZDUSD-OTC', 'US30-OTC', 'JP225-OTC', 'EURJPY-OTC', 'FR40-OTC', 'GER30-OTC', 'NZDUSD', 'EURUSD', 'HK33-OTC', 'EURJPY', 'SP35-OTC', 'GBPUSD-OTC', 'AUS200-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+USDCHF-OTC M5 2024-07-01 21:25:00 CALL 87
+Sinal inserido com sucesso.
+AUDCAD-OTC M5 2024-07-01 21:25:00 PUT 87
+Sinal inserido com sucesso.
+EURJPY-OTC M5 2024-07-01 21:25:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Mon Jul  1 21:22:40 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GBPUSD', 'EURGBP-OTC', 'HK33-OTC', 'EURUSD-OTC', 'EU50-OTC', 'UK100-OTC', 'USNDAQ100-OTC', 'AUDCAD-OTC', 'GER30-OTC', 'US30-OTC', 'USDCHF-OTC', 'AUS200-OTC', 'NZDUSD-OTC', 'EURUSD', 'FR40-OTC', 'EURJPY-OTC', 'EURJPY', 'NZDUSD', 'SP500-OTC', 'JP225-OTC', 'GBPUSD-OTC', 'SP35-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+EURUSD M5 2024-07-01 21:30:00 PUT 87
+Sinal inserido com sucesso.
+EURJPY-OTC M5 2024-07-01 21:25:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Mon Jul  1 21:30:40 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['AUDCAD-OTC', 'EURGBP-OTC', 'EURUSD', 'USDCHF-OTC', 'GER30-OTC', 'GBPUSD', 'NZDUSD-OTC', 'US30-OTC', 'NZDUSD', 'GBPUSD-OTC', 'SP35-OTC', 'JP225-OTC', 'SP500-OTC', 'EURJPY-OTC', 'EURJPY', 'FR40-OTC', 'HK33-OTC', 'AUS200-OTC', 'UK100-OTC', 'EURUSD-OTC', 'EU50-OTC', 'USNDAQ100-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURUSD M5 2024-07-01 21:35:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Mon Jul  1 21:32:45 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['JP225-OTC', 'USDCHF-OTC', 'US30-OTC', 'GER30-OTC', 'AUDCAD-OTC', 'EURUSD', 'EURUSD-OTC', 'SP35-OTC', 'EU50-OTC', 'UK100-OTC', 'SP500-OTC', 'HK33-OTC', 'NZDUSD', 'EURJPY-OTC', 'GBPUSD-OTC', 'EURJPY', 'USNDAQ100-OTC', 'FR40-OTC', 'GBPUSD', 'AUS200-OTC', 'NZDUSD-OTC', 'EURGBP-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+NZDUSD M5 2024-07-01 21:40:00 PUT 30
+Sinal inserido com sucesso.
+GBPUSD M5 2024-07-01 21:40:00 PUT 87
+Sinal inserido com sucesso.
+EURUSD M5 2024-07-01 21:45:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+GBPJPY-OTC M5 2024-07-01 21:45:00 PUT 87
+Sinal inserido com sucesso.
+GBPUSD-OTC M5 2024-07-01 21:50:00 PUT 87
+Sinal inserido com sucesso.
+EURJPY-OTC M5 2024-07-01 21:50:00 PUT 87
+Sinal inserido com sucesso.
+Mon Jul  1 21:48:49 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['AUDCAD-OTC', 'NZDUSD', 'GBPUSD-OTC', 'JP225-OTC', 'SP35-OTC', 'NZDUSD-OTC', 'GER30-OTC', 'HK33-OTC', 'US30-OTC', 'EURJPY', 'EURGBP-OTC', 'USNDAQ100-OTC', 'EURJPY-OTC', 'EURUSD-OTC', 'EU50-OTC', 'EURUSD', 'FR40-OTC', 'USDCHF-OTC', 'SP500-OTC', 'UK100-OTC', 'GBPUSD', 'AUS200-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPUSD-OTC M5 2024-07-01 21:55:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Mon Jul  1 21:54:10 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['HK33-OTC', 'SP35-OTC', 'JP225-OTC', 'US30-OTC', 'GBPUSD', 'AUS200-OTC', 'USNDAQ100-OTC', 'GER30-OTC', 'SP500-OTC', 'EURJPY', 'EU50-OTC', 'FR40-OTC', 'EURUSD', 'UK100-OTC', 'NZDUSD', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPUSD M5 2024-07-01 22:00:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Mon Jul  1 21:59:37 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['AUS200-OTC', 'SP35-OTC', 'HK33-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'EURUSD', 'EU50-OTC', 'GER30-OTC', 'JP225-OTC', 'EURJPY', 'UK100-OTC', 'GBPUSD', 'FR40-OTC', 'US30-OTC', 'NZDUSD', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tue Jul  2 05:15:44 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'USDJPY', 'EURJPY', 'XAUUSD', 'GBPUSD', 'GBPJPY', 'EURUSD', 'CADCHF', 'EURGBP', 'SP500-OTC', 'USNDAQ100-OTC', 'NZDUSD', 'HK33-OTC', 'AUS200-OTC', 'JP225-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'AUS200-OTC', 'HK33-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Tue Jul  2 05:27:09 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURJPY', 'AUS200-OTC', 'USDJPY', 'NZDUSD', 'GBPUSD', 'JP225-OTC', 'EURUSD', 'XAUUSD', 'US30-OTC', 'CADCHF', 'USNDAQ100-OTC', 'EURGBP', 'SP500-OTC', 'GBPJPY', 'HK33-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'AUS200-OTC', 'HK33-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+NZDUSD M5 2024-07-02 05:30:00 PUT 30
+Sinal inserido com sucesso.
+Tue Jul  2 05:28:44 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['CADCHF', 'GBPJPY', 'AUS200-OTC', 'HK33-OTC', 'XAUUSD', 'USNDAQ100-OTC', 'USDJPY', 'EURJPY', 'EURUSD', 'GBPUSD', 'NZDUSD', 'SP500-OTC', 'US30-OTC', 'EURGBP', 'JP225-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'AUS200-OTC', 'HK33-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tue Jul  2 05:29:20 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GBPJPY', 'USNDAQ100-OTC', 'US30-OTC', 'EURJPY', 'HK33-OTC', 'AUS200-OTC', 'EURGBP', 'EURUSD', 'SP500-OTC', 'GBPUSD', 'JP225-OTC', 'NZDUSD', 'CADCHF', 'USDJPY', 'XAUUSD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'AUS200-OTC', 'HK33-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURGBP M5 2024-07-02 05:35:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+NZDUSD M5 2024-07-02 05:35:00 PUT 30
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+AUDUSD M5 2024-07-02 05:35:00 PUT 87
+Sinal inserido com sucesso.
+Tue Jul  2 05:33:46 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'GBPJPY', 'EURUSD', 'GER30-OTC', 'HK33-OTC', 'EU50-OTC', 'UK100-OTC', 'GBPUSD', 'AUS200-OTC', 'JP225-OTC', 'USDJPY', 'CADCHF', 'USNDAQ100-OTC', 'FR40-OTC', 'SP35-OTC', 'EURJPY', 'XAUUSD', 'NZDUSD', 'EURGBP', 'SP500-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Tue Jul  2 05:39:05 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURUSD', 'HK33-OTC', 'EU50-OTC', 'USNDAQ100-OTC', 'GER30-OTC', 'US30-OTC', 'NZDUSD', 'EURGBP', 'XAUUSD', 'AUS200-OTC', 'JP225-OTC', 'GBPJPY', 'CADCHF', 'FR40-OTC', 'EURJPY', 'SP35-OTC', 'USDJPY', 'GBPUSD', 'SP500-OTC', 'UK100-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+USDCAD M5 2024-07-02 05:45:00 PUT 87
+Sinal inserido com sucesso.
+Tue Jul  2 05:43:30 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EU50-OTC', 'GER30-OTC', 'FR40-OTC', 'SP500-OTC', 'GBPUSD', 'XAUUSD', 'USDJPY', 'HK33-OTC', 'US30-OTC', 'EURUSD', 'CADCHF', 'EURGBP', 'JP225-OTC', 'GBPJPY', 'EURJPY', 'UK100-OTC', 'USNDAQ100-OTC', 'AUS200-OTC', 'NZDUSD', 'SP35-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Uma das moedas possui notícia
+USDCAD M5 2024-07-02 05:50:00 PUT 87
+Sinal inserido com sucesso.
+Tue Jul  2 05:48:57 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USNDAQ100-OTC', 'NZDUSD', 'SP35-OTC', 'EURUSD', 'US30-OTC', 'AUS200-OTC', 'USDJPY', 'SP500-OTC', 'EU50-OTC', 'GBPUSD', 'XAUUSD', 'EURGBP', 'JP225-OTC', 'EURJPY', 'GER30-OTC', 'GBPJPY', 'CADCHF', 'FR40-OTC', 'UK100-OTC', 'HK33-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+USDJPY M5 2024-07-02 05:55:00 PUT 89
+Sinal inserido com sucesso.
+Tue Jul  2 05:50:19 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURGBP', 'US30-OTC', 'AUS200-OTC', 'SP500-OTC', 'XAUUSD', 'GBPJPY', 'USNDAQ100-OTC', 'JP225-OTC', 'GBPUSD', 'EU50-OTC', 'USDJPY', 'NZDUSD', 'SP35-OTC', 'HK33-OTC', 'EURUSD', 'GER30-OTC', 'EURJPY', 'UK100-OTC', 'FR40-OTC', 'CADCHF', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPJPY M5 2024-07-02 05:55:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Tue Jul  2 05:53:13 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EU50-OTC', 'EURGBP', 'SP500-OTC', 'USNDAQ100-OTC', 'XAUUSD', 'JP225-OTC', 'HK33-OTC', 'EURUSD', 'CADCHF', 'AUS200-OTC', 'US30-OTC', 'SP35-OTC', 'EURJPY', 'UK100-OTC', 'GER30-OTC', 'GBPJPY', 'FR40-OTC', 'GBPUSD', 'USDJPY', 'NZDUSD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+GBPJPY M5 2024-07-02 06:00:00 PUT 87
+Sinal inserido com sucesso.
+USDJPY M5 2024-07-02 06:00:00 PUT 89
+Sinal inserido com sucesso.
+Tue Jul  2 05:55:30 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['UK100-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP500-OTC', 'EU50-OTC', 'EURUSD', 'SP35-OTC', 'HK33-OTC', 'CADCHF', 'AUS200-OTC', 'JP225-OTC', 'GER30-OTC', 'XAUUSD', 'GBPJPY', 'GBPUSD', 'EURGBP', 'NZDUSD', 'FR40-OTC', 'USDJPY', 'EURJPY', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPJPY M5 2024-07-02 06:00:00 PUT 87
+Sinal inserido com sucesso.
+Tue Jul  2 05:56:24 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['XAUUSD', 'HK33-OTC', 'GBPUSD', 'UK100-OTC', 'SP500-OTC', 'EURJPY', 'USNDAQ100-OTC', 'SP35-OTC', 'US30-OTC', 'GBPJPY', 'EU50-OTC', 'USDJPY', 'CADCHF', 'EURUSD', 'NZDUSD', 'AUS200-OTC', 'GER30-OTC', 'EURGBP', 'JP225-OTC', 'FR40-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPJPY M5 2024-07-02 06:00:00 PUT 87
+Sinal inserido com sucesso.
+USDCAD M5 2024-07-02 06:05:00 PUT 87
+Sinal inserido com sucesso.
+Tue Jul  2 06:00:18 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['AUS200-OTC', 'FR40-OTC', 'US30-OTC', 'CADCHF', 'XAUUSD', 'GBPUSD', 'NZDUSD', 'JP225-OTC', 'HK33-OTC', 'SP500-OTC', 'GBPJPY', 'EU50-OTC', 'UK100-OTC', 'EURUSD', 'USDCAD', 'EURGBP', 'SP35-OTC', 'GER30-OTC', 'USNDAQ100-OTC', 'USDJPY', 'EURJPY', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPJPY M5 2024-07-02 06:05:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Tue Jul  2 06:01:51 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GER30-OTC', 'EU50-OTC', 'XAUUSD', 'UK100-OTC', 'EURUSD', 'USDJPY', 'CADCHF', 'SP35-OTC', 'HK33-OTC', 'SP500-OTC', 'USDCAD', 'FR40-OTC', 'NZDUSD', 'EURGBP', 'EURJPY', 'AUS200-OTC', 'GBPJPY', 'JP225-OTC', 'US30-OTC', 'GBPUSD', 'USNDAQ100-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+GBPJPY M5 2024-07-02 06:05:00 PUT 87
+Sinal inserido com sucesso.
+Tue Jul  2 06:04:03 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['HK33-OTC', 'FR40-OTC', 'SP35-OTC', 'EURJPY', 'AUS200-OTC', 'GER30-OTC', 'USNDAQ100-OTC', 'UK100-OTC', 'USDJPY', 'SP500-OTC', 'NZDUSD', 'EURUSD', 'EURGBP', 'GBPJPY', 'USDCAD', 'US30-OTC', 'CADCHF', 'JP225-OTC', 'XAUUSD', 'GBPUSD', 'EU50-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPJPY M5 2024-07-02 06:10:00 PUT 87
+Sinal inserido com sucesso.
+USDCAD M5 2024-07-02 06:10:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Tue Jul  2 06:06:37 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EU50-OTC', 'USNDAQ100-OTC', 'GER30-OTC', 'GBPUSD', 'NZDUSD', 'SP500-OTC', 'USDCAD', 'HK33-OTC', 'AUS200-OTC', 'EURJPY', 'EURUSD', 'JP225-OTC', 'GBPJPY', 'CADCHF', 'EURGBP', 'SP35-OTC', 'UK100-OTC', 'FR40-OTC', 'USDJPY', 'XAUUSD', 'US30-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tue Jul  2 06:07:25 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURUSD', 'GBPUSD', 'CADCHF', 'SP500-OTC', 'EURJPY', 'XAUUSD', 'HK33-OTC', 'GBPJPY', 'EU50-OTC', 'USDCAD', 'GER30-OTC', 'AUS200-OTC', 'EURGBP', 'JP225-OTC', 'FR40-OTC', 'US30-OTC', 'SP35-OTC', 'USNDAQ100-OTC', 'NZDUSD', 'USDJPY', 'UK100-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Uma das moedas já possui sinal: 
+Tue Jul  2 06:09:01 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURJPY', 'GER30-OTC', 'US30-OTC', 'HK33-OTC', 'GBPJPY', 'NZDUSD', 'EURUSD', 'EU50-OTC', 'USDCAD', 'SP35-OTC', 'SP500-OTC', 'USDJPY', 'EURGBP', 'GBPUSD', 'AUS200-OTC', 'FR40-OTC', 'JP225-OTC', 'XAUUSD', 'CADCHF', 'UK100-OTC', 'USNDAQ100-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+USDCAD M5 2024-07-02 06:15:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas possui notícia
+Tue Jul  2 06:11:45 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USDJPY', 'GBPUSD', 'XAUUSD', 'HK33-OTC', 'US30-OTC', 'EURGBP', 'GBPJPY', 'GER30-OTC', 'EU50-OTC', 'UK100-OTC', 'SP500-OTC', 'EURUSD', 'CADCHF', 'EURJPY', 'USNDAQ100-OTC', 'AUS200-OTC', 'SP35-OTC', 'FR40-OTC', 'NZDUSD', 'JP225-OTC', 'USDCAD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Uma das moedas possui notícia
+GBPJPY M5 2024-07-02 06:15:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Uma das moedas já possui sinal: 
+Uma das moedas possui notícia
+Tue Jul  2 06:15:08 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['FR40-OTC', 'GBPJPY', 'USDJPY', 'XAUUSD', 'EURJPY', 'US30-OTC', 'GBPUSD', 'SP500-OTC', 'GER30-OTC', 'JP225-OTC', 'SP35-OTC', 'EU50-OTC', 'NZDUSD', 'USNDAQ100-OTC', 'USDCAD', 'UK100-OTC', 'AUS200-OTC', 'CADCHF', 'HK33-OTC', 'EURUSD', 'EURGBP', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+USDCAD M5 2024-07-02 06:20:00 PUT 87
+Sinal inserido com sucesso.
+Tue Jul  2 06:17:25 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['JP225-OTC', 'XAUUSD', 'EURGBP', 'HK33-OTC', 'EU50-OTC', 'AUS200-OTC', 'US30-OTC', 'SP35-OTC', 'EURJPY', 'FR40-OTC', 'SP500-OTC', 'UK100-OTC', 'GBPUSD', 'USDJPY', 'USNDAQ100-OTC', 'NZDUSD', 'CADCHF', 'EURUSD', 'USDCAD', 'GER30-OTC', 'GBPJPY', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Tue Jul  2 06:18:27 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP35-OTC', 'UK100-OTC', 'GBPUSD', 'GER30-OTC', 'EURGBP', 'EURJPY', 'CADCHF', 'FR40-OTC', 'AUS200-OTC', 'HK33-OTC', 'USDJPY', 'SP500-OTC', 'XAUUSD', 'US30-OTC', 'USDCAD', 'GBPJPY', 'NZDUSD', 'USNDAQ100-OTC', 'EURUSD', 'EU50-OTC', 'JP225-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+EURJPY M5 2024-07-02 06:25:00 PUT 87
+Sinal inserido com sucesso.
+USDJPY M5 2024-07-02 06:25:00 PUT 89
+Sinal inserido com sucesso.
+USDCAD M5 2024-07-02 06:25:00 PUT 87
+Sinal inserido com sucesso.
+GBPJPY M5 2024-07-02 06:25:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Tue Jul  2 06:24:20 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['NZDUSD', 'GBPUSD', 'EURUSD', 'GBPJPY', 'EU50-OTC', 'AUS200-OTC', 'FR40-OTC', 'HK33-OTC', 'XAUUSD', 'GER30-OTC', 'EURGBP', 'US30-OTC', 'USDCAD', 'SP500-OTC', 'SP35-OTC', 'EURJPY', 'USDJPY', 'UK100-OTC', 'USNDAQ100-OTC', 'JP225-OTC', 'CADCHF', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPUSD M5 2024-07-02 06:30:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+EURJPY M5 2024-07-02 06:30:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Tue Jul  2 06:32:32 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['CADCHF', 'US30-OTC', 'HK33-OTC', 'GBPUSD', 'SP35-OTC', 'FR40-OTC', 'GBPJPY', 'EURJPY', 'XAUUSD', 'USNDAQ100-OTC', 'GER30-OTC', 'EURUSD', 'EU50-OTC', 'NZDUSD', 'UK100-OTC', 'EURGBP', 'SP500-OTC', 'USDJPY', 'USDCAD', 'AUS200-OTC', 'JP225-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURJPY M5 2024-07-02 06:35:00 PUT 87
+Sinal inserido com sucesso.
+EURUSD M5 2024-07-02 06:35:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+GBPUSD M5 2024-07-02 06:40:00 PUT 87
+Sinal inserido com sucesso.
+Tue Jul  2 06:39:25 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GBPUSD', 'EU50-OTC', 'AUS200-OTC', 'FR40-OTC', 'CADCHF', 'UK100-OTC', 'EURGBP', 'GBPJPY', 'EURUSD', 'USDJPY', 'USNDAQ100-OTC', 'SP500-OTC', 'JP225-OTC', 'SP35-OTC', 'USDCAD', 'GER30-OTC', 'HK33-OTC', 'EURJPY', 'XAUUSD', 'US30-OTC', 'NZDUSD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURGBP M5 2024-07-02 06:45:00 PUT 87
+Sinal inserido com sucesso.
+Tue Jul  2 06:42:13 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USDCAD', 'CADCHF', 'SP500-OTC', 'USDJPY', 'JP225-OTC', 'HK33-OTC', 'EU50-OTC', 'FR40-OTC', 'NZDUSD', 'GBPUSD', 'GBPJPY', 'GER30-OTC', 'SP35-OTC', 'US30-OTC', 'EURGBP', 'UK100-OTC', 'USNDAQ100-OTC', 'AUS200-OTC', 'EURUSD', 'XAUUSD', 'EURJPY', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+EURGBP M5 2024-07-02 06:50:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+NZDUSD M5 2024-07-02 06:50:00 PUT 30
+Sinal inserido com sucesso.
+Tue Jul  2 06:46:44 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['JP225-OTC', 'GBPUSD', 'EURUSD', 'US30-OTC', 'EU50-OTC', 'NZDUSD', 'SP500-OTC', 'USNDAQ100-OTC', 'AUS200-OTC', 'CADCHF', 'USDJPY', 'EURGBP', 'GER30-OTC', 'UK100-OTC', 'USDCAD', 'SP35-OTC', 'EURJPY', 'XAUUSD', 'FR40-OTC', 'HK33-OTC', 'GBPJPY', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+NZDUSD M5 2024-07-02 06:50:00 PUT 30
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Tue Jul  2 06:53:14 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'UK100-OTC', 'EURUSD', 'CADCHF', 'USNDAQ100-OTC', 'USDCAD', 'GER30-OTC', 'EU50-OTC', 'FR40-OTC', 'NZDUSD', 'JP225-OTC', 'HK33-OTC', 'GBPUSD', 'EURGBP', 'EURJPY', 'SP500-OTC', 'USDJPY', 'SP35-OTC', 'XAUUSD', 'AUS200-OTC', 'GBPJPY', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURUSD M5 2024-07-02 06:55:00 PUT 87
+Sinal inserido com sucesso.
+EURJPY M5 2024-07-02 07:00:00 PUT 87
+Sinal inserido com sucesso.
+Tue Jul  2 06:55:17 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USDJPY', 'US30-OTC', 'EURJPY', 'CADCHF', 'SP500-OTC', 'XAUUSD', 'EURUSD', 'NZDUSD', 'GBPJPY', 'EURGBP', 'GBPUSD', 'AUS200-OTC', 'EU50-OTC', 'USDCAD', 'FR40-OTC', 'UK100-OTC', 'JP225-OTC', 'USNDAQ100-OTC', 'GER30-OTC', 'SP35-OTC', 'HK33-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURUSD M5 2024-07-02 07:00:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Tue Jul  2 06:57:43 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USDJPY', 'SP500-OTC', 'UK100-OTC', 'SP35-OTC', 'XAUUSD', 'JP225-OTC', 'GBPUSD', 'CADCHF', 'AUS200-OTC', 'GBPJPY', 'EU50-OTC', 'GER30-OTC', 'HK33-OTC', 'USDCAD', 'USNDAQ100-OTC', 'EURJPY', 'US30-OTC', 'NZDUSD', 'FR40-OTC', 'EURUSD', 'EURGBP', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+EURUSD M5 2024-07-02 07:05:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Tue Jul  2 07:03:51 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['XAUUSD', 'CADCHF', 'EURJPY', 'USDCAD', 'HK33-OTC', 'EURGBP', 'US30-OTC', 'NZDUSD', 'SP35-OTC', 'JP225-OTC', 'EU50-OTC', 'GER30-OTC', 'SP500-OTC', 'EURUSD', 'USDJPY', 'UK100-OTC', 'FR40-OTC', 'AUS200-OTC', 'GBPUSD', 'USNDAQ100-OTC', 'GBPJPY', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'XAUUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tue Jul  2 07:08:39 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURGBP', 'EURJPY', 'GBPUSD', 'CADCHF', 'EU50-OTC', 'EURUSD', 'UK100-OTC', 'NZDUSD', 'AUS200-OTC', 'HK33-OTC', 'SP35-OTC', 'US30-OTC', 'GBPJPY', 'USNDAQ100-OTC', 'FR40-OTC', 'GER30-OTC', 'SP500-OTC', 'JP225-OTC', 'USDCAD', 'USDJPY', 'XAUUSD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'XAUUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURJPY M5 2024-07-02 07:15:00 PUT 87
+Sinal inserido com sucesso.
+Tue Jul  2 07:09:31 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['NZDUSD', 'SP500-OTC', 'JP225-OTC', 'HK33-OTC', 'US30-OTC', 'EU50-OTC', 'USDJPY', 'EURGBP', 'GBPUSD', 'USDCAD', 'GER30-OTC', 'UK100-OTC', 'GBPJPY', 'FR40-OTC', 'SP35-OTC', 'XAUUSD', 'USNDAQ100-OTC', 'AUS200-OTC', 'EURUSD', 'EURJPY', 'CADCHF', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'XAUUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tue Jul  2 07:10:17 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['FR40-OTC', 'AUS200-OTC', 'UK100-OTC', 'EURGBP', 'HK33-OTC', 'GBPUSD', 'GBPJPY', 'NZDUSD', 'CADCHF', 'USDJPY', 'SP35-OTC', 'SP500-OTC', 'EURUSD', 'EURJPY', 'USDCAD', 'EU50-OTC', 'GER30-OTC', 'US30-OTC', 'USNDAQ100-OTC', 'XAUUSD', 'JP225-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'XAUUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPUSD M5 2024-07-02 07:15:00 PUT 87
+Sinal inserido com sucesso.
+Tue Jul  2 07:11:39 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['JP225-OTC', 'USDJPY', 'EURGBP', 'FR40-OTC', 'EURUSD', 'GER30-OTC', 'USDCAD', 'CADCHF', 'XAUUSD', 'US30-OTC', 'AUS200-OTC', 'SP500-OTC', 'GBPUSD', 'SP35-OTC', 'EU50-OTC', 'UK100-OTC', 'GBPJPY', 'EURJPY', 'HK33-OTC', 'NZDUSD', 'USNDAQ100-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'XAUUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+EURJPY M5 2024-07-02 07:15:00 PUT 87
+Sinal inserido com sucesso.
+Tue Jul  2 07:13:55 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GER30-OTC', 'US30-OTC', 'XAUUSD', 'FR40-OTC', 'UK100-OTC', 'HK33-OTC', 'NZDUSD', 'EURGBP', 'GBPJPY', 'EU50-OTC', 'AUS200-OTC', 'EURJPY', 'CADCHF', 'USDCAD', 'JP225-OTC', 'USNDAQ100-OTC', 'EURUSD', 'SP500-OTC', 'SP35-OTC', 'GBPUSD', 'USDJPY', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'XAUUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tue Jul  2 07:14:41 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['FR40-OTC', 'AUS200-OTC', 'US30-OTC', 'CADCHF', 'EURUSD', 'EURGBP', 'EU50-OTC', 'GBPUSD', 'JP225-OTC', 'HK33-OTC', 'SP35-OTC', 'NZDUSD', 'XAUUSD', 'GBPJPY', 'EURJPY', 'GER30-OTC', 'UK100-OTC', 'USNDAQ100-OTC', 'USDCAD', 'USDJPY', 'SP500-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'XAUUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURUSD M5 2024-07-02 07:20:00 PUT 87
+Sinal inserido com sucesso.
+Tue Jul  2 13:06:47 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['FACEBOOK', 'EURGBP', 'XAUUSD', 'AUS200-OTC', 'MCDON', 'SNAP', 'GBPJPY', 'COKE', 'MORSTAN', 'NZDUSD', 'BAIDU', 'SP35-OTC', 'JP225-OTC', 'EU50-OTC', 'CITI', 'NIKE', 'GS', 'ALIBABA', 'HK33-OTC', 'EURUSD', 'CADCHF', 'APPLE', 'GER30-OTC', 'EURJPY', 'MSFT', 'AIG', 'TESLA', 'GBPUSD', 'UK100-OTC', 'AMAZON', 'FR40-OTC', 'USDJPY', 'JPM', 'INTEL', 'GOOGLE', 'EURUSD', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCHF', 'XAUUSD', 'AUDUSD', 'USDCAD', 'USSPX500:N', 'USNDAQ100:N', 'US30:N', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPJPY M5 2024-07-02 13:10:00 PUT 89
+Sinal inserido com sucesso.
+EURUSD M5 2024-07-02 13:10:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+AUDUSD M5 2024-07-02 13:15:00 PUT 89
+Sinal inserido com sucesso.
+Tue Jul  2 13:12:01 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GER30-OTC', 'NZDUSD', 'NIKE', 'INTEL', 'MORSTAN', 'EU50-OTC', 'SNAP', 'MCDON', 'CITI', 'GBPUSD', 'GOOGLE', 'XAUUSD', 'EURUSD', 'EURGBP', 'JP225-OTC', 'COKE', 'USDJPY', 'GBPJPY', 'MSFT', 'HK33-OTC', 'EURJPY', 'FR40-OTC', 'AIG', 'TESLA', 'BAIDU', 'AMAZON', 'UK100-OTC', 'JPM', 'GS', 'ALIBABA', 'FACEBOOK', 'APPLE', 'SP35-OTC', 'CADCHF', 'AUS200-OTC', 'EURUSD', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCHF', 'XAUUSD', 'AUDUSD', 'USDCAD', 'USSPX500:N', 'USNDAQ100:N', 'US30:N', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Tue Jul  2 13:13:44 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURGBP', 'MSFT', 'ALIBABA', 'EURJPY', 'GOOGLE', 'XAUUSD', 'GBPUSD', 'COKE', 'EURUSD', 'MCDON', 'APPLE', 'JPM', 'FR40-OTC', 'GER30-OTC', 'CADCHF', 'EU50-OTC', 'BAIDU', 'HK33-OTC', 'GS', 'MORSTAN', 'AUS200-OTC', 'JP225-OTC', 'UK100-OTC', 'FACEBOOK', 'SNAP', 'NZDUSD', 'USDJPY', 'AIG', 'INTEL', 'AMAZON', 'NIKE', 'SP35-OTC', 'GBPJPY', 'CITI', 'TESLA', 'EURUSD', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCHF', 'XAUUSD', 'AUDUSD', 'USDCAD', 'USSPX500:N', 'USNDAQ100:N', 'US30:N', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tue Jul  2 13:16:28 2024: Stopping script ia.py
+Tue Jul  2 16:34:10 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EU50-OTC', 'SNAP', 'HK33-OTC', 'COKE', 'EURJPY', 'JPM', 'NZDUSD', 'GOOGLE', 'FR40-OTC', 'UK100-OTC', 'AUS200-OTC', 'MCDON', 'JP225-OTC', 'MORSTAN', 'NIKE', 'TESLA', 'SP35-OTC', 'CITI', 'MSFT', 'INTEL', 'APPLE', 'AMAZON', 'BAIDU', 'GBPUSD', 'FACEBOOK', 'GS', 'GER30-OTC', 'AIG', 'EURUSD', 'ALIBABA', 'EURUSD', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USSPX500:N', 'USNDAQ100:N', 'US30:N', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tue Jul  2 16:37:32 2024: Stopping script ia.py
+Tue Jul  2 16:38:14 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['HK33-OTC', 'AMAZON', 'MSFT', 'EU50-OTC', 'BAIDU', 'MCDON', 'SP35-OTC', 'ALIBABA', 'CITI', 'TESLA', 'GER30-OTC', 'COKE', 'EURUSD', 'AUS200-OTC', 'MORSTAN', 'FACEBOOK', 'AIG', 'NZDUSD', 'GBPUSD', 'GOOGLE', 'NIKE', 'SNAP', 'FR40-OTC', 'UK100-OTC', 'JPM', 'INTEL', 'GS', 'APPLE', 'JP225-OTC', 'EURJPY', 'EURUSD', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USSPX500:N', 'USNDAQ100:N', 'US30:N', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tue Jul  2 16:39:47 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['FACEBOOK', 'GBPUSD', 'NIKE', 'GS', 'MORSTAN', 'HK33-OTC', 'AMAZON', 'SNAP', 'APPLE', 'COKE', 'TESLA', 'FR40-OTC', 'UK100-OTC', 'GER30-OTC', 'MSFT', 'CITI', 'ALIBABA', 'SP35-OTC', 'EURJPY', 'AUS200-OTC', 'AIG', 'INTEL', 'BAIDU', 'EURUSD', 'GOOGLE', 'MCDON', 'EU50-OTC', 'JPM', 'NZDUSD', 'JP225-OTC', 'EURUSD', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USSPX500:N', 'USNDAQ100:N', 'US30:N', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+NZDUSD M5 2024-07-02 16:45:00 CALL 30
+Sinal inserido com sucesso.
+EURUSD M5 2024-07-02 16:45:00 CALL 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+GBPJPY M5 2024-07-02 16:55:00 PUT 87
+Sinal inserido com sucesso.
+EURJPY M5 2024-07-02 16:55:00 PUT 87
+Sinal inserido com sucesso.
+GBPUSD M5 2024-07-02 17:10:00 PUT 89
+Sinal inserido com sucesso.
+NZDUSD M5 2024-07-02 17:15:00 PUT 30
+Sinal inserido com sucesso.
+Buscando Ativos
+Ativos encontrados
+['HK33-OTC', 'AUS200-OTC', 'FR40-OTC', 'EU50-OTC', 'USDCHF-OTC', 'NZDUSD-OTC', 'JP225-OTC', 'AUDCAD-OTC', 'EURJPY-OTC', 'EURUSD-OTC', 'UK100-OTC', 'SP35-OTC', 'GBPUSD-OTC', 'EURGBP-OTC', 'GER30-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'USSPX500:N', 'USNDAQ100:N', 'US30:N', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+USDCHF-OTC M5 2024-07-02 17:15:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+EURJPY-OTC M5 2024-07-02 17:15:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+GBPUSD-OTC M5 2024-07-02 17:20:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+USDCHF-OTC M5 2024-07-02 17:25:00 CALL 89
+Sinal inserido com sucesso.
+GBPJPY-OTC M5 2024-07-02 17:25:00 PUT 89
+Sinal inserido com sucesso.
+AUDCAD-OTC M5 2024-07-02 17:25:00 CALL 89
+Sinal inserido com sucesso.
+NZDUSD-OTC M5 2024-07-02 17:30:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+AUDCAD-OTC M5 2024-07-02 17:40:00 PUT 89
+Sinal inserido com sucesso.
+EURGBP-OTC M5 2024-07-02 17:40:00 CALL 89
+Sinal inserido com sucesso.
+Tue Jul  2 22:16:04 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURJPY-OTC', 'EURGBP-OTC', 'USNDAQ100-OTC', 'FR40-OTC', 'EURUSD-OTC', 'NZDUSD', 'SP500-OTC', 'UK100-OTC', 'AUDCAD-OTC', 'USDCHF-OTC', 'US30-OTC', 'GBPUSD', 'NZDUSD-OTC', 'GBPUSD-OTC', 'SP35-OTC', 'EURJPY', 'EU50-OTC', 'EURUSD', 'GER30-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'EU50-OTC']
+Analisando Mercado
+Uma das moedas possui notícia
+USDCHF-OTC M5 2024-07-02 22:20:00 PUT 89
+Sinal inserido com sucesso.
+Tue Jul  2 22:18:53 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'UK100-OTC', 'EU50-OTC', 'SP500-OTC', 'EURUSD', 'SP35-OTC', 'GER30-OTC', 'EURUSD-OTC', 'GBPUSD-OTC', 'EURGBP-OTC', 'AUDCAD-OTC', 'NZDUSD-OTC', 'USDCHF-OTC', 'FR40-OTC', 'EURJPY-OTC', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USNDAQ100-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'EU50-OTC']
+Analisando Mercado
+EURUSD M5 2024-07-02 22:25:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+EURUSD-OTC M5 2024-07-02 22:30:00 CALL 89
+Sinal inserido com sucesso.
+Tue Jul  2 22:27:35 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EU50-OTC', 'US30-OTC', 'USDCHF-OTC', 'EURGBP-OTC', 'USNDAQ100-OTC', 'FR40-OTC', 'UK100-OTC', 'GBPUSD-OTC', 'SP500-OTC', 'SP35-OTC', 'EURUSD', 'GBPUSD', 'EURJPY', 'GER30-OTC', 'AUDCAD-OTC', 'NZDUSD-OTC', 'EURUSD-OTC', 'NZDUSD', 'EURJPY-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'EU50-OTC']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Tue Jul  2 22:28:46 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP35-OTC', 'EURUSD', 'GBPUSD', 'GBPUSD-OTC', 'EURJPY', 'EURJPY-OTC', 'EURUSD-OTC', 'USDCHF-OTC', 'EU50-OTC', 'UK100-OTC', 'FR40-OTC', 'NZDUSD', 'GER30-OTC', 'US30-OTC', 'NZDUSD-OTC', 'USNDAQ100-OTC', 'EURGBP-OTC', 'AUDCAD-OTC', 'SP500-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'EU50-OTC']
+Analisando Mercado
+Tue Jul  2 22:29:22 2024: Stopping script ia.py
+Tue Jul  2 22:38:31 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GER30-OTC', 'JP225-OTC', 'EURJPY-OTC', 'US30-OTC', 'NZDUSD', 'USNDAQ100-OTC', 'SP500-OTC', 'USDCHF-OTC', 'HK33-OTC', 'EURUSD-OTC', 'GBPUSD', 'EU50-OTC', 'AUDCAD-OTC', 'UK100-OTC', 'EURUSD', 'EURGBP-OTC', 'FR40-OTC', 'SP35-OTC', 'NZDUSD-OTC', 'AUS200-OTC', 'EURJPY', 'GBPUSD-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+NZDUSD M5 2024-07-02 22:40:00 PUT 30
+Sinal inserido com sucesso.
+EURUSD-OTC M5 2024-07-02 22:45:00 PUT 89
+Sinal inserido com sucesso.
+Tue Jul  2 22:40:04 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'GBPUSD-OTC', 'HK33-OTC', 'EURUSD', 'NZDUSD-OTC', 'SP500-OTC', 'GBPUSD', 'EURGBP-OTC', 'AUDCAD-OTC', 'EURJPY-OTC', 'USNDAQ100-OTC', 'USDCHF-OTC', 'UK100-OTC', 'FR40-OTC', 'NZDUSD', 'SP35-OTC', 'GER30-OTC', 'EU50-OTC', 'JP225-OTC', 'AUS200-OTC', 'EURJPY', 'EURUSD-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tue Jul  2 22:40:57 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USNDAQ100-OTC', 'EURUSD', 'GER30-OTC', 'EURJPY', 'NZDUSD', 'EURJPY-OTC', 'EU50-OTC', 'EURGBP-OTC', 'US30-OTC', 'GBPUSD', 'AUS200-OTC', 'EURUSD-OTC', 'FR40-OTC', 'USDCHF-OTC', 'UK100-OTC', 'JP225-OTC', 'NZDUSD-OTC', 'SP35-OTC', 'SP500-OTC', 'GBPUSD-OTC', 'AUDCAD-OTC', 'HK33-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tue Jul  2 22:41:44 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USDCHF-OTC', 'EURJPY', 'UK100-OTC', 'FR40-OTC', 'EURJPY-OTC', 'EURGBP-OTC', 'US30-OTC', 'NZDUSD-OTC', 'EU50-OTC', 'JP225-OTC', 'HK33-OTC', 'NZDUSD', 'SP500-OTC', 'GBPUSD', 'AUS200-OTC', 'AUDCAD-OTC', 'EURUSD', 'GBPUSD-OTC', 'USNDAQ100-OTC', 'SP35-OTC', 'GER30-OTC', 'EURUSD-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tue Jul  2 22:42:19 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['NZDUSD', 'EURGBP-OTC', 'AUS200-OTC', 'JP225-OTC', 'HK33-OTC', 'GBPUSD', 'EURUSD-OTC', 'NZDUSD-OTC', 'SP35-OTC', 'US30-OTC', 'GER30-OTC', 'SP500-OTC', 'EURUSD', 'USDCHF-OTC', 'UK100-OTC', 'GBPUSD-OTC', 'EU50-OTC', 'EURJPY', 'USNDAQ100-OTC', 'EURJPY-OTC', 'FR40-OTC', 'AUDCAD-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tue Jul  2 22:43:58 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURJPY', 'EURJPY-OTC', 'USNDAQ100-OTC', 'SP35-OTC', 'JP225-OTC', 'FR40-OTC', 'EURUSD', 'EURUSD-OTC', 'AUDCAD-OTC', 'US30-OTC', 'AUS200-OTC', 'NZDUSD', 'EURGBP-OTC', 'UK100-OTC', 'HK33-OTC', 'SP500-OTC', 'GBPUSD-OTC', 'USDCHF-OTC', 'EU50-OTC', 'GER30-OTC', 'GBPUSD', 'NZDUSD-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+EURUSD M5 2024-07-02 22:50:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Tue Jul  2 22:48:05 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURGBP-OTC', 'NZDUSD-OTC', 'NZDUSD', 'AUDCAD-OTC', 'US30-OTC', 'EURJPY', 'EURJPY-OTC', 'EURUSD-OTC', 'FR40-OTC', 'EURUSD', 'GER30-OTC', 'JP225-OTC', 'USDCHF-OTC', 'SP35-OTC', 'GBPUSD', 'SP500-OTC', 'GBPUSD-OTC', 'UK100-OTC', 'HK33-OTC', 'AUS200-OTC', 'EU50-OTC', 'USNDAQ100-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+NZDUSD M5 2024-07-02 22:50:00 PUT 30
+Sinal inserido com sucesso.
+EURJPY-OTC M5 2024-07-02 22:55:00 CALL 89
+Sinal inserido com sucesso.
+EURUSD-OTC M5 2024-07-02 22:55:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Tue Jul  2 22:54:22 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['FR40-OTC', 'SP500-OTC', 'NZDUSD', 'EURUSD', 'SP35-OTC', 'USDCHF-OTC', 'EU50-OTC', 'USNDAQ100-OTC', 'AUS200-OTC', 'EURJPY', 'NZDUSD-OTC', 'HK33-OTC', 'GER30-OTC', 'US30-OTC', 'GBPUSD-OTC', 'GBPUSD', 'EURUSD-OTC', 'AUDCAD-OTC', 'JP225-OTC', 'UK100-OTC', 'EURJPY-OTC', 'EURGBP-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+NZDUSD M5 2024-07-02 23:00:00 PUT 30
+Sinal inserido com sucesso.
+Tue Jul  2 22:55:05 2024: Starting script ia.py
+Buscando Ativos
+Tue Jul  2 23:01:08 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURUSD', 'EURUSD-OTC', 'AUDCAD-OTC', 'GBPUSD-OTC', 'USDCHF-OTC', 'EURGBP-OTC', 'UK100-OTC', 'USNDAQ100-OTC', 'FR40-OTC', 'GER30-OTC', 'NZDUSD-OTC', 'AUS200-OTC', 'SP35-OTC', 'EURJPY', 'GBPUSD', 'HK33-OTC', 'JP225-OTC', 'US30-OTC', 'EU50-OTC', 'SP500-OTC', 'EURJPY-OTC', 'NZDUSD', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURUSD-OTC M5 2024-07-02 23:05:00 PUT 89
+Sinal inserido com sucesso.
+AUDCAD-OTC M5 2024-07-02 23:10:00 CALL 89
+Sinal inserido com sucesso.
+Tue Jul  2 23:06:26 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['FR40-OTC', 'HK33-OTC', 'EU50-OTC', 'SP500-OTC', 'EURUSD', 'EURGBP-OTC', 'EURJPY-OTC', 'USNDAQ100-OTC', 'GBPUSD-OTC', 'EURJPY', 'JP225-OTC', 'GBPUSD', 'GER30-OTC', 'USDCHF-OTC', 'NZDUSD-OTC', 'AUDCAD-OTC', 'NZDUSD', 'US30-OTC', 'EURUSD-OTC', 'AUS200-OTC', 'UK100-OTC', 'SP35-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURGBP-OTC M5 2024-07-02 23:10:00 PUT 89
+Sinal inserido com sucesso.
+Tue Jul  2 23:07:49 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURUSD-OTC', 'FR40-OTC', 'SP35-OTC', 'SP500-OTC', 'US30-OTC', 'EU50-OTC', 'UK100-OTC', 'GER30-OTC', 'HK33-OTC', 'EURGBP-OTC', 'EURUSD', 'USNDAQ100-OTC', 'GBPUSD-OTC', 'JP225-OTC', 'EURJPY-OTC', 'NZDUSD-OTC', 'AUS200-OTC', 'GBPUSD', 'USDCHF-OTC', 'AUDCAD-OTC', 'EURJPY', 'NZDUSD', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Tue Jul  2 23:12:26 2024: Stopping script ia.py
+Tue Jul  2 23:12:51 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'JP225-OTC', 'HK33-OTC', 'NZDUSD', 'GER30-OTC', 'EURUSD-OTC', 'EURUSD', 'NZDUSD-OTC', 'SP500-OTC', 'USDCHF-OTC', 'EURJPY', 'SP35-OTC', 'USNDAQ100-OTC', 'AUDCAD-OTC', 'GBPUSD', 'EURGBP-OTC', 'AUS200-OTC', 'UK100-OTC', 'EURJPY-OTC', 'FR40-OTC', 'EU50-OTC', 'GBPUSD-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+NZDUSD M5 2024-07-02 23:15:00 CALL 30
+Sinal inserido com sucesso.
+Tue Jul  2 23:13:46 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP500-OTC', 'AUDCAD-OTC', 'HK33-OTC', 'FR40-OTC', 'USNDAQ100-OTC', 'UK100-OTC', 'GER30-OTC', 'EURJPY-OTC', 'EURUSD-OTC', 'NZDUSD-OTC', 'JP225-OTC', 'EU50-OTC', 'EURUSD', 'GBPUSD-OTC', 'EURJPY', 'US30-OTC', 'USDCHF-OTC', 'EURGBP-OTC', 'GBPUSD', 'AUS200-OTC', 'SP35-OTC', 'NZDUSD', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURJPY-OTC M5 2024-07-02 23:15:00 PUT 89
+Sinal inserido com sucesso.
+NZDUSD-OTC M5 2024-07-02 23:20:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Tue Jul  2 23:15:52 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GER30-OTC', 'NZDUSD', 'HK33-OTC', 'AUS200-OTC', 'EU50-OTC', 'USDCHF-OTC', 'USNDAQ100-OTC', 'JP225-OTC', 'EURUSD', 'GBPUSD', 'EURJPY', 'UK100-OTC', 'GBPUSD-OTC', 'SP35-OTC', 'AUDCAD-OTC', 'EURJPY-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'FR40-OTC', 'US30-OTC', 'NZDUSD-OTC', 'SP500-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+EURJPY M5 2024-07-02 23:20:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Tue Jul  2 23:17:49 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USNDAQ100-OTC', 'EURJPY-OTC', 'US30-OTC', 'AUDCAD-OTC', 'GBPUSD', 'GBPUSD-OTC', 'USDCHF-OTC', 'EU50-OTC', 'HK33-OTC', 'GER30-OTC', 'EURJPY', 'EURGBP-OTC', 'SP35-OTC', 'UK100-OTC', 'EURUSD-OTC', 'NZDUSD-OTC', 'SP500-OTC', 'NZDUSD', 'JP225-OTC', 'FR40-OTC', 'AUS200-OTC', 'EURUSD', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURJPY-OTC M5 2024-07-02 23:20:00 PUT 89
+Sinal inserido com sucesso.
+Tue Jul  2 23:18:50 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['JP225-OTC', 'SP500-OTC', 'EURJPY-OTC', 'EURUSD-OTC', 'GER30-OTC', 'AUDCAD-OTC', 'HK33-OTC', 'USDCHF-OTC', 'SP35-OTC', 'GBPUSD-OTC', 'FR40-OTC', 'NZDUSD-OTC', 'USNDAQ100-OTC', 'EURUSD', 'NZDUSD', 'US30-OTC', 'EURJPY', 'EU50-OTC', 'GBPUSD', 'EURGBP-OTC', 'UK100-OTC', 'AUS200-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+EURJPY-OTC M5 2024-07-02 23:20:00 PUT 89
+Sinal inserido com sucesso.
+EURUSD M5 2024-07-02 23:25:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+EURUSD-OTC M5 2024-07-02 23:30:00 PUT 89
+Sinal inserido com sucesso.
+AUDCAD-OTC M5 2024-07-02 23:30:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+GBPJPY-OTC M5 2024-07-02 23:35:00 CALL 89
+Sinal inserido com sucesso.
+NZDUSD-OTC M5 2024-07-02 23:35:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+NZDUSD M5 2024-07-02 23:40:00 PUT 30
+Sinal inserido com sucesso.
+GBPUSD M5 2024-07-02 23:40:00 CALL 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+GBPUSD-OTC M5 2024-07-02 23:45:00 CALL 87
+Sinal inserido com sucesso.
+EURJPY-OTC M5 2024-07-02 23:45:00 CALL 87
+Sinal inserido com sucesso.
+EURJPY M5 2024-07-02 23:50:00 PUT 87
+Sinal inserido com sucesso.
+EURUSD M5 2024-07-02 23:50:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Buscando Ativos
+Ativos encontrados
+['AUS200-OTC', 'NZDUSD', 'JP225-OTC', 'SP35-OTC', 'USNDAQ100-OTC', 'EURJPY', 'GBPUSD', 'FR40-OTC', 'HK33-OTC', 'SP500-OTC', 'EURUSD', 'EU50-OTC', 'GER30-OTC', 'UK100-OTC', 'US30-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPUSD-OTC M5 2024-07-03 00:00:00 PUT 87
+Sinal inserido com sucesso.
+USDCHF-OTC M5 2024-07-03 00:05:00 CALL 87
+Sinal inserido com sucesso.
+GBPJPY-OTC M5 2024-07-03 00:05:00 PUT 87
+Sinal inserido com sucesso.
+EURJPY M5 2024-07-03 00:05:00 CALL 87
+Sinal inserido com sucesso.
+GBPUSD M5 2024-07-03 00:20:00 CALL 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+EURUSD-OTC M5 2024-07-03 00:25:00 PUT 87
+Sinal inserido com sucesso.
+Buscando Ativos
+Ativos encontrados
+['AUS200-OTC', 'FR40-OTC', 'EURJPY', 'SP35-OTC', 'US30-OTC', 'UK100-OTC', 'EURUSD', 'JP225-OTC', 'SP500-OTC', 'GBPUSD', 'GER30-OTC', 'EU50-OTC', 'USNDAQ100-OTC', 'NZDUSD', 'HK33-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPJPY-OTC M5 2024-07-03 00:25:00 CALL 87
+Sinal inserido com sucesso.
+EURJPY M5 2024-07-03 00:30:00 PUT 87
+Sinal inserido com sucesso.
+EURUSD M5 2024-07-03 00:30:00 PUT 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+GBPJPY-OTC M5 2024-07-03 00:35:00 PUT 87
+Sinal inserido com sucesso.
+EURUSD-OTC M5 2024-07-03 00:35:00 CALL 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+EURJPY M5 2024-07-03 00:40:00 CALL 87
+Sinal inserido com sucesso.
+EURUSD M5 2024-07-03 00:40:00 CALL 87
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+GBPJPY-OTC M5 2024-07-03 00:50:00 CALL 87
+Sinal inserido com sucesso.
+Buscando Ativos
+Ativos encontrados
+['GBPUSD', 'USNDAQ100-OTC', 'FR40-OTC', 'EU50-OTC', 'UK100-OTC', 'SP500-OTC', 'SP35-OTC', 'AUS200-OTC', 'US30-OTC', 'NZDUSD', 'GER30-OTC', 'HK33-OTC', 'EURUSD', 'JP225-OTC', 'EURJPY', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+GBPUSD M5 2024-07-03 01:00:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+NZDUSD M5 2024-07-03 01:05:00 PUT 30
+Sinal inserido com sucesso.
+EURJPY M5 2024-07-03 01:05:00 PUT 89
+Sinal inserido com sucesso.
+USDCHF-OTC M5 2024-07-03 01:05:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+EURUSD-OTC M5 2024-07-03 01:15:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+USDCHF-OTC M5 2024-07-03 01:20:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas já possui sinal: 
+Uma das moedas já possui sinal: 
+Buscando Ativos
+Ativos encontrados
+['GBPUSD', 'UK100-OTC', 'AUS200-OTC', 'FR40-OTC', 'JP225-OTC', 'EURUSD', 'GER30-OTC', 'EU50-OTC', 'NZDUSD', 'EURJPY', 'SP35-OTC', 'HK33-OTC', 'US30-OTC', 'USNDAQ100-OTC', 'SP500-OTC', 'NZDUSD', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+NZDUSD M5 2024-07-03 01:30:00 PUT 30
+Sinal inserido com sucesso.
+Wed Jul  3 05:25:34 2024: Stopping script ia.py
+Wed Jul  3 05:28:11 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURGBP', 'US30-OTC', 'GBPJPY', 'USNDAQ100-OTC', 'USDJPY', 'HK33-OTC', 'SP500-OTC', 'AUS200-OTC', 'EURUSD', 'XAUUSD', 'JP225-OTC', 'GBPUSD', 'CADCHF', 'EURJPY', 'NZDUSD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'AUS200-OTC', 'HK33-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+USDJPY M5 2024-07-03 05:30:00 PUT 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURJPY M5 2024-07-03 05:35:00 PUT 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+AUDUSD M5 2024-07-03 05:40:00 PUT 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Wed Jul  3 05:52:16 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GER30-OTC', 'US30-OTC', 'GBPUSD', 'EURUSD', 'SP35-OTC', 'UK100-OTC', 'JP225-OTC', 'EURGBP', 'CADCHF', 'USNDAQ100-OTC', 'SP500-OTC', 'GBPJPY', 'EU50-OTC', 'NZDUSD', 'FR40-OTC', 'USDJPY', 'HK33-OTC', 'EURJPY', 'XAUUSD', 'AUS200-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Wed Jul  3 05:55:26 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'USDJPY', 'JP225-OTC', 'USNDAQ100-OTC', 'EURGBP', 'EURJPY', 'NZDUSD', 'SP500-OTC', 'XAUUSD', 'SP35-OTC', 'GBPJPY', 'CADCHF', 'GBPUSD', 'UK100-OTC', 'HK33-OTC', 'AUS200-OTC', 'EU50-OTC', 'FR40-OTC', 'EURUSD', 'GER30-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+NZDUSD M5 2024-07-03 06:00:00 PUT 30
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Wed Jul  3 05:58:15 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'EURJPY', 'GBPUSD', 'CADCHF', 'AUS200-OTC', 'EURGBP', 'XAUUSD', 'SP35-OTC', 'EURUSD', 'JP225-OTC', 'NZDUSD', 'HK33-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'SP500-OTC', 'GBPJPY', 'EU50-OTC', 'USDJPY', 'USNDAQ100-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 06:05:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Wed Jul  3 06:02:46 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EU50-OTC', 'NZDUSD', 'SP35-OTC', 'US30-OTC', 'CADCHF', 'SP500-OTC', 'UK100-OTC', 'AUS200-OTC', 'EURUSD', 'GER30-OTC', 'HK33-OTC', 'GBPJPY', 'XAUUSD', 'USNDAQ100-OTC', 'EURGBP', 'EURJPY', 'USDCAD', 'FR40-OTC', 'USDJPY', 'JP225-OTC', 'GBPUSD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Wed Jul  3 06:04:17 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP35-OTC', 'XAUUSD', 'UK100-OTC', 'GBPJPY', 'EURGBP', 'US30-OTC', 'USDJPY', 'GBPUSD', 'HK33-OTC', 'SP500-OTC', 'CADCHF', 'EU50-OTC', 'FR40-OTC', 'EURUSD', 'JP225-OTC', 'AUS200-OTC', 'NZDUSD', 'EURJPY', 'USDCAD', 'GER30-OTC', 'USNDAQ100-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 06:10:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+USDJPY M5 2024-07-03 06:10:00 CALL 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+NZDUSD M5 2024-07-03 06:10:00 PUT 30
+Sinal inserido com sucesso.
+Wed Jul  3 06:09:48 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USNDAQ100-OTC', 'GER30-OTC', 'UK100-OTC', 'FR40-OTC', 'NZDUSD', 'EURUSD', 'USDJPY', 'AUS200-OTC', 'GBPUSD', 'SP35-OTC', 'EU50-OTC', 'XAUUSD', 'SP500-OTC', 'USDCAD', 'GBPJPY', 'CADCHF', 'EURGBP', 'US30-OTC', 'JP225-OTC', 'HK33-OTC', 'EURJPY', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tentativa 1 falhou: Expecting value: line 1 column 2 (char 1)
+Conectado com sucesso ao IQ Option.
+Wed Jul  3 06:12:21 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GBPUSD', 'XAUUSD', 'SP35-OTC', 'USDCAD', 'EU50-OTC', 'CADCHF', 'SP500-OTC', 'NZDUSD', 'EURJPY', 'GER30-OTC', 'US30-OTC', 'GBPJPY', 'EURUSD', 'JP225-OTC', 'FR40-OTC', 'HK33-OTC', 'USDJPY', 'EURGBP', 'UK100-OTC', 'USNDAQ100-OTC', 'AUS200-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+GBPUSD M5 2024-07-03 06:15:00 PUT 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 06:20:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Wed Jul  3 06:16:59 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GBPUSD', 'EURGBP', 'USDJPY', 'FR40-OTC', 'US30-OTC', 'EURUSD', 'SP500-OTC', 'GBPJPY', 'NZDUSD', 'HK33-OTC', 'USDCAD', 'CADCHF', 'UK100-OTC', 'USNDAQ100-OTC', 'GER30-OTC', 'JP225-OTC', 'SP35-OTC', 'AUS200-OTC', 'EURJPY', 'EU50-OTC', 'XAUUSD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+GBPUSD M5 2024-07-03 06:20:00 PUT 89
+Sinal inserido com sucesso.
+Wed Jul  3 06:18:13 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP35-OTC', 'FR40-OTC', 'GBPUSD', 'USNDAQ100-OTC', 'GBPJPY', 'CADCHF', 'NZDUSD', 'HK33-OTC', 'EURJPY', 'USDJPY', 'XAUUSD', 'SP500-OTC', 'US30-OTC', 'AUS200-OTC', 'USDCAD', 'UK100-OTC', 'EURGBP', 'EU50-OTC', 'EURUSD', 'GER30-OTC', 'JP225-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+USDCAD M5 2024-07-03 06:25:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 06:25:00 PUT 89
+Sinal inserido com sucesso.
+Wed Jul  3 06:21:24 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EU50-OTC', 'UK100-OTC', 'USNDAQ100-OTC', 'EURGBP', 'JP225-OTC', 'XAUUSD', 'USDCAD', 'EURJPY', 'EURUSD', 'USDJPY', 'GER30-OTC', 'CADCHF', 'SP35-OTC', 'NZDUSD', 'US30-OTC', 'HK33-OTC', 'GBPUSD', 'GBPJPY', 'FR40-OTC', 'SP500-OTC', 'AUS200-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Wed Jul  3 06:22:17 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['NZDUSD', 'UK100-OTC', 'SP35-OTC', 'GBPUSD', 'EURUSD', 'EURJPY', 'EU50-OTC', 'USNDAQ100-OTC', 'USDJPY', 'HK33-OTC', 'GBPJPY', 'FR40-OTC', 'AUS200-OTC', 'SP500-OTC', 'EURGBP', 'JP225-OTC', 'CADCHF', 'USDCAD', 'XAUUSD', 'GER30-OTC', 'US30-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Wed Jul  3 06:23:03 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURUSD', 'HK33-OTC', 'SP35-OTC', 'JP225-OTC', 'USDCAD', 'CADCHF', 'AUS200-OTC', 'EU50-OTC', 'XAUUSD', 'FR40-OTC', 'USDJPY', 'EURJPY', 'USNDAQ100-OTC', 'GER30-OTC', 'SP500-OTC', 'US30-OTC', 'GBPJPY', 'EURGBP', 'UK100-OTC', 'GBPUSD', 'NZDUSD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Wed Jul  3 06:24:17 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USNDAQ100-OTC', 'NZDUSD', 'AUS200-OTC', 'EURUSD', 'UK100-OTC', 'USDCAD', 'XAUUSD', 'JP225-OTC', 'HK33-OTC', 'SP500-OTC', 'USDJPY', 'GBPUSD', 'EURJPY', 'CADCHF', 'FR40-OTC', 'SP35-OTC', 'GER30-OTC', 'EURGBP', 'EU50-OTC', 'US30-OTC', 'GBPJPY', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+USDJPY M5 2024-07-03 06:30:00 PUT 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+GBPUSD M5 2024-07-03 06:30:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Wed Jul  3 06:33:37 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['FR40-OTC', 'AUS200-OTC', 'SP35-OTC', 'JP225-OTC', 'HK33-OTC', 'EURUSD', 'EU50-OTC', 'USNDAQ100-OTC', 'USDJPY', 'CADCHF', 'US30-OTC', 'SP500-OTC', 'USDCAD', 'XAUUSD', 'UK100-OTC', 'NZDUSD', 'GER30-OTC', 'EURJPY', 'GBPUSD', 'EURGBP', 'GBPJPY', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+USDCAD M5 2024-07-03 06:40:00 CALL 89
+Sinal inserido com sucesso.
+Wed Jul  3 06:34:47 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USDJPY', 'HK33-OTC', 'XAUUSD', 'EU50-OTC', 'USDCAD', 'GER30-OTC', 'SP500-OTC', 'EURJPY', 'NZDUSD', 'SP35-OTC', 'AUS200-OTC', 'GBPJPY', 'UK100-OTC', 'EURUSD', 'FR40-OTC', 'EURGBP', 'GBPUSD', 'JP225-OTC', 'CADCHF', 'USNDAQ100-OTC', 'US30-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Wed Jul  3 06:35:33 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USDCAD', 'US30-OTC', 'CADCHF', 'EURGBP', 'JP225-OTC', 'GBPUSD', 'EURJPY', 'AUS200-OTC', 'XAUUSD', 'GBPJPY', 'FR40-OTC', 'USNDAQ100-OTC', 'EURUSD', 'HK33-OTC', 'SP500-OTC', 'GER30-OTC', 'SP35-OTC', 'EU50-OTC', 'NZDUSD', 'USDJPY', 'UK100-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Wed Jul  3 06:37:02 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['XAUUSD', 'UK100-OTC', 'EURGBP', 'US30-OTC', 'NZDUSD', 'USDJPY', 'HK33-OTC', 'EURUSD', 'JP225-OTC', 'SP500-OTC', 'CADCHF', 'FR40-OTC', 'SP35-OTC', 'AUS200-OTC', 'GBPUSD', 'EURJPY', 'EU50-OTC', 'GBPJPY', 'USDCAD', 'GER30-OTC', 'USNDAQ100-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Wed Jul  3 06:38:50 2024: Starting script ia.py
+Buscando Ativos
+Wed Jul  3 06:39:11 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['CADCHF', 'UK100-OTC', 'GER30-OTC', 'EU50-OTC', 'USDCAD', 'USDJPY', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'EURUSD', 'HK33-OTC', 'NZDUSD', 'USNDAQ100-OTC', 'EURJPY', 'GBPUSD', 'XAUUSD', 'JP225-OTC', 'SP500-OTC', 'EURGBP', 'GBPJPY', 'AUS200-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+USDJPY M5 2024-07-03 06:45:00 CALL 89
+Sinal inserido com sucesso.
+Wed Jul  3 06:40:31 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['JP225-OTC', 'GBPJPY', 'HK33-OTC', 'EURJPY', 'CADCHF', 'NZDUSD', 'USDJPY', 'AUS200-OTC', 'EURGBP', 'SP500-OTC', 'UK100-OTC', 'FR40-OTC', 'EURUSD', 'US30-OTC', 'SP35-OTC', 'USDCAD', 'GER30-OTC', 'USNDAQ100-OTC', 'GBPUSD', 'EU50-OTC', 'XAUUSD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Wed Jul  3 06:41:55 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GER30-OTC', 'EURUSD', 'NZDUSD', 'SP35-OTC', 'USNDAQ100-OTC', 'UK100-OTC', 'AUS200-OTC', 'US30-OTC', 'XAUUSD', 'USDCAD', 'CADCHF', 'USDJPY', 'JP225-OTC', 'HK33-OTC', 'GBPUSD', 'GBPJPY', 'SP500-OTC', 'EU50-OTC', 'FR40-OTC', 'EURGBP', 'EURJPY', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Wed Jul  3 06:42:27 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURGBP', 'SP500-OTC', 'US30-OTC', 'NZDUSD', 'SP35-OTC', 'USDCAD', 'GBPUSD', 'UK100-OTC', 'EURJPY', 'USNDAQ100-OTC', 'EU50-OTC', 'JP225-OTC', 'CADCHF', 'GER30-OTC', 'GBPJPY', 'EURUSD', 'XAUUSD', 'FR40-OTC', 'HK33-OTC', 'AUS200-OTC', 'USDJPY', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+USDCAD M5 2024-07-03 06:45:00 PUT 89
+Sinal inserido com sucesso.
+Wed Jul  3 06:43:40 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['UK100-OTC', 'USNDAQ100-OTC', 'SP500-OTC', 'EU50-OTC', 'AUS200-OTC', 'HK33-OTC', 'USDCAD', 'XAUUSD', 'USDJPY', 'GBPUSD', 'FR40-OTC', 'EURGBP', 'US30-OTC', 'SP35-OTC', 'JP225-OTC', 'EURJPY', 'CADCHF', 'GBPJPY', 'EURUSD', 'GER30-OTC', 'NZDUSD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+NZDUSD M5 2024-07-03 06:50:00 CALL 30
+Sinal inserido com sucesso.
+Wed Jul  3 06:46:06 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP35-OTC', 'UK100-OTC', 'FR40-OTC', 'HK33-OTC', 'USDJPY', 'CADCHF', 'USDCAD', 'EU50-OTC', 'AUS200-OTC', 'EURUSD', 'EURJPY', 'USNDAQ100-OTC', 'NZDUSD', 'GER30-OTC', 'GBPUSD', 'SP500-OTC', 'US30-OTC', 'JP225-OTC', 'GBPJPY', 'EURGBP', 'XAUUSD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+GBPUSD M5 2024-07-03 06:50:00 CALL 89
+Sinal inserido com sucesso.
+Wed Jul  3 06:49:31 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'FR40-OTC', 'CADCHF', 'JP225-OTC', 'NZDUSD', 'EU50-OTC', 'UK100-OTC', 'EURUSD', 'USDJPY', 'GBPUSD', 'AUS200-OTC', 'GBPJPY', 'USDCAD', 'GER30-OTC', 'XAUUSD', 'HK33-OTC', 'USNDAQ100-OTC', 'EURGBP', 'SP35-OTC', 'EURJPY', 'SP500-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Wed Jul  3 06:50:22 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['FR40-OTC', 'EURGBP', 'EURUSD', 'GBPUSD', 'CADCHF', 'XAUUSD', 'EU50-OTC', 'US30-OTC', 'EURJPY', 'UK100-OTC', 'GBPJPY', 'USNDAQ100-OTC', 'SP35-OTC', 'SP500-OTC', 'JP225-OTC', 'AUS200-OTC', 'USDCAD', 'NZDUSD', 'USDJPY', 'HK33-OTC', 'GER30-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 06:55:00 CALL 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+GBPUSD M5 2024-07-03 06:55:00 PUT 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Wed Jul  3 06:55:06 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['UK100-OTC', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'FR40-OTC', 'GER30-OTC', 'XAUUSD', 'EURJPY', 'EURGBP', 'JP225-OTC', 'HK33-OTC', 'GBPUSD', 'CADCHF', 'NZDUSD', 'US30-OTC', 'SP35-OTC', 'EU50-OTC', 'EURUSD', 'USDJPY', 'GBPJPY', 'AUS200-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+USDCAD M5 2024-07-03 07:00:00 CALL 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Wed Jul  3 06:58:59 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURGBP', 'FR40-OTC', 'AUS200-OTC', 'SP35-OTC', 'HK33-OTC', 'CADCHF', 'GER30-OTC', 'GBPJPY', 'UK100-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'USDJPY', 'NZDUSD', 'EURJPY', 'EU50-OTC', 'SP500-OTC', 'USDCAD', 'GBPUSD', 'XAUUSD', 'JP225-OTC', 'EURUSD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCAD', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+USDJPY M5 2024-07-03 07:05:00 CALL 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+NZDUSD M5 2024-07-03 07:05:00 PUT 30
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+GBPUSD M5 2024-07-03 07:05:00 PUT 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Wed Jul  3 07:03:04 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USDCAD', 'GBPJPY', 'FR40-OTC', 'EURJPY', 'EU50-OTC', 'XAUUSD', 'USNDAQ100-OTC', 'SP35-OTC', 'US30-OTC', 'NZDUSD', 'EURUSD', 'GER30-OTC', 'AUS200-OTC', 'SP500-OTC', 'EURGBP', 'GBPUSD', 'USDJPY', 'UK100-OTC', 'HK33-OTC', 'CADCHF', 'JP225-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'XAUUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Uma das moedas possui notícia
+Wed Jul  3 07:04:38 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GBPUSD', 'USDCAD', 'SP500-OTC', 'GBPJPY', 'EU50-OTC', 'USDJPY', 'AUS200-OTC', 'NZDUSD', 'HK33-OTC', 'SP35-OTC', 'GER30-OTC', 'FR40-OTC', 'UK100-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'XAUUSD', 'JP225-OTC', 'EURJPY', 'CADCHF', 'EURUSD', 'EURGBP', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'XAUUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 07:10:00 PUT 89
+Sinal inserido com sucesso.
+Wed Jul  3 07:06:03 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP500-OTC', 'EURJPY', 'CADCHF', 'EU50-OTC', 'EURGBP', 'EURUSD', 'GER30-OTC', 'XAUUSD', 'HK33-OTC', 'UK100-OTC', 'FR40-OTC', 'NZDUSD', 'US30-OTC', 'GBPJPY', 'USDCAD', 'USDJPY', 'SP35-OTC', 'AUS200-OTC', 'GBPUSD', 'USNDAQ100-OTC', 'JP225-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'XAUUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+EURJPY M5 2024-07-03 07:10:00 PUT 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURGBP M5 2024-07-03 07:10:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+AUDJPY M5 2024-07-03 07:15:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 07:25:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+AUDJPY M5 2024-07-03 07:35:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+EURGBP M5 2024-07-03 07:40:00 CALL 89
+Sinal inserido com sucesso.
+Tentativa 1 falhou: Expecting value: line 1 column 2 (char 1)
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Buscando Ativos
+Ativos encontrados
+['NZDUSD', 'GER30-OTC', 'SP35-OTC', 'FR40-OTC', 'UK100-OTC', 'EURGBP', 'AUS200-OTC', 'USDJPY', 'US30-OTC', 'GBPJPY', 'EU50-OTC', 'HK33-OTC', 'JP225-OTC', 'EURJPY', 'GBPUSD', 'SP500-OTC', 'CADCHF', 'EURUSD', 'USNDAQ100-OTC', 'USDCAD', 'XAUUSD', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'XAUUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Tentativa 1 falhou: Expecting value: line 1 column 2 (char 1)
+Conectado com sucesso ao IQ Option.
+EURGBP M5 2024-07-03 07:50:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+NZDUSD M5 2024-07-03 07:55:00 CALL 30
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+USDJPY M5 2024-07-03 07:55:00 PUT 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+USDJPY M5 2024-07-03 08:00:00 CALL 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+GBPUSD M5 2024-07-03 08:05:00 PUT 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+AUDJPY M5 2024-07-03 08:05:00 PUT 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 08:10:00 PUT 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURGBP M5 2024-07-03 08:10:00 CALL 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+AUDJPY M5 2024-07-03 08:15:00 CALL 89
+Sinal inserido com sucesso.
+Buscando Ativos
+Ativos encontrados
+['SP35-OTC', 'GER30-OTC', 'XAUUSD', 'CADCHF', 'US30-OTC', 'NZDUSD', 'FR40-OTC', 'GBPUSD', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'USNDAQ100-OTC', 'EURJPY', 'JP225-OTC', 'GBPJPY', 'USDCAD', 'EURUSD', 'USDJPY', 'SP500-OTC', 'UK100-OTC', 'EURGBP', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'AUDCAD', 'NZDUSD', 'XAUUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+AUDCAD M5 2024-07-03 08:25:00 PUT 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+EURJPY M5 2024-07-03 08:35:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+AUDCAD M5 2024-07-03 08:40:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 08:45:00 CALL 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURGBP M5 2024-07-03 08:45:00 PUT 89
+Sinal inserido com sucesso.
+Buscando Ativos
+Ativos encontrados
+['HK33-OTC', 'EURGBP', 'CADCHF', 'GER30-OTC', 'SP35-OTC', 'EU50-OTC', 'GBPUSD', 'NZDUSD', 'EURUSD', 'EURJPY', 'USNDAQ100-OTC', 'USDJPY', 'FR40-OTC', 'JP225-OTC', 'SP500-OTC', 'XAUUSD', 'GBPJPY', 'UK100-OTC', 'USDCAD', 'US30-OTC', 'AUS200-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'AUDCAD', 'NZDUSD', 'XAUUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+AUDJPY M5 2024-07-03 08:55:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+EURJPY M5 2024-07-03 08:55:00 CALL 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+AUDJPY M5 2024-07-03 09:00:00 PUT 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+EURJPY M5 2024-07-03 09:05:00 PUT 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 09:20:00 PUT 89
+Sinal inserido com sucesso.
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'CADCHF', 'AUS200-OTC', 'JP225-OTC', 'GBPUSD', 'USNDAQ100-OTC', 'SP500-OTC', 'NZDUSD', 'UK100-OTC', 'XAUUSD', 'GER30-OTC', 'EU50-OTC', 'FR40-OTC', 'USDCAD', 'HK33-OTC', 'USDJPY', 'EURJPY', 'EURGBP', 'EURUSD', 'GBPJPY', 'SP35-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'AUDCAD', 'NZDUSD', 'XAUUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 09:30:00 CALL 89
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+EURJPY M5 2024-07-03 09:30:00 CALL 89
+Sinal inserido com sucesso.
+Wed Jul  3 09:33:29 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'JP225-OTC', 'XAUUSD', 'GBPJPY', 'USDCAD', 'HK33-OTC', 'NZDUSD', 'EURUSD', 'UK100-OTC', 'FR40-OTC', 'EURGBP', 'USNDAQ100-OTC', 'USDJPY', 'GBPUSD', 'SP35-OTC', 'SP500-OTC', 'EURJPY', 'GER30-OTC', 'CADCHF', 'EU50-OTC', 'AUS200-OTC', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'AUDCAD', 'NZDUSD', 'XAUUSD', 'AUDUSD', 'USDCAD', 'AUDJPY', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Wed Jul  3 12:50:35 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['ALIBABA', 'USDJPY', 'GBPJPY', 'EURJPY', 'USDCAD', 'CADCHF', 'MORSTAN', 'MSFT', 'JPM', 'FR40-OTC', 'CITI', 'HK33-OTC', 'AMAZON', 'EURUSD', 'JP225-OTC', 'AIG', 'NZDUSD', 'GBPUSD', 'NIKE', 'EU50-OTC', 'UK100-OTC', 'SNAP', 'SP35-OTC', 'GER30-OTC', 'GOOGLE', 'TESLA', 'BAIDU', 'INTEL', 'FACEBOOK', 'EURGBP', 'AUS200-OTC', 'COKE', 'MCDON', 'XAUUSD', 'GS', 'APPLE', 'EURUSD', 'EURGBP', 'GBPJPY', 'EURJPY', 'GBPUSD', 'AUDCAD', 'NZDUSD', 'USDCHF', 'XAUUSD', 'AUDUSD', 'USDCAD', 'USSPX500:N', 'USNDAQ100:N', 'US30:N', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 12:55:00 CALL 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+AUDCAD M5 2024-07-03 12:55:00 PUT 91
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+EURGBP M5 2024-07-03 13:00:00 PUT 91
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+EURJPY M5 2024-07-03 13:05:00 PUT 91
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+AUDCAD M5 2024-07-03 13:10:00 CALL 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 13:15:00 PUT 91
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+EURGBP M5 2024-07-03 13:20:00 CALL 91
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Buscando Ativos
+Ativos encontrados
+['EURJPY', 'COKE', 'GOOGLE', 'AMAZON', 'GER30-OTC', 'FACEBOOK', 'MCDON', 'EURUSD', 'GBPJPY', 'UK100-OTC', 'JPM', 'ALIBABA', 'USDJPY', 'AUS200-OTC', 'GS', 'NZDUSD', 'APPLE', 'TESLA', 'HK33-OTC', 'BAIDU', 'JP225-OTC', 'CITI', 'EU50-OTC', 'FR40-OTC', 'SP35-OTC', 'GBPUSD', 'MSFT', 'INTEL', 'SNAP', 'MORSTAN', 'XAUUSD', 'CADCHF', 'AIG', 'EURGBP', 'NIKE', 'EURUSD', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCHF', 'XAUUSD', 'AUDUSD', 'USDCAD', 'USSPX500:N', 'USNDAQ100:N', 'US30:N', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+USDCAD M5 2024-07-03 13:30:00 PUT 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+NZDUSD M5 2024-07-03 13:45:00 PUT 30
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+USDCAD M5 2024-07-03 13:45:00 CALL 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+USDCHF M5 2024-07-03 13:55:00 CALL 91
+Sinal inserido com sucesso.
+Buscando Ativos
+Ativos encontrados
+['FR40-OTC', 'UK100-OTC', 'GS', 'EU50-OTC', 'TESLA', 'ALIBABA', 'INTEL', 'MORSTAN', 'HK33-OTC', 'COKE', 'USDJPY', 'EURJPY', 'EURUSD', 'XAUUSD', 'CITI', 'GOOGLE', 'MCDON', 'CADCHF', 'FACEBOOK', 'AMAZON', 'SP35-OTC', 'JP225-OTC', 'GBPUSD', 'NIKE', 'AIG', 'NZDUSD', 'GER30-OTC', 'AUS200-OTC', 'MSFT', 'APPLE', 'EURGBP', 'GBPJPY', 'BAIDU', 'SNAP', 'JPM', 'EURUSD', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'USDCHF', 'XAUUSD', 'AUDUSD', 'USDCAD', 'USSPX500:N', 'USNDAQ100:N', 'US30:N', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 14:00:00 CALL 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURJPY M5 2024-07-03 14:05:00 CALL 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+USDJPY M5 2024-07-03 14:05:00 CALL 89
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+USDCAD M5 2024-07-03 14:10:00 PUT 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURJPY M5 2024-07-03 14:20:00 PUT 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+GBPJPY M5 2024-07-03 14:20:00 PUT 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+USDCAD M5 2024-07-03 14:20:00 CALL 91
+Sinal inserido com sucesso.
+Buscando Ativos
+Ativos encontrados
+['USDJPY', 'GER30-OTC', 'GBPUSD', 'HK33-OTC', 'SP35-OTC', 'JP225-OTC', 'EU50-OTC', 'EURJPY', 'UK100-OTC', 'EURGBP', 'CADCHF', 'EURUSD', 'NZDUSD', 'GBPJPY', 'FR40-OTC', 'AUS200-OTC', 'EURUSD', 'GBPJPY', 'EURJPY', 'GBPUSD', 'NZDUSD', 'AUDUSD', 'USDCAD', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+USDCAD M5 2024-07-03 14:35:00 PUT 91
+Sinal inserido com sucesso.
+Buscando Ativos
+Ativos encontrados
+['USDCHF-OTC', 'AUDCAD-OTC', 'JP225-OTC', 'EURJPY-OTC', 'NZDUSD-OTC', 'SP35-OTC', 'GBPUSD-OTC', 'FR40-OTC', 'EU50-OTC', 'GER30-OTC', 'EURGBP-OTC', 'HK33-OTC', 'EURUSD-OTC', 'UK100-OTC', 'AUS200-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+AUDCAD-OTC M5 2024-07-03 15:00:00 PUT 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+NZDUSD-OTC M5 2024-07-03 15:00:00 PUT 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+EURGBP-OTC M5 2024-07-03 15:00:00 PUT 91
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+GBPJPY-OTC M5 2024-07-03 15:05:00 PUT 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURJPY-OTC M5 2024-07-03 15:10:00 PUT 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURUSD-OTC M5 2024-07-03 15:10:00 CALL 91
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+AUDCAD-OTC M5 2024-07-03 15:15:00 CALL 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURJPY-OTC M5 2024-07-03 15:15:00 CALL 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+NZDUSD-OTC M5 2024-07-03 15:20:00 CALL 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+USDCHF-OTC M5 2024-07-03 15:25:00 CALL 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURGBP-OTC M5 2024-07-03 15:30:00 CALL 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Buscando Ativos
+Ativos encontrados
+['AUDCAD-OTC', 'FR40-OTC', 'USDCHF-OTC', 'AUS200-OTC', 'GER30-OTC', 'EURJPY-OTC', 'NZDUSD-OTC', 'SP35-OTC', 'EURUSD-OTC', 'JP225-OTC', 'GBPUSD-OTC', 'EU50-OTC', 'HK33-OTC', 'EURGBP-OTC', 'UK100-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+AUDCAD-OTC M5 2024-07-03 15:35:00 PUT 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+GBPUSD-OTC M5 2024-07-03 15:40:00 CALL 91
+Sinal inserido com sucesso.
+Wed Jul  3 15:46:44 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['JP225-OTC', 'GER30-OTC', 'SP35-OTC', 'NZDUSD-OTC', 'GBPUSD-OTC', 'EU50-OTC', 'UK100-OTC', 'AUDCAD-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'EURJPY-OTC', 'HK33-OTC', 'AUS200-OTC', 'FR40-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+EURJPY-OTC M5 2024-07-03 15:50:00 PUT 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURUSD-OTC M5 2024-07-03 15:50:00 PUT 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+GBPJPY-OTC M5 2024-07-03 15:55:00 PUT 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+NZDUSD-OTC M5 2024-07-03 15:55:00 CALL 91
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURGBP-OTC M5 2024-07-03 15:55:00 PUT 91
+Sinal inserido com sucesso.
+Wed Jul  3 15:52:19 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['AUDCAD-OTC', 'EURUSD-OTC', 'NZDUSD-OTC', 'USDCHF-OTC', 'EU50-OTC', 'EURGBP-OTC', 'HK33-OTC', 'GER30-OTC', 'JP225-OTC', 'EURJPY-OTC', 'SP35-OTC', 'GBPUSD-OTC', 'AUS200-OTC', 'UK100-OTC', 'FR40-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Thu Jul  4 06:08:20 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURUSD-OTC', 'GBPUSD-OTC', 'AUDCAD-OTC', 'GER30-OTC', 'JP225-OTC', 'FR40-OTC', 'SP500-OTC', 'NZDUSD-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'EURGBP-OTC', 'UK100-OTC', 'HK33-OTC', 'USDCHF-OTC', 'SP35-OTC', 'EURJPY-OTC', 'EU50-OTC', 'AUS200-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Thu Jul  4 06:09:42 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['JP225-OTC', 'EURJPY-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USNDAQ100-OTC', 'SP35-OTC', 'US30-OTC', 'FR40-OTC', 'GBPUSD-OTC', 'USDCHF-OTC', 'AUDCAD-OTC', 'AUS200-OTC', 'HK33-OTC', 'UK100-OTC', 'SP500-OTC', 'GER30-OTC', 'EU50-OTC', 'NZDUSD-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+USDCHF-OTC M5 2024-07-04 06:15:00 CALL 92
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+AUDCAD-OTC M5 2024-07-04 06:15:00 PUT 92
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+GBPJPY-OTC M5 2024-07-04 06:15:00 PUT 92
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+NZDUSD-OTC M5 2024-07-04 06:20:00 PUT 92
+Sinal inserido com sucesso.
+Thu Jul  4 06:15:10 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USDCHF-OTC', 'USNDAQ100-OTC', 'HK33-OTC', 'FR40-OTC', 'AUS200-OTC', 'EURUSD-OTC', 'NZDUSD-OTC', 'EURGBP-OTC', 'UK100-OTC', 'US30-OTC', 'AUDCAD-OTC', 'SP500-OTC', 'JP225-OTC', 'GBPUSD-OTC', 'EU50-OTC', 'GER30-OTC', 'EURJPY-OTC', 'SP35-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+AUDCAD-OTC M5 2024-07-04 06:20:00 PUT 92
+Sinal inserido com sucesso.
+Thu Jul  4 06:17:22 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['AUS200-OTC', 'FR40-OTC', 'EURJPY-OTC', 'EU50-OTC', 'HK33-OTC', 'AUDCAD-OTC', 'USNDAQ100-OTC', 'SP35-OTC', 'USDCHF-OTC', 'SP500-OTC', 'EURGBP-OTC', 'JP225-OTC', 'US30-OTC', 'NZDUSD-OTC', 'GER30-OTC', 'GBPUSD-OTC', 'EURUSD-OTC', 'UK100-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Thu Jul  4 06:18:40 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['USDCHF-OTC', 'GER30-OTC', 'USNDAQ100-OTC', 'EURGBP-OTC', 'GBPUSD-OTC', 'EURJPY-OTC', 'SP35-OTC', 'SP500-OTC', 'UK100-OTC', 'FR40-OTC', 'JP225-OTC', 'AUS200-OTC', 'US30-OTC', 'NZDUSD-OTC', 'HK33-OTC', 'AUDCAD-OTC', 'EURUSD-OTC', 'EU50-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+GBPUSD-OTC M5 2024-07-04 06:25:00 PUT 92
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Thu Jul  4 06:21:28 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['JP225-OTC', 'EU50-OTC', 'USNDAQ100-OTC', 'HK33-OTC', 'EURUSD-OTC', 'SP35-OTC', 'GBPUSD-OTC', 'AUS200-OTC', 'SP500-OTC', 'NZDUSD-OTC', 'UK100-OTC', 'USDCHF-OTC', 'AUDCAD-OTC', 'EURGBP-OTC', 'EURJPY-OTC', 'US30-OTC', 'GER30-OTC', 'FR40-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Thu Jul  4 06:22:36 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP35-OTC', 'EURGBP-OTC', 'FR40-OTC', 'GER30-OTC', 'GBPUSD-OTC', 'USDCHF-OTC', 'JP225-OTC', 'US30-OTC', 'NZDUSD-OTC', 'AUDCAD-OTC', 'SP500-OTC', 'EURUSD-OTC', 'AUS200-OTC', 'EURJPY-OTC', 'HK33-OTC', 'UK100-OTC', 'USNDAQ100-OTC', 'EU50-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+AUDCAD-OTC M5 2024-07-04 06:25:00 PUT 92
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Thu Jul  4 06:25:12 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP35-OTC', 'JP225-OTC', 'US30-OTC', 'AUS200-OTC', 'HK33-OTC', 'USDCHF-OTC', 'EURGBP-OTC', 'NZDUSD-OTC', 'GBPUSD-OTC', 'GER30-OTC', 'UK100-OTC', 'EURUSD-OTC', 'FR40-OTC', 'SP500-OTC', 'EURJPY-OTC', 'EU50-OTC', 'USNDAQ100-OTC', 'AUDCAD-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+USDCHF-OTC M5 2024-07-04 06:30:00 CALL 92
+Sinal inserido com sucesso.
+Uma das moedas possui notícia
+Thu Jul  4 06:26:20 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GBPUSD-OTC', 'UK100-OTC', 'SP35-OTC', 'USDCHF-OTC', 'EU50-OTC', 'SP500-OTC', 'NZDUSD-OTC', 'EURGBP-OTC', 'HK33-OTC', 'US30-OTC', 'FR40-OTC', 'GER30-OTC', 'JP225-OTC', 'AUDCAD-OTC', 'EURJPY-OTC', 'AUS200-OTC', 'USNDAQ100-OTC', 'EURUSD-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Thu Jul  4 06:29:32 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'EU50-OTC', 'FR40-OTC', 'EURUSD-OTC', 'EURJPY-OTC', 'NZDUSD-OTC', 'AUDCAD-OTC', 'UK100-OTC', 'GER30-OTC', 'JP225-OTC', 'SP35-OTC', 'SP500-OTC', 'GBPUSD-OTC', 'USNDAQ100-OTC', 'HK33-OTC', 'USDCHF-OTC', 'AUS200-OTC', 'EURGBP-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+AUDCAD-OTC M5 2024-07-04 06:35:00 PUT 92
+Sinal inserido com sucesso.
+Thu Jul  4 06:31:00 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EURUSD-OTC', 'NZDUSD-OTC', 'UK100-OTC', 'AUDCAD-OTC', 'GBPUSD-OTC', 'JP225-OTC', 'USNDAQ100-OTC', 'GER30-OTC', 'SP35-OTC', 'EU50-OTC', 'US30-OTC', 'USDCHF-OTC', 'EURJPY-OTC', 'EURGBP-OTC', 'FR40-OTC', 'SP500-OTC', 'AUS200-OTC', 'HK33-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+USDCHF-OTC M5 2024-07-04 06:35:00 CALL 92
+Sinal inserido com sucesso.
+Thu Jul  4 06:32:48 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP35-OTC', 'JP225-OTC', 'SP500-OTC', 'EURGBP-OTC', 'EURJPY-OTC', 'USDCHF-OTC', 'EU50-OTC', 'GBPUSD-OTC', 'AUDCAD-OTC', 'US30-OTC', 'EURUSD-OTC', 'UK100-OTC', 'NZDUSD-OTC', 'FR40-OTC', 'GER30-OTC', 'HK33-OTC', 'USNDAQ100-OTC', 'AUS200-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Uma das moedas possui notícia
+Uma das moedas possui notícia
+Conectado com sucesso ao IQ Option.
+NZDUSD-OTC M5 2024-07-04 06:40:00 PUT 92
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Thu Jul  4 06:35:55 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['HK33-OTC', 'AUS200-OTC', 'JP225-OTC', 'FR40-OTC', 'SP35-OTC', 'SP500-OTC', 'US30-OTC', 'EU50-OTC', 'UK100-OTC', 'USDCHF-OTC', 'USNDAQ100-OTC', 'NZDUSD-OTC', 'AUDCAD-OTC', 'GER30-OTC', 'EURJPY-OTC', 'GBPUSD-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+AUDCAD-OTC M5 2024-07-04 06:40:00 PUT 92
+Sinal inserido com sucesso.
+Thu Jul  4 06:38:41 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['FR40-OTC', 'JP225-OTC', 'SP500-OTC', 'US30-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'AUDCAD-OTC', 'HK33-OTC', 'GER30-OTC', 'NZDUSD-OTC', 'USDCHF-OTC', 'USNDAQ100-OTC', 'SP35-OTC', 'EURJPY-OTC', 'GBPUSD-OTC', 'EU50-OTC', 'UK100-OTC', 'AUS200-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Thu Jul  4 06:39:40 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['UK100-OTC', 'SP35-OTC', 'USDCHF-OTC', 'EURJPY-OTC', 'SP500-OTC', 'AUDCAD-OTC', 'EU50-OTC', 'EURUSD-OTC', 'USNDAQ100-OTC', 'FR40-OTC', 'GER30-OTC', 'GBPUSD-OTC', 'NZDUSD-OTC', 'JP225-OTC', 'HK33-OTC', 'US30-OTC', 'AUS200-OTC', 'EURGBP-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+USDCHF-OTC M5 2024-07-04 06:45:00 PUT 93
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Thu Jul  4 06:41:07 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['AUDCAD-OTC', 'HK33-OTC', 'GER30-OTC', 'GBPUSD-OTC', 'JP225-OTC', 'FR40-OTC', 'USNDAQ100-OTC', 'EURUSD-OTC', 'SP35-OTC', 'EU50-OTC', 'AUS200-OTC', 'NZDUSD-OTC', 'EURGBP-OTC', 'UK100-OTC', 'EURJPY-OTC', 'USDCHF-OTC', 'US30-OTC', 'SP500-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+AUDCAD-OTC M5 2024-07-04 06:45:00 PUT 93
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURGBP-OTC M5 2024-07-04 06:45:00 PUT 93
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Thu Jul  4 06:43:49 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['EU50-OTC', 'SP35-OTC', 'GER30-OTC', 'FR40-OTC', 'NZDUSD-OTC', 'AUS200-OTC', 'SP500-OTC', 'EURGBP-OTC', 'UK100-OTC', 'EURJPY-OTC', 'US30-OTC', 'GBPUSD-OTC', 'AUDCAD-OTC', 'HK33-OTC', 'USDCHF-OTC', 'USNDAQ100-OTC', 'EURUSD-OTC', 'JP225-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+GBPUSD-OTC M5 2024-07-04 06:50:00 PUT 93
+Sinal inserido com sucesso.
+Thu Jul  4 06:45:45 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['UK100-OTC', 'USDCHF-OTC', 'EURGBP-OTC', 'USNDAQ100-OTC', 'JP225-OTC', 'EURUSD-OTC', 'HK33-OTC', 'AUDCAD-OTC', 'EURJPY-OTC', 'GER30-OTC', 'NZDUSD-OTC', 'AUS200-OTC', 'EU50-OTC', 'SP500-OTC', 'SP35-OTC', 'GBPUSD-OTC', 'FR40-OTC', 'US30-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Thu Jul  4 06:46:32 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP500-OTC', 'NZDUSD-OTC', 'EU50-OTC', 'AUDCAD-OTC', 'EURGBP-OTC', 'GBPUSD-OTC', 'USNDAQ100-OTC', 'JP225-OTC', 'HK33-OTC', 'SP35-OTC', 'GER30-OTC', 'FR40-OTC', 'EURUSD-OTC', 'EURJPY-OTC', 'UK100-OTC', 'US30-OTC', 'USDCHF-OTC', 'AUS200-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Thu Jul  4 06:47:02 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP35-OTC', 'NZDUSD-OTC', 'EURJPY-OTC', 'AUS200-OTC', 'GER30-OTC', 'USNDAQ100-OTC', 'EURUSD-OTC', 'US30-OTC', 'UK100-OTC', 'FR40-OTC', 'GBPUSD-OTC', 'JP225-OTC', 'HK33-OTC', 'SP500-OTC', 'USDCHF-OTC', 'EURGBP-OTC', 'AUDCAD-OTC', 'EU50-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Thu Jul  4 06:48:05 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'EURUSD-OTC', 'NZDUSD-OTC', 'EU50-OTC', 'HK33-OTC', 'AUDCAD-OTC', 'AUS200-OTC', 'JP225-OTC', 'USDCHF-OTC', 'EURJPY-OTC', 'GER30-OTC', 'GBPUSD-OTC', 'SP35-OTC', 'UK100-OTC', 'USNDAQ100-OTC', 'SP500-OTC', 'EURGBP-OTC', 'FR40-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Thu Jul  4 06:48:30 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['AUDCAD-OTC', 'EU50-OTC', 'AUS200-OTC', 'FR40-OTC', 'GER30-OTC', 'EURJPY-OTC', 'EURUSD-OTC', 'SP500-OTC', 'GBPUSD-OTC', 'HK33-OTC', 'SP35-OTC', 'USDCHF-OTC', 'EURGBP-OTC', 'JP225-OTC', 'NZDUSD-OTC', 'USNDAQ100-OTC', 'UK100-OTC', 'US30-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+AUDCAD-OTC M5 2024-07-04 06:50:00 CALL 93
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURJPY-OTC M5 2024-07-04 06:50:00 CALL 93
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+GBPUSD-OTC M5 2024-07-04 06:55:00 PUT 93
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Thu Jul  4 06:53:23 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['US30-OTC', 'EURGBP-OTC', 'SP500-OTC', 'AUS200-OTC', 'AUDCAD-OTC', 'JP225-OTC', 'EURJPY-OTC', 'SP35-OTC', 'NZDUSD-OTC', 'USNDAQ100-OTC', 'GER30-OTC', 'UK100-OTC', 'EU50-OTC', 'FR40-OTC', 'GBPUSD-OTC', 'EURUSD-OTC', 'HK33-OTC', 'USDCHF-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Thu Jul  4 06:53:49 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GBPUSD-OTC', 'JP225-OTC', 'UK100-OTC', 'AUDCAD-OTC', 'SP500-OTC', 'HK33-OTC', 'SP35-OTC', 'USNDAQ100-OTC', 'EURJPY-OTC', 'NZDUSD-OTC', 'EURGBP-OTC', 'US30-OTC', 'EURUSD-OTC', 'USDCHF-OTC', 'AUS200-OTC', 'GER30-OTC', 'EU50-OTC', 'FR40-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Thu Jul  4 06:54:18 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['AUS200-OTC', 'EURUSD-OTC', 'US30-OTC', 'EU50-OTC', 'EURGBP-OTC', 'AUDCAD-OTC', 'GER30-OTC', 'USDCHF-OTC', 'UK100-OTC', 'EURJPY-OTC', 'USNDAQ100-OTC', 'SP500-OTC', 'GBPUSD-OTC', 'NZDUSD-OTC', 'JP225-OTC', 'FR40-OTC', 'SP35-OTC', 'HK33-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+GBPUSD-OTC M5 2024-07-04 07:00:00 PUT 93
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Thu Jul  4 06:57:03 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['GBPUSD-OTC', 'UK100-OTC', 'AUS200-OTC', 'JP225-OTC', 'USDCHF-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'EURUSD-OTC', 'NZDUSD-OTC', 'SP35-OTC', 'EU50-OTC', 'SP500-OTC', 'FR40-OTC', 'GER30-OTC', 'EURJPY-OTC', 'AUDCAD-OTC', 'EURGBP-OTC', 'HK33-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+AUDCAD-OTC M5 2024-07-04 07:00:00 PUT 93
+Sinal inserido com sucesso.
+Thu Jul  4 06:59:03 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['HK33-OTC', 'EURGBP-OTC', 'GBPUSD-OTC', 'SP35-OTC', 'EU50-OTC', 'US30-OTC', 'SP500-OTC', 'EURUSD-OTC', 'NZDUSD-OTC', 'GER30-OTC', 'AUDCAD-OTC', 'JP225-OTC', 'USDCHF-OTC', 'USNDAQ100-OTC', 'AUS200-OTC', 'EURJPY-OTC', 'FR40-OTC', 'UK100-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+AUDCAD-OTC M5 2024-07-04 07:05:00 PUT 93
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURUSD-OTC M5 2024-07-04 07:05:00 CALL 93
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Conectado com sucesso ao IQ Option.
+USDCHF-OTC M5 2024-07-04 07:10:00 PUT 93
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+EURJPY-OTC M5 2024-07-04 07:10:00 CALL 93
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+GBPJPY-OTC M5 2024-07-04 07:15:00 PUT 93
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+GBPUSD-OTC M5 2024-07-04 07:15:00 CALL 93
+Sinal inserido com sucesso.
+Conectado com sucesso ao IQ Option.
+Uma das moedas já possui sinal: 
+Thu Jul  4 07:16:19 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['UK100-OTC', 'GER30-OTC', 'SP500-OTC', 'FR40-OTC', 'HK33-OTC', 'EURJPY-OTC', 'EURUSD-OTC', 'USNDAQ100-OTC', 'SP35-OTC', 'NZDUSD-OTC', 'EURGBP-OTC', 'US30-OTC', 'GBPUSD-OTC', 'EU50-OTC', 'JP225-OTC', 'AUS200-OTC', 'AUDCAD-OTC', 'USDCHF-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Thu Jul  4 07:17:44 2024: Stopping script ia.py
+Thu Jul  4 07:22:24 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['AUDCAD-OTC', 'EU50-OTC', 'EURGBP-OTC', 'SP35-OTC', 'NZDUSD-OTC', 'JP225-OTC', 'US30-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'UK100-OTC', 'GER30-OTC', 'EURJPY-OTC', 'HK33-OTC', 'SP500-OTC', 'EURUSD-OTC', 'USNDAQ100-OTC', 'FR40-OTC', 'AUS200-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Thu Jul  4 07:35:53 2024: Starting script ia.py
+Buscando Ativos
+Ativos encontrados
+['SP35-OTC', 'USDCHF-OTC', 'EURGBP-OTC', 'AUDCAD-OTC', 'JP225-OTC', 'EURUSD-OTC', 'GBPUSD-OTC', 'NZDUSD-OTC', 'USNDAQ100-OTC', 'GER30-OTC', 'SP500-OTC', 'FR40-OTC', 'EU50-OTC', 'US30-OTC', 'AUS200-OTC', 'EURJPY-OTC', 'HK33-OTC', 'UK100-OTC', 'EURUSD-OTC', 'EURGBP-OTC', 'USDCHF-OTC', 'GBPUSD-OTC', 'GBPJPY-OTC', 'SP500-OTC', 'USNDAQ100-OTC', 'US30-OTC', 'SP35-OTC', 'FR40-OTC', 'GER30-OTC', 'UK100-OTC', 'AUS200-OTC', 'HK33-OTC', 'EU50-OTC', 'JP225-OTC', 'Dollar_Index', 'Yen_Index']
+Analisando Mercado
+Conectado com sucesso ao IQ Option.
+Thu Jul  4 13:14:46 2024: Starting script ia.py
+Thu Jul  4 13:16:45 2024: Stopping script ia.py
+Thu Jul  4 13:17:05 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Thu Jul  4 13:22:02 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Thu Jul  4 14:00:08 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Tentativa 1 falhou: Expecting value: line 1 column 2 (char 1)
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Thu Jul  4 14:19:59 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Tentativa 1 falhou: Expecting value: line 1 column 2 (char 1)
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Thu Jul  4 16:16:26 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Thu Jul  4 16:28:52 2024: Starting script ia.py
+Thu Jul  4 16:29:15 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Thu Jul  4 16:32:15 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Thu Jul  4 18:58:36 2024: Starting script ia.py
+Tentativa 1 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 2 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 3 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 4 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 5 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 6 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 7 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 8 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 9 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 10 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 11 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 12 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 13 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 14 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 15 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 16 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 17 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 18 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 19 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 20 falhou: Expecting value: line 1 column 2 (char 1)
+Atingido o número máximo de tentativas (20). Não foi possível conectar ao IQ Option.
+Tentativa 1 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 2 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 3 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 4 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 5 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 6 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 7 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 8 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 9 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 10 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 11 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 12 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 13 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 14 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 15 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 16 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 17 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 18 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 19 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 20 falhou: Expecting value: line 1 column 2 (char 1)
+Atingido o número máximo de tentativas (20). Não foi possível conectar ao IQ Option.
+Tentativa 1 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 2 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 3 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 4 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 5 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 6 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 7 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 8 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 9 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 10 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 11 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 12 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 13 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 14 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 15 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 16 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 17 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 18 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 19 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 20 falhou: Expecting value: line 1 column 2 (char 1)
+Atingido o número máximo de tentativas (20). Não foi possível conectar ao IQ Option.
+Tentativa 1 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 2 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 3 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 4 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 5 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 6 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 7 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 8 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 9 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 10 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 11 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 12 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 13 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 14 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 15 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 16 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 17 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 18 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 19 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 20 falhou: Expecting value: line 1 column 2 (char 1)
+Atingido o número máximo de tentativas (20). Não foi possível conectar ao IQ Option.
+Tentativa 1 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 2 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 3 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 4 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 5 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 6 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 7 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 8 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 9 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 10 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 11 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 12 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 13 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 14 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 15 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 16 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 17 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 18 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 19 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 20 falhou: Expecting value: line 1 column 2 (char 1)
+Atingido o número máximo de tentativas (20). Não foi possível conectar ao IQ Option.
+Tentativa 1 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 2 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 3 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 4 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 5 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 6 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 7 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 8 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 9 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 10 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 11 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 12 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 13 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 14 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 15 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 16 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 17 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 18 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 19 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 20 falhou: Expecting value: line 1 column 2 (char 1)
+Atingido o número máximo de tentativas (20). Não foi possível conectar ao IQ Option.
+Tentativa 1 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 2 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 3 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 4 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 5 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 6 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 7 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 8 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 9 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 10 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 11 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 12 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 13 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 14 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 15 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 16 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 17 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 18 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 19 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 20 falhou: Expecting value: line 1 column 2 (char 1)
+Atingido o número máximo de tentativas (20). Não foi possível conectar ao IQ Option.
+Tentativa 1 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 2 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 3 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 4 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 5 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 6 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 7 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 8 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 9 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 10 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 11 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 12 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 13 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 14 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 15 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 16 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 17 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 18 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 19 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 20 falhou: Expecting value: line 1 column 2 (char 1)
+Atingido o número máximo de tentativas (20). Não foi possível conectar ao IQ Option.
+Tentativa 1 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 2 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 3 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 4 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 5 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 6 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 7 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 8 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 9 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 10 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 11 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 12 falhou: Expecting value: line 1 column 2 (char 1)
+Tentativa 13 falhou: Expecting value: line 1 column 2 (char 1)
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Thu Jul  4 20:38:33 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Thu Jul  4 21:00:11 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Thu Jul  4 23:07:31 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Fri Jul  5 12:56:19 2024: Starting script ia.py
+Fri Jul  5 12:58:29 2024: Stopping script ia.py
+Fri Jul  5 12:58:58 2024: Starting script ia.py
+Fri Jul  5 13:00:26 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Fri Jul  5 19:55:34 2024: Starting script ia.py
+Fri Jul  5 19:57:20 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Fri Jul  5 20:01:01 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Fri Jul  5 20:34:19 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 05:41:04 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 05:45:23 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 05:48:02 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 05:49:32 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 05:56:14 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 06:05:34 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 06:08:01 2024: Starting script ia.py
+Sat Jul  6 06:08:48 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 06:29:45 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 06:32:30 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 06:35:50 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 06:39:38 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 06:49:26 2024: Starting script ia.py
+Sat Jul  6 06:50:49 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 06:57:20 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 06:59:45 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 07:04:01 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 07:10:02 2024: Starting script ia.py
+Sat Jul  6 07:11:17 2024: Starting script ia.py
+Sat Jul  6 07:13:35 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 07:15:32 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 07:20:24 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 07:21:53 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 07:29:08 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 07:32:50 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 07:36:31 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 07:37:33 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 07:40:42 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 07:42:33 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 08:06:53 2024: Starting script ia.py
+Sat Jul  6 08:07:45 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 09:54:59 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 09:56:57 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 09:59:10 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 10:01:47 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 10:12:07 2024: Starting script ia.py
+Sat Jul  6 10:13:14 2024: Starting script ia.py
+Sat Jul  6 10:14:26 2024: Starting script ia.py
+Sat Jul  6 10:15:02 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 10:17:20 2024: Starting script ia.py
+Sat Jul  6 10:18:59 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 10:20:34 2024: Starting script ia.py
+Sat Jul  6 10:21:26 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 10:46:51 2024: Starting script ia.py
+Sat Jul  6 10:47:24 2024: Starting script ia.py
+Sat Jul  6 10:49:00 2024: Starting script ia.py
+Sat Jul  6 10:51:09 2024: Starting script ia.py
+Sat Jul  6 10:51:56 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 10:52:51 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 11:03:33 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 11:07:16 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 11:08:32 2024: Starting script ia.py
+Sat Jul  6 11:09:05 2024: Starting script ia.py
+Sat Jul  6 11:09:25 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 11:10:49 2024: Starting script ia.py
+Sat Jul  6 11:11:27 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 11:16:31 2024: Starting script ia.py
+Sat Jul  6 12:34:38 2024: Starting script ia.py
+Conectado com sucesso ao IQ Option.
+Conectado com sucesso ao IQ Option.
+Sat Jul  6 20:34:19 2024: Starting script ia.py
+Sat Jul  6 20:41:34 2024: Starting script ia.py
+Sat Jul  6 21:42:32 2024: Starting script ia.py
+Sat Jul  6 21:45:12 2024: Starting script ia.py
+Sat Jul  6 21:45:39 2024: Stopping script ia.py
+Sat Jul  6 21:46:59 2024: Starting script ia.py
+Sat Jul  6 21:49:02 2024: Starting script ia.py
+Sat Jul  6 21:52:54 2024: Starting script ia.py
+Sat Jul  6 21:54:32 2024: Starting script ia.py
+Sat Jul  6 21:56:36 2024: Starting script ia.py
+Sat Jul  6 21:58:02 2024: Stopping script ia.py
+Sat Jul  6 22:31:58 2024: Starting script ia.py
+Sun Jul  7 18:39:50 2024: Starting script ia.py
+Sun Jul  7 18:42:23 2024: Starting script ia.py
+Sun Jul  7 18:45:06 2024: Starting script ia.py
+Sun Jul  7 18:45:24 2024: Stopping script ia.py
+Sun Jul  7 18:47:38 2024: Starting script ia.py
+Sun Jul  7 18:50:35 2024: Starting script ia.py
+Sun Jul  7 18:51:08 2024: Starting script ia.py
+Sun Jul  7 19:05:49 2024: Starting script ia.py
+Sun Jul  7 19:08:34 2024: Starting script ia.py
+Sun Jul  7 19:10:31 2024: Starting script ia.py
+Sun Jul  7 19:13:37 2024: Starting script ia.py
+Sun Jul  7 19:16:16 2024: Starting script ia.py
+Sun Jul  7 19:17:18 2024: Starting script ia.py
+Sun Jul  7 19:17:48 2024: Starting script ia.py
+Sun Jul  7 19:21:09 2024: Starting script ia.py
+Sun Jul  7 19:21:34 2024: Starting script ia.py
+Sun Jul  7 19:23:18 2024: Starting script ia.py
+Sun Jul  7 19:24:27 2024: Starting script ia.py
+Sun Jul  7 19:26:04 2024: Starting script ia.py
+Sun Jul  7 19:27:13 2024: Starting script ia.py
+Sun Jul  7 19:29:01 2024: Starting script ia.py
+Sun Jul  7 19:38:46 2024: Starting script ia.py
+Sun Jul  7 20:12:35 2024: Starting script ia.py
+Sun Jul  7 20:15:26 2024: Starting script ia.py
+Sun Jul  7 20:19:24 2024: Stopping script ia.py
+Sun Jul  7 20:29:07 2024: Starting script ia.py
+Sun Jul  7 20:34:29 2024: Stopping script ia.py
+Sun Jul  7 20:34:48 2024: Starting script ia.py
+Sun Jul  7 23:04:26 2024: Starting script ia.py
+Sun Jul  7 23:12:35 2024: Starting script ia.py
+Mon Jul  8 06:09:32 2024: Starting script ia.py
+Mon Jul  8 06:10:51 2024: Starting script ia.py
+Mon Jul  8 06:24:34 2024: Stopping script ia.py
+Mon Jul  8 06:33:20 2024: Starting script ia.py
+Mon Jul  8 06:36:19 2024: Starting script ia.py
+Mon Jul  8 06:39:48 2024: Starting script ia.py
+Mon Jul  8 06:41:43 2024: Starting script ia.py
+Não foi possível calcular os indicadores
+Mon Jul  8 06:53:03 2024: Stopping script ia.py
+Mon Jul  8 06:53:19 2024: Starting script ia.py

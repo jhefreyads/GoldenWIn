@@ -1,0 +1,375 @@
+.responsive-logo {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* CSS para mudar cor da letra inativa para branco */
+.nav-tabs .nav-link {
+    color: white; /* Define a cor padrão das abas como branco */
+}
+
+.nav-tabs .nav-link.active {
+    color: black; /* Mantém a cor azul para a aba ativa se desejado */
+}
+
+.white-top-border {
+    border-top: 1px solid #fff; /* Define a borda superior branca */
+    padding-top: 10px; /* Ajuste opcional para espaçamento */
+}
+body {
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+    padding-top: 20px;
+    }
+    .console {
+        width: 100%;
+        height: 200px;
+        background-color: #2e2e2e;
+        color: #fff;
+        padding: 10px;
+        font-family: monospace;
+        font-size: 10px; /* Tamanho da fonte reduzido */
+        overflow-y: scroll;
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+
+
+.script-container {
+    margin-bottom: 20px;
+}
+.card {
+    background-color: #2e2e2e;
+    border: 1px solid #444;
+    border-radius: 10px;
+}
+.card-header {
+    background-color: #3e3e3e;
+    border-bottom: 1px solid #444;
+    font-weight: bold;
+}
+.btn-custom {
+    background-color: #007bff;
+    color: #fff;
+}
+.btn-custom:hover {
+    background-color: #0056b3;
+}
+.table-custom th, .table-custom td {
+    color: #d4d4d4;
+    border: 1px solid #444;
+}
+.table-custom th {
+    background-color: #3e3e3e;
+}
+.table-custom tr:nth-child(even) {
+    background-color: #2e2e2e;
+}
+.tab-content {
+    margin-top: 20px;
+}
+.clock-container {
+    background-color: #2e2e2e;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.clock {
+    font-size: 48px;
+    font-weight: bold;
+    color: #fff;
+}
+.last-signal-container {
+    background-color: #2e2e2e;
+    padding: 10px;
+    border-radius: 5px;
+}
+.last-signal {
+    background-color: #2e2e2e;
+    color: #fff;
+}
+.call-signal {
+    background-color: #2e2e2e;
+    color: #fff;
+}
+.put-signal {
+    background-color: #2e2e2e;
+    color: #fff;
+}
+.timer {
+    font-size: 14px;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+.mini-card {
+    background-color: #3e3e3e;
+    border: 1px solid #444;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+
+.switch {
+position: relative;
+display: inline-block;
+width: 60px;
+height: 34px;
+margin-left: 10px;
+}
+
+.switch input {
+opacity: 0;
+width: 0;
+height: 0;
+}
+
+.slider {
+position: absolute;
+cursor: pointer;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+background-color: #ccc;
+transition: .4s;
+border-radius: 34px;
+}
+
+.slider:before {
+position: absolute;
+content: "";
+height: 26px;
+width: 26px;
+left: 4px;
+bottom: 4px;
+background-color: white;
+transition: .4s;
+border-radius: 50%;
+}
+
+input:checked + .slider {
+background-color: #2196F3;
+}
+
+input:checked + .slider:before {
+transform: translateX(26px);
+}
+
+.slider.round {
+border-radius: 34px;
+}
+
+.slider.round:before {
+border-radius: 50%;
+}
+
+.flag-container {
+display: flex;
+align-items: center;
+margin-bottom: 15px;
+}
+
+.flag-label {
+flex: 1;
+text-align: right;
+margin-right: 10px;
+}
+.welcome-message {
+text-align: center;
+font-size: 2em; /* Tamanho grande da fonte */
+margin: 20px 0; /* Espaçamento acima e abaixo */
+font-weight: bold; /* Texto em negrito */
+}
+.event-box {
+    background-color: #3e3e3e;
+    border: 1px solid #444;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    color: #fff;
+}
+.event-box strong {
+    margin-bottom: 5px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.sidebar {
+    height: 100%;
+    width: 150px;
+    position: fixed;
+    top: 0;
+    left: -250px;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.3s;
+    padding-top: 60px;
+    z-index: 1000; /* Z-index alto para sobrepor conteúdo */
+    opacity: 85%o;
+}
+
+.sidebar a {
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidebar a:hover {
+    background-color: #575757;
+}
+
+.container {
+    transition: margin-left 0.3s;
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-left, .header-right {
+    display: flex;
+    align-items: center;
+}
+
+.header-right span {
+    margin-right: 5px;
+}
+
+.content-section {
+    display: none;
+    margin-top: 20px;
+}
+
+.content-section.active {
+    display: block;
+}
+
+.logout-btn {
+    color: #111;
+    text-decoration: none;
+    font-size: 18px;
+    margin-right: 20px;
+}
+.menu-button {
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+    border: none;
+}
+
+.menu-text {
+    color: white;
+    cursor: pointer;
+}
+.username {
+    font-weight: bold; /* Exemplo de estilo para destacar o nome */
+    color: white; /* Cor do texto */
+    /* Outros estilos conforme necessário */
+}
+#logs {
+    display: flex;
+}
+.log-container {
+    width: 30%;
+    margin: 0 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    overflow-y: scroll;
+    height: 400px;
+}
+.log-container pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+input[type=date] {
+    display: block;
+}
+.tab-content {
+    display: none;
+}
+.tab-content.active {
+    display: block;
+}
+.message-box {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+.language-selector {
+position: relative;
+display: inline-block;
+}
+
+.language-button {
+background-color: transparent;
+border: none;
+cursor: pointer;
+display: flex;
+align-items: center;
+}
+
+.language-button img {
+width: 30px;
+height: auto;
+border-radius: 50%;
+}
+
+.language-list {
+display: none;
+position: absolute;
+background-color: white;
+box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+z-index: 1;
+margin-top: 5px;
+border-radius: 5px;
+}
+
+.language-list a {
+color: black;
+padding: 12px 16px;
+text-decoration: none;
+display: flex;
+align-items: center;
+}
+
+.language-list a img {
+width: 20px;
+height: auto;
+border-radius: 50%;
+margin-right: 10px;
+}
+
+.language-list a:hover {
+background-color: #ddd;
+}
+
+.language-selector:hover .language-list {
+display: block;
+}

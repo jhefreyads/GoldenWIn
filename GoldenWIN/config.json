@@ -1,0 +1,1 @@
+{"ia.py": {"auto_restart": false, "restart_interval": 60}, "telegrambot.py": {"auto_restart": false, "restart_interval": 20}, "candles.py": {"auto_restart": false, "restart_interval": 10}, "candles_iq.py": {"auto_restart": false, "restart_interval": 10}}

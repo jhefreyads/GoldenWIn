@@ -1,0 +1,127 @@
+        
+        .login-container {
+            max-width: 400px;
+            margin: 0 auto;
+            background-color: #2e2e2e;
+            border: 1px solid #444;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            position: relative; /* Garante que o z-index funcione */
+            z-index: 10; /* Ajuste conforme necessário para colocar o elemento corretamente na camada desejada */
+        }
+
+        .container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+        }
+
+        .login-header {
+            text-align: center;
+            margin-bottom: 20px;
+            position: relative; /* Garante que o z-index funcione */
+            z-index: 10; /* Ajuste conforme necessário para colocar o elemento corretamente na camada desejada */
+        }
+        .login-header h2 {
+            color: #fff;
+            font-weight: bold;
+            position: relative; /* Garante que o z-index funcione */
+            z-index: 10; /* Ajuste conforme necessário para colocar o elemento corretamente na camada desejada */
+        }
+        .login-form {
+            margin-bottom: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            color: #fff;
+            font-weight: bold;
+        }
+        .form-control {
+            background-color: #3e3e3e;
+            color: #fff;
+            border: 1px solid #444;
+        }
+        .btn-custom {
+            background-color: #007bff;
+            color: #fff;
+            width: 100%;
+            padding: 10px;
+            font-weight: bold;
+            border: none;
+        }
+
+        .btn-custom:hover {
+            background-color: #0056b3;
+        }
+
+        .btn-success {
+            background-color: #3e3e3e;
+            color: #fff;
+            width: 100%;
+            padding: 10px;
+            font-weight: bold;
+            border: none;
+        }
+        
+        .btn-success:hover {
+            background-color: #0056b3;
+        }
+
+        .responsive-logo {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* Estilo para o Modal */
+        .modal-content {
+            background-color: #2e2e2e;
+            color: #fff;
+            border: 1px solid #444;
+        }
+        .modal-header {
+            border-bottom: none;
+            padding-bottom: 0;
+            position: relative; /* Garante que o z-index funcione */
+            z-index: 10; /* Ajuste conforme necessário para colocar o elemento corretamente na camada desejada */
+        }
+        .modal-body {
+            padding-top: 20px;
+        }
+
+        body, html {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            width: 100%;
+            height: 100%;
+        }
+
+        canvas {
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1; /* Ensure the canvas is behind other elements */
+        }
+        
+        #chart {
+            position: fixed;
+            text-align: center;
+            top: 50%;
+            left: 35%;
+            transform: translate(-50%, -50%); /* Centraliza o elemento */
+            width: 100%; /* Ajuste a largura conforme necessário */
+            height: 100%; /* Ajuste a altura conforme necessário */
+            pointer-events: auto; /* Permite eventos do mouse passarem para o conteúdo abaixo */
+            z-index: 0; /* Coloca a div na camada de fundo */
+            opacity: 0.3; /* Adiciona 60% de transparência */
+        }
