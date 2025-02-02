@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GOLDEN WIN - Obrigado pela compra!</title>
+    
+    <!-- Referências de CSS e JS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="{{ url_for('static', filename='js/disclaimer.js') }}"></script>
+
+    <!-- Estilos personalizados -->
+    <style>
+        .user-data {
+            background-color: #f8f9fa; /* Fundo claro */
+            border: 1px solid #ced4da; /* Borda cinza */
+            border-radius: 0.5rem; /* Bordas arredondadas */
+            padding: 20px; /* Espaçamento interno */
+            margin-bottom: 30px; /* Espaçamento abaixo */
+        }
+        .user-data h5 {
+            font-weight: bold; /* Fonte em negrito */
+            margin-bottom: 15px; /* Espaçamento abaixo do título */
+        }
+        .user-data p {
+            margin: 0px 0; /* Espaçamento entre os parágrafos */
+        }
+        .user-data strong {
+            color: #343a40; /* Cor do texto em negrito */
+        }
+        header {
+            position: relative;
+            overflow: hidden;
+            color: white;
+            height: auto; /* Altura dinâmica baseada no conteúdo */
+            background-color: rgba(0, 0, 0, 1); /* Fundo preto sólido */
+        }
+        
+        /* Pseudo-elemento para a imagem de fundo */
+        header::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: url('/static/images/header_background.jpeg');
+            background-size: cover; /* Ajusta a imagem para cobrir todo o header */
+            background-position: center; /* Centraliza a imagem */
+            filter: brightness(0.2); /* Escurece a imagem (ajuste o valor conforme necessário) */
+            z-index: -1; /* Coloca o pseudo-elemento atrás do conteúdo do header */
+        }
+        
+        footer {
+            margin-top: 30px; /* Margem acima do rodapé */
+        }
+        h1.lead {
+            font-size: 2rem; /* Ajuste do tamanho da fonte do título */
+        }
+        .responsive-logo {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 20px;
+        }
+        header.bg-dark {
+            background-color: transparent !important; /* Use !important se necessário */
+        }
+        /* Estilo para os botões de contato */
+    .contact-buttons {
+        display: flex;
+        justify-content: center;
+        gap: 20px; /* Espaçamento entre os botões */
+        margin-top: 20px;
+    }
+    .contact-item {
+        width: 60px;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #f0f0f0; /* Cor de fundo cinza */
+        border-radius: 50%; /* Tornar os botões circulares */
+        font-size: 2rem;
+        color: #555; /* Cor do ícone */
+        transition: background-color 0.3s, color 0.3s;
+        text-decoration: none; /* Remove a linha do link */
+    }
+
+    .contact-item:hover {
+        background-color: #dcdcdc; /* Cor de fundo ao passar o mouse */
+        color: #000; /* Cor do ícone ao passar o mouse */
+    }
+
+    /* Responsividade opcional */
+    @media (max-width: 768px) {
+        .contact-buttons {
+            gap: 10px;
+        }
+    }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="text-center p-5 bg-dark text-light position-relative" data-aos="fade-down">
+        <div class="header-content">
+            <a href="https://goldenwin.com.br" target="_blank"> <!-- Link para o site -->
+                <img src="/static/logo.png" alt="Logo" class="responsive-logo">
+            </a>
+        </div>    
+    </header>
+
+    <section class="container mt-5">
+        <div class="row justify-content-center">
+            <!-- Mensagem de agradecimento -->
+            <div class="col-md-8">
+                <h1 class="lead text-center">Obrigado pela sua compra!</h1>
+                <p class="text-center">Sua compra foi realizada com sucesso. Estamos muito felizes em ter você conosco!<br> Um email foi enviado com todos os dados de acesso ao produto.</p>
+                
+               <div class="user-data">
+                    <h5>Detalhes do Produto</h5>
+                    <p><strong>Nome do Produto:</strong> {{ product_name }}</p>
+                    <p><strong>Valor:</strong> {{ product_price }}</p>
+                    <p><strong>Data da Compra:</strong> {{ purchase_date }}</p>
+                    <p><strong>Data de Expiração da licença:</strong> {{ expiry_date }}</p>
+                    <div class="text-center">
+                        <a class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#firstAccessModal" style="background-color: #f0f0f0; color: #555; border-color: #555; margin: 15px">Solicitar acessos novamente</a>    
+                    </div>
+                </div>
+                <!-- Botões de Ação -->
+                <div class="text-center">
+                    <h1 class="lead text-center">Contatos</h1>    
+                    <!-- Botões de Contato -->
+                    <div class="contact-buttons">
+                        <!-- Telegram -->
+                        <a href="https://t.me/goldenwintradebot?start=Olá%20necessito%20suporte" target="_blank" class="contact-item">
+                            <i class="fab fa-telegram"></i>
+                        </a>
+                        <!-- WhatsApp -->
+                        <a href="https://wa.me/5548988090814?text=Olá%20necessito%20suporte" target="_blank" class="contact-item">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
+                        <!-- Instagram -->
+                        <a href="https://www.instagram.com/goldenwin_ia/" target="_blank" class="contact-item">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <!-- Email -->
+                        <a href="mailto:suporte@goldenwin.com.br?subject=Solicitação%20de%20suporte%20Golden%20Win%20APP" class="contact-item">
+                            <i class="fas fa-envelope"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+<!-- Modal de Primeiro Acesso Simplificado -->
+<div class="modal fade" id="firstAccessModal" tabindex="-1" role="dialog" aria-labelledby="firstAccessModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="firstAccessModalLabel">Solicitar Acessos</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+            </div>
+            <div class="modal-body">
+                <div class="mb-3">
+                    <label for="emailOrCpf" class="form-label">Digite seu E-mail ou CPF</label>
+                    <input type="text" class="form-control" id="emailOrCpf" name="emailOrCpf" placeholder="E-mail ou CPF" required>
+                </div>
+                
+                <!-- Centralizar o botão -->
+                <div class="d-flex justify-content-center">
+                    <button type="button" class="btn btn-outline-primary" id="sendEmailButton" style="background-color: #f0f0f0; color: #555; border-color: #555; margin: 15px">Enviar</button>
+                </div>
+                
+                <!-- Elemento para o círculo giratório e mensagem de envio -->
+                <div id="loading" class="d-none text-center mt-3">
+                    <p id="loadingMessage">Enviando dados...</p>
+                </div>
+                
+                <!-- Mensagem de alerta para resposta -->
+                <div id="alertMessage" class="alert alert-warning d-none mt-3" role="alert">
+                    Sua mensagem de alerta aqui.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <footer class="text-center p-4 bg-dark text-light">
+        <p>Este site não oferece aconselhamento financeiro. Os riscos são de responsabilidade do usuário.
+            <button type="button" class="btn btn-link" onclick="showDisclaimerModal()">Leia os Termos de Uso</button>
+        </p>
+    </footer>
+
+    <!-- Scripts do Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    // Função para enviar o código de licença
+    $('#sendEmailButton').click(function() {
+        var input = $('#emailOrCpf').val();
+        
+        if (input) {
+            // Esconder o botão de envio e mostrar o círculo de carregamento
+            $('#sendEmailButton').addClass('d-none');
+            $('#loading').removeClass('d-none');
+            $('#loadingMessage').text('Enviando dados...');
+
+            $.ajax({
+                url: '/send_license_code',
+                type: 'POST',
+                data: {
+                    user_cpf: input,
+                    user_email: input,
+                    user_key: input
+                },
+                success: function(response) {
+                    $('#loading').addClass('d-none'); // Esconder o círculo de carregamento
+
+                    if (response.success) {
+                        // Exibir mensagem de sucesso e ocultar botão de envio
+                        $('#alertMessage').removeClass('d-none alert-warning').addClass('alert-success').text('Um email foi enviado com sua licença. Por favor, verifique também a caixa de spam.');
+                    } else {
+                        // Exibir mensagem de erro e mostrar novamente o botão de envio
+                        $('#alertMessage').removeClass('d-none alert-success').addClass('alert-warning').text('Nenhum usuário encontrado. Por favor, entre em contato com o suporte.');
+                        $('#sendEmailButton').removeClass('d-none'); // Mostrar botão novamente
+                    }
+                },
+                error: function() {
+                    $('#loading').addClass('d-none'); // Esconder o círculo de carregamento
+                    $('#alertMessage').removeClass('d-none alert-success').addClass('alert-warning').text('Nenhum usuário encontrado. Por favor, confirme os dados da sua compra!');
+                    $('#sendEmailButton').removeClass('d-none'); // Mostrar botão novamente
+                }
+            });
+        } else {
+            alert('Por favor, insira um e-mail ou CPF.');
+        }
+    });
+</script>
+
+
+</body>
+</html>

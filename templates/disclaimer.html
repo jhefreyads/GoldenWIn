@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disclaimer de Sinais de Trading</title>
+    <style>
+        /* Estilos para o modal */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.4);
+        }
+
+        .modal-content {
+            background-color: #fefefe;
+            margin: 15% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            max-width: 600px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        /* Estilos para tornar o conteúdo mais legível */
+        ul {
+            padding-left: 20px;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+        }
+
+    </style>
+</head>
+<body>
+
+    <h2>Bem-vindo ao nosso site de sinais de trading!</h2>
+
+    <!-- Botão para abrir o modal -->
+    <button id="openModalBtn">Leia o Disclaimer</button>
+
+    <!-- O Modal -->
+    <div id="disclaimerModal" class="modal">
+
+        <!-- Conteúdo do Modal -->
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Disclaimer de Sinais de Trading</h2>
+            <ul>
+                <li><strong>Natureza dos Sinais de Trading:</strong> Os sinais de trading fornecidos por este site são para fins informativos e educativos. Não oferecemos qualquer tipo de garantia de lucro ou resultado específico com base nos sinais fornecidos.</li>
+                <li><strong>Responsabilidade do Usuário:</strong> O usuário é o único responsável pelas suas decisões de trading, incluindo perdas financeiras.</li>
+                <li><strong>Não Garantia de Resultados:</strong> Este site não garante que os sinais de trading gerarão lucros. Os resultados passados não garantem resultados futuros.</li>
+                <li><strong>Mercado OTC:</strong> O OTC não reflete necessariamente o movimento dos mercados oficiais, e suas cotações podem ser manipuladas por corretores. O usuário deve estar ciente dos riscos.</li>
+                <li><strong>Operações com Criptomoedas:</strong> Os mercados de criptomoedas são altamente voláteis e envolvem riscos significativos.</li>
+                <li><strong>Nenhum Conselho Financeiro:</strong> As informações fornecidas neste site não constituem aconselhamento financeiro. Consulte um profissional antes de investir.</li>
+                <li><strong>Alterações nos Pacotes de Serviços:</strong> Qualquer alteração nos pacotes será comunicada previamente. Se o usuário continuar utilizando o serviço, isso será considerado aceitação dos novos termos.</li>
+                <li><strong>Risco Inerente ao Trading:</strong> O trading envolve riscos e recomendamos que nunca invista dinheiro que você não possa perder.</li>
+                <li><strong>Isenção de Responsabilidade:</strong> Este site e seus operadores não se responsabilizam por quaisquer perdas ou danos decorrentes do uso dos sinais de trading.</li>
+            </ul>
+        </div>
+
+    </div>
+
+    <script>
+        // Obtenha o modal
+        var modal = document.getElementById("disclaimerModal");
+
+        // Obtenha o botão que abre o modal
+        var btn = document.getElementById("openModalBtn");
+
+        // Obtenha o <span> que fecha o modal
+        var span = document.getElementsByClassName("close")[0];
+
+        // Quando o usuário clicar no botão, abre o modal
+        btn.onclick = function() {
+            modal.style.display = "block";
+        }
+
+        // Quando o usuário clicar no <span> (x), fecha o modal
+        span.onclick = function() {
+            modal.style.display = "none";
+        }
+
+        // Quando o usuário clicar fora do modal, fecha o modal
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+    </script>
+
+</body>
+</html>

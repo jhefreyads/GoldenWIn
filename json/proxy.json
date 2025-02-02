@@ -1,0 +1,110 @@
+[
+    {
+        "ip": "66.29.154.105",
+        "port": 3128,
+        "country": "United States",
+        "anonymity": "anonymous"
+    },
+    {
+        "ip": "167.99.236.14",
+        "port": 80,
+        "country": "United States",
+        "anonymity": "elite proxy"
+    },
+    {
+        "ip": "198.199.86.11",
+        "port": 8080,
+        "country": "United States",
+        "anonymity": "anonymous"
+    },
+    {
+        "ip": "138.68.60.8",
+        "port": 8080,
+        "country": "United States",
+        "anonymity": "anonymous"
+    },
+    {
+        "ip": "47.178.24.220",
+        "port": 80,
+        "country": "United States",
+        "anonymity": "anonymous"
+    },
+    {
+        "ip": "129.213.89.36",
+        "port": 80,
+        "country": "United States",
+        "anonymity": "elite proxy"
+    },
+    {
+        "ip": "23.82.137.157",
+        "port": 80,
+        "country": "United States",
+        "anonymity": "anonymous"
+    },
+    {
+        "ip": "192.73.244.36",
+        "port": 80,
+        "country": "United States",
+        "anonymity": "elite proxy"
+    },
+    {
+        "ip": "198.49.68.80",
+        "port": 80,
+        "country": "United States",
+        "anonymity": "elite proxy"
+    },
+    {
+        "ip": "50.217.226.41",
+        "port": 80,
+        "country": "United States",
+        "anonymity": "anonymous"
+    },
+    {
+        "ip": "162.223.90.130",
+        "port": 80,
+        "country": "United States",
+        "anonymity": "elite proxy"
+    },
+    {
+        "ip": "172.191.74.198",
+        "port": 8080,
+        "country": "United States",
+        "anonymity": "anonymous"
+    },
+    {
+        "ip": "50.207.199.86",
+        "port": 80,
+        "country": "United States",
+        "anonymity": "anonymous"
+    },
+    {
+        "ip": "50.217.226.44",
+        "port": 80,
+        "country": "United States",
+        "anonymity": "anonymous"
+    },
+    {
+        "ip": "50.172.75.122",
+        "port": 80,
+        "country": "United States",
+        "anonymity": "anonymous"
+    },
+    {
+        "ip": "50.172.75.120",
+        "port": 80,
+        "country": "United States",
+        "anonymity": "anonymous"
+    },
+    {
+        "ip": "68.185.57.66",
+        "port": 80,
+        "country": "United States",
+        "anonymity": "anonymous"
+    },
+    {
+        "ip": "50.172.75.114",
+        "port": 80,
+        "country": "United States",
+        "anonymity": "anonymous"
+    }
+]

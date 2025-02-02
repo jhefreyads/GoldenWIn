@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GOLDEN WIN</title>
+    
+    
+    <!-- REFIRECIONAMENTO PARA REDES SOCIALS HENRIQUE - 08/06/24 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- AOS CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    
+    <!-- JS de Contato --> 
+    <script src="{{ url_for('static', filename='js/contact.js') }}"></script>
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js"></script>
+
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles_user.css') }}">
+    <script>const user_id = "{{ session['user_id'] }}";  // Assume que o 'user_id' está armazenado na sessão</script>
+
+</head>
+<body>
+<div class="main-content">
+<!-- Header -->
+<header class="text-center p-3 bg-dark text-light position-relative" data-aos="fade-down">
+    <div class="header-content d-flex justify-content-between align-items-center">
+        <img src="/static/logo_moeda.png" alt="Logo" class="responsive-logo">
+        <div class="button-container">
+            <a class="btn btn-warning mx-2" href="#" data-target="#home" onclick="selectSection(event)">Home</a>
+            <a class="btn btn-warning mx-2" href="#" data-target="#analitico" onclick="selectSection(event)">Histórico</a>
+            <a class="btn btn-warning mx-2" href="#" data-target="#iqoption" onclick="selectSection(event)">Iq Option</a>
+            <a class="btn btn-warning mx-2" href="#" data-target="#calendario" onclick="selectSection(event)">Notícias</a>
+            <a class="btn btn-warning mx-2" href="#" data-target="#realtime" onclick="selectSection(event)">Gráficos</a>
+            <a class="btn btn-warning mx-2" href="#" data-target="#user_config" onclick="selectSection(event)">Configurações</a>
+            <a class="btn btn-warning mx-2" href="#" onclick="confirmLogout(event)"><i class="fas fa-sign-out-alt"></i></a>
+            
+        </div>
+        <div class="clock" id="clock"></div>
+    </div>
+</header>
+
+
+
+
+<div id="home" class="content-section active">
+    <div class="row justify-content-center">
+        <div class="col-md-11">          
+            <div class="row">
+                <div class="row">
+                    <div class="col-md-6 d-flex">
+                        <div class="card mb-3 flex-fill">
+                            <div class="card-body last-signal-container white-top-border">
+                                <div class="last-signal" id="last_signal"></div>
+                            </div>
+                
+                            <div class="card mb-3">
+                                <div class="card-body last-signal-container">
+                                    <div class="card-body last-signal-container white-top-border">
+                                        <div class="mini-card">
+                                            
+                                            <div class="card-header" style="text-align: center;">Auto Trade Bot</div>
+                                            <div class="horizontal-divider" style="height: 1px; background-color: #ccc; margin: 15px 0; width: 100%;"></div>
+                                            <div class="mini-card-bot">
+                                                <div class="bot-info">
+                                                    <p><strong>🤖 Status: </strong><span id="bot-status"></span></p>
+                                                    <p><strong>🏦 Conta: </strong> <span id="balance_type">{{ balance_type }}</span></p>
+                                                    <p><strong>💵 Entrada: </strong><span id="bot_amount">R$ {{ bot_amount }}</span></p>
+                                                    <p><strong>🚀 Estratégias: </strong><span id="bot_strategy">{{ bot_strategy }}</span></p>
+                                                </div>
+                                                
+                                                <div class="vertical-divider" style="width: 1px; background-color: #ccc; margin: 0 15px; height: 150px;"></div>
+                                                
+                                                <div class="bot-info">
+                                                    <p><strong>💰 Lucro:</strong> <span id="bot_profit">R$ {{ bot_profit }}</span></p>
+                                                    <p><strong>💲 Balanço:</strong> <span id="bot_balance">R$ {{ bot_balance }}</span></p>
+                                                    <p><strong>📉 Stop-Win:</strong> <span id="bot_stop_win">R$ {{ bot_stop_win }}</span></p>
+                                                    <p><strong>🚫 Stop-Loss:</strong> <span id="bot_stop_loss">R$ {{ bot_stop_loss }}</span></p>
+                                                </div>
+                                            </div>
+                                            <div id="tab_container" style="text-align: center">
+                                                <button class="tablinks" onclick="showTab('executed')">Em execução</button>
+                                                <button class="tablinks" onclick="showTab('pending')">Agendados</button>
+                                                <button class="tablinks" onclick="showTab('completed')">Concluídos</button>
+                                            </div>
+                                            
+                                            <!-- Contêineres de cada aba -->
+                                            <div id="executed" class="tab-content" style="text-align: center;"></div>
+                                            <div id="pending" class="tab-content" style="display: none; text-align: center;"></div>
+                                            <div id="completed" class="tab-content" style="display: none; text-align: center;"></div>
+                                            
+                                            <div class="d-flex justify-content-between mt-3">
+                                                <button class="btn btn-success" id="start_bot" style="flex: 1; margin-right: 10px;">Iniciar Bot</button>
+                                                <button class="btn btn-danger" id="stop_bot" style="flex: 1; margin-left: 10px;">Parar Bot</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+
+                    <div class="col-md-6 d-flex">
+                        <div class="card mb-3 flex-fill">
+                            <div class="mini-card" style="text-align: center;"><strong>Últimos 7 Sinais</strong></div>
+                            <div class="card-body last-signal-container">
+                                <div id="last_5_signals"></div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-6 d-flex">
+                        <div class="card mb-3 flex-fill">
+                            <div class="card-body last-signal-container white-top-border">
+                                <div class="mini-card">
+                                    <div class="row d-flex align-items-stretch">
+                                        <div class="col-md-6">
+                                            <div class="user-info">
+                                                <div class="card-header" style="text-align: center;">Dados do Usuário</div>
+                                                <div class="horizontal-divider" style="height: 1px; background-color: #ccc; margin: 15px 0; width: 100%;"></div>
+                                                <p><strong>Nome:</strong> {{ user_name }}</p>
+                                                <p><strong>CPF:</strong> {{ user_cpf }}</p>
+                                                <p><strong>Telefone:</strong> {{ user_cellphone }}</p>
+                                                <p><strong>Email:</strong> {{ user_email }}</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="license-info">
+                                                <div class="card-header" style="text-align: center;">Licença</div>
+                                                <div class="horizontal-divider" style="height: 1px; background-color: #ccc; margin: 15px 0; width: 100%;"></div>
+                                                <p><strong>Status da Licença:</strong> {{ user_license_status }}</p>
+                                                <p><strong>Vencimento:</strong> {{ user_expiration }}</p>
+                                                <p><strong>Plano Contratado:</strong> {{ user_plan }}</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card-body last-signal-container d-flex justify-content-center align-items-center">
+                                        <div id="pieChart" style="width: 500px; height: 320px;"></div>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="analitico" class="content-section">
+    <div class="row justify-content-center">
+        <div class="col-md-11">
+            <div class="card mb-3">
+                <div class="card-header">Análise Detalhada</div>
+                <div class="card-body" id="analitico_content">
+                    <input type="text" id="searchInput" class="form-control" onkeyup="debounceSearch(this.value)">
+                    <div id="suggestions" style="display: none;" class="list-group"></div>
+                    <div id="signalsContainer"></div> <!-- Container para exibir os sinais -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="calendario" class="content-section">
+    <div class="row justify-content-center">
+        <div class="col-md-11">
+            <div class="card mb-3">
+                <div class="card-header">Calendário Econômico</div>
+                <div class="card-body" id="calendario_content">
+                    <div id="events-container"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="iqoption" class="content-section" style="position: relative; height: 100vh;">
+    <div id="notification_container" class="card" style="width: 400px; padding: 20px; box-shadow: 2px 0 5px rgba(0,0,0,0.1); position: absolute; top: 0; bottom: 0; left: 0;">
+        <div class="card-header">Sinais</div>
+        <div class="card-body">
+            <!-- Abas para os diferentes sinais aguardando -->
+            <div class="tabs">
+                <button class="tablinks" onclick="openTab(event, 'all_signals')" id="defaultTab">Todos</button>
+                <button class="tablinks" onclick="openTab(event, 'm1_signals')">M1</button>
+                <button class="tablinks" onclick="openTab(event, 'm5_signals')">M5</button>
+                <button class="tablinks" onclick="openTab(event, 'm15_signals')">M15</button>
+            </div>
+            
+            <!-- Conteúdo das abas -->
+            <div id="all_signals" class="tabcontent">
+                <div id="notification_signals"></div>
+                <div class="card-header">Sinais Em Andamento</div>
+                <div id="pending_signals_content"></div>
+            </div>
+            <div id="m1_signals" class="tabcontent">
+                <div class="card-header">Aguardando Entrada</div>
+                <div id="notification_signals_m1"></div>
+                <div class="card-header">Sinais Em Andamento</div>
+                <div id="pending_signals_content_m1"></div>
+            </div>
+            <div id="m5_signals" class="tabcontent">
+                <div class="card-header">Aguardando Entrada</div>
+                <div id="notification_signals_m5"></div>
+                <div class="card-header">Sinais Em Andamento</div>
+                <div id="pending_signals_content_m5"></div>
+            </div>
+            <div id="m15_signals" class="tabcontent">
+                <div class="card-header">Aguardando Entrada</div>
+                <div id="notification_signals_m15"></div>
+                <div class="card-header">Sinais Em Andamento</div>
+                <div id="pending_signals_content_m15"></div>
+            </div>
+        </div>
+    </div>
+
+    <div style="flex-grow: 1; margin-left: 400px;">
+        <iframe src="http://qxbroker.com/pt/trade" style="width: 100%; height: 80vh; border: none;" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div id="realtime" class="content-section">
+    <div class="row justify-content-center">
+        <div class="col-md-11">
+            <div class="card mb-3">
+                <div class="card-header">Preços atuais</div>
+                <div class="card-body">
+                    <!-- Flags para escolher as fontes -->
+                    <div id="sourceFlags" class="text-center mb-4">
+                        <button class="btn source-btn" data-source="forex" style="font-size: 1.5rem; padding: 12px 30px;">
+                            <i class="fas fa-globe"></i> Forex
+                        </button>
+                        <button class="btn source-btn" data-source="otc" style="font-size: 1.5rem; padding: 12px 30px;">
+                            <i class="fas fa-coins"></i> OTC
+                        </button>
+                    </div>
+
+                    <!-- Caixa de seleção dos ativos -->
+                    <select id="symbolSelect" class="form-select form-select-lg mt-3" disabled>
+                        <option value="">Selecione um ativo</option>
+                    </select>
+                    <!-- Caixa de seleção dos timeframes -->
+                    <select id="timeframeSelect" class="form-select form-select-lg mt-3">
+                        <option value="M1">M1</option>
+                        <option value="M5" selected>M5</option>
+                        <option value="M15">M15</option>
+                    </select>
+                    <!-- Botão para buscar candles -->
+                    <button id="getCandlesBtn" class="btn btn-lg btn-warning mt-3 w-100" disabled>Buscar Candles</button>
+                    <!-- Gráfico para exibir candles -->
+                    <div id="chart" style="height: 400px; width: 100%;" class="mt-3"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="user_config" class="content-section">
+    <div class="row justify-content-center">
+        <div class="col-md-11">
+            <div class="card mb-3">
+                <div class="card-header">Configurações do Usuário</div>
+                <div class="card-body d-flex">
+                    <!-- Sidebar -->
+                    <div class="sidebar">
+                        <div class="tab active" data-target="dados" onclick="showSection('dados')">
+                            <span>Dados</span>
+                        </div>
+                        <div class="tab" data-target="auto_trade" onclick="showSection('auto_trade')">
+                            <span>AutoTrade Bot</span>
+                        </div>
+                    </div>
+
+                    <!-- Conteúdo principal -->
+                    <div class="content">
+                        <div id="dados" class="section active">
+                            <h2>Configurações do Usuário</h2>
+                            <!-- Conteúdo da seção 'Dados' -->
+                        </div>
+
+                        <div id="auto_trade" class="section">
+                            <div class="coming-soon">
+                                Em Breve
+                            </div>
+                            <form id="config-form" method="POST" action="/user_config?user_id={{ user_id }}">
+                                <div id="user-data" data-user-id="{{ user_id | tojson }}"></div>
+                            
+                                <h2>Configurações do Bot</h2>
+                                
+                                <div class="form-group">
+                                    <label for="user_iq_login">Login IQ:</label>
+                                    <input type="text" name="user_iq_login" id="user_iq_login" autocomplete="off">
+                                </div>
+                            
+                                <div class="form-group">
+                                    <label for="user_iq_password">Senha IQ:</label>
+                                    <input type="password" name="user_iq_password" id="user_iq_password" autocomplete="new-password">
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="amount">Valor da entrada:</label>
+                                    <input type="number" name="amount" id="amount" autocomplete="off">
+                                </div>
+                                <div class="form-group">
+                                    <label for="before_seconds">Entrada antecipada:</label>
+                                    <input type="number" name="before_seconds" id="before_seconds" autocomplete="off">
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="gale">Gale:</label>
+                                    <select name="gale" id="gale">
+                                        <option value="0">Desativado</option>
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5</option>
+                                    </select>
+                                </div>
+                                
+                                <div class="form-group" id="multiplier_group">
+                                    <label for="multiplier">Multiplicador do Gale:</label>
+                                    <input type="number" name="multiplier" id="multiplier" autocomplete="off">
+                                </div>
+                            
+                                <div class="form-group">
+                                    <label for="balance_type">Tipo de Conta:</label>
+                                    <select name="balance_type" id="balance_type">
+                                        <option value="REAL">Real</option>
+                                        <option value="PRACTICE">Demo</option>
+                                    </select>
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="payout_min">Payout Mínimo:</label>
+                                    <input type="number" name="payout_min" id="payout_min" autocomplete="off">
+                                </div>
+                                
+                                
+                                <div class="form-group">
+                                    <label for="stop_win">Stop Win (R$):</label>
+                                    <input type="number" name="stop_win" id="stop_win" autocomplete="off">
+                                </div>
+                            
+                                <div class="form-group">
+                                    <label for="stop_loss">Stop Loss (R$):</label>
+                                    <input type="number" name="stop_loss" id="stop_loss" autocomplete="off">
+                                </div>
+                                
+                                
+                                <label for="hora_inicio" style="margin-right: 10px;">Horário de Operação:</label>
+                                <div class="form-group" style="display: flex; align-items: center;">
+                                    <input type="text" name="hora_inicio" id="hora_inicio" placeholder="HH:MM" pattern="[0-9]{2}:[0-9]{2}" title="O horário deve estar no formato HH:MM" maxlength="5" autocomplete="off" style="margin-right: 10px;">
+                                    <input type="text" name="hora_fim" id="hora_fim" placeholder="HH:MM" pattern="[0-9]{2}:[0-9]{2}" title="O horário deve estar no formato HH:MM" maxlength="5" autocomplete="off">
+                                </div>
+                                
+                                <label>
+                                    <input type="checkbox" id="await_loss" name="await_loss" onchange="toggleMaxSignals()"> Operação após Loss
+                                </label>
+                                <div class="form-group" id="max_signals_group" style="display: none;">
+                                    <label for="max_signals">Quantidade de sinais após Loss:</label>
+                                    <input type="number" name="max_signals" id="max_signals" autocomplete="off">
+                                </div>
+                                                    
+                                                                            
+                                <h2>Canais para sinais ao vivo:</h2>
+                                
+                                <div class="form-group">
+                                    <label for="auto">Tipo de Entrada:</label>
+                                    <select name="auto" id="auto">
+                                        <option value="1">Automática</option>
+                                        <option value="0">Manual</option>
+                                    </select>
+                                </div>
+                                
+                                <div class="checkbox-group" id="chat_group" style="display: none;">
+                                    <label>
+                                        <input type="checkbox" id="mercado_aberto" name="mercado_aberto"> Mercado Aberto
+                                    </label>
+                                    <div class="timeframes" id="timeframes_mercado_aberto" style="margin-left: 20px;">
+                                        <label><input type="checkbox" name="chat_ids" value="M1"> M1</label>
+                                        <label><input type="checkbox" name="chat_ids" value="M5"> M5</label>
+                                        <label><input type="checkbox" name="chat_ids" value="M15"> M15</label>
+                                    </div>
+                                
+                                    <label>
+                                        <input type="checkbox" id="otc" name="otc"> OTC
+                                    </label>
+                                    <div class="timeframes" id="timeframes_otc" style="margin-left: 20px;">
+                                        <label><input type="checkbox" name="chat_ids" value="M1_OTC"> M1 OTC</label>
+                                        <label><input type="checkbox" name="chat_ids" value="M5_OTC"> M5 OTC</label>
+                                        <label><input type="checkbox" name="chat_ids" value="M15_OTC"> M15 OTC</label>
+                                    </div>
+                                    <label>
+                                        <input type="checkbox" id="live" name="live"> Sinais ao vivo
+                                    </label>
+                                    <label>
+                                        <input type="checkbox" id="list" name="list"> Lista de Sinais
+                                    </label>
+                                    <label>
+                                        <input type="checkbox" id="concurrent" name="concurrent"> Sinais Simultâneos
+                                    </label>
+                                    
+                                </div>
+
+                                <button type="submit" class="btn btn-lg btn-warning mt-3 w-100">Salvar Configurações</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<!-- Balão de Contato -->
+<div id="contact-bubble">
+    <img src="/static/icons/contact.png" id="contact-icon" alt="Contact Icon" style="width: 60px; height: 60px;">
+    <div id="contact-popup">
+        <!-- Telegram -->
+        <div class="contact-item" id="contact-telegram">
+            <a href="https://t.me/goldenwintradebot?start=Olá%20necessito%20suporte" target="_blank">
+                <i class="fab fa-telegram"></i>
+            </a>
+        </div>
+        <!-- WhatsApp -->
+        <div class="contact-item" id="contact-whatsapp">
+            <a href="https://wa.me/5548988090814?text=Olá%20necessito%20suporte" target="_blank">
+                <i class="fab fa-whatsapp"></i>
+            </a>
+        </div>
+        <!-- Instagram -->
+        <div class="contact-item" id="contact-instagram">
+            <a href="https://www.instagram.com/goldenwin_ia/" target="_blank">
+                <i class="fab fa-instagram"></i>
+            </a>
+        </div>
+        <!-- Email -->
+        <div class="contact-item" id="contact-email">
+            <a href="mailto:suporte@goldenwin.com.br?subject=Solicitação%20de%20suporte%20Golden%20Win%20APP">
+                <i class="fas fa-envelope"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+{% with messages = get_flashed_messages(with_categories=True) %}
+    {% if messages %}
+        <div class="flash-messages">
+            {% for category, message in messages %}
+                <div class="flash-message {{ category }}">{{ message }}</div>
+            {% endfor %}
+        </div>
+    {% endif %}
+{% endwith %}
+</div>
+
+<!-- Footer -->
+<footer class="text-center p-2 bg-dark text-light">
+    <p>Este site não oferece aconselhamento financeiro. Os riscos são de responsabilidade do usuário.</br>
+        <button type="button" class="btn btn-link" onclick="showDisclaimerModal()">Termos de Uso</button>
+    </p>
+</footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.1/dist/echarts.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script src="{{ url_for('static', filename='js/disclaimer.js') }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.0/socket.io.min.js"></script>
+    <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="{{ url_for('static', filename='js/chart.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/disclaimer.js') }}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <script>
+    // JavaScript para rolar suavemente até a seção sem mudar a URL
+    document.querySelectorAll('.scroll-to-section').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+        e.preventDefault();  // Impede que a URL mude
+    
+        const targetId = this.getAttribute('href').substring(1);  // Obtém o ID da seção
+        const targetElement = document.getElementById(targetId);  // Seleciona o elemento alvo
+    
+        if (targetElement) {
+            window.scrollTo({
+                top: targetElement.offsetTop,  // Calcula a posição da seção
+                behavior: 'smooth'  // Faz a rolagem suave
+            });
+        }
+    });
+    });
+    </script>
+    
+
+    <script>
+// Função para aceitar os cookies e mostrar a mensagem de agradecimento
+function acceptCookies() {
+    localStorage.setItem('cookiesAccepted', 'true');
+    document.getElementById('cookie-text').innerHTML = 'Obrigado por aceitar os cookies!';
+    document.getElementById('cookie-btn').style.display = 'none'; // Esconde o botão após aceitar
+    setTimeout(hideCookieBanner, 3000); // Esconde o banner após 3 segundos
+}
+
+// Função para esconder o banner de cookies
+function hideCookieBanner() {
+    document.getElementById('cookie-banner').style.display = 'none';
+}
+
+// Função para exibir o banner apenas se os cookies não foram aceitos
+function checkCookieConsent() {
+    const cookiesAccepted = localStorage.getItem('cookiesAccepted');
+    if (!cookiesAccepted) {
+        document.getElementById('cookie-banner').style.display = 'flex';
+    }
+}
+
+// Função para fechar o banner sem aceitar
+function closeBanner() {
+    hideCookieBanner();
+}
+
+// Chama a verificação de consentimento ao carregar a página
+window.onload = checkCookieConsent;
+</script>
+    <script>
+    // Inicialização do AOS
+    AOS.init();
+</script>
+<script>
+    function toggleMaxSignals() {
+        const checkbox = document.getElementById("await_loss");
+        const maxSignalsGroup = document.getElementById("max_signals_group");
+        // Mostra ou oculta o grupo de sinais com base no estado da checkbox
+        if (checkbox.checked) {
+            maxSignalsGroup.style.display = "block"; // Exibe o campo
+        } else {
+            maxSignalsGroup.style.display = "none"; // Oculta o campo
+        }
+    }
+</script>
+<script>
+    function toggleMaxSignals() {
+        const checkbox = document.getElementById("await_loss");
+        const maxSignalsGroup = document.getElementById("max_signals_group");
+        // Mostra ou oculta o grupo de sinais com base no estado da checkbox
+        maxSignalsGroup.style.display = checkbox.checked ? "block" : "none";
+    }
+
+    // Verifica o estado da checkbox ao carregar a página
+    document.addEventListener("DOMContentLoaded", function() {
+        toggleMaxSignals(); // Chama a função para verificar o estado inicial
+    });
+</script>
+<script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+<script>
+    function showSection(sectionId) {
+        // Remove active class from all sections and tabs
+        document.querySelectorAll('.section').forEach(section => {
+            section.classList.remove('active');
+        });
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.classList.remove('active');
+        });
+
+        // Add active class to selected section and tab
+        document.getElementById(sectionId).classList.add('active');
+        document.querySelector(`.tab[data-target="${sectionId}"]`).classList.add('active');
+    }
+</script>
+<script>
+    // Gera um número aleatório e anexa como um parâmetro na URL de scripts.js
+    const randomVersion = Math.floor(Math.random() * 100000);
+    const script = document.createElement('script');
+    script.src = `/static/js/scripts.js?v=${randomVersion}`;
+    document.head.appendChild(script);
+</script>
+<script>
+    async function fetchBotStatus() {
+        try {
+            console.log("Iniciando requisição para obter o status do bot...");
+            const response = await fetch('https://goldenwin.com.br/api/user_bot_status', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ user_id: Number(user_id) }) // Garantindo que user_id seja um número
+            });
+
+            if (response.ok) {
+                const data = await response.json();
+                console.log("Resposta recebida da API:", data);
+
+                const status = data.ping_status.status === 'active' ? 'Ativo 🟢' : 'Inativo 🔴';
+
+                // Atualiza o conteúdo no frontend
+                document.getElementById('bot-status').textContent = status; 
+                document.getElementById('balance_type').textContent = data.balance_type || '---';
+                document.getElementById('bot_profit').textContent = `R$ ${data.bot_profit || '---'}`;
+                document.getElementById('bot_balance').textContent = `R$ ${data.bot_balance || '---'}`;
+                document.getElementById('bot_stop_win').textContent = `R$ ${data.bot_stop_win || '---'}`;
+                document.getElementById('bot_stop_loss').textContent = `R$ ${data.bot_stop_loss || '---'}`;
+                document.getElementById('bot_amount').textContent = `R$ ${data.bot_amount || '---'}`;
+                document.getElementById('bot_strategy').textContent = `${data.bot_strategy || '---'}`;
+
+                console.log("Status:", status); 
+            } else {
+                console.error('Erro na resposta da API');
+                document.getElementById('bot-status').textContent = 'Erro';
+            }
+        } catch (error) {
+            console.error('Erro ao fazer a requisição:', error);
+            document.getElementById('bot-status').textContent = 'Erro';
+        }
+    }
+
+    setInterval(fetchBotStatus, 3000);
+
+    // Chama a função ao carregar
+    fetchBotStatus()
+        .then(() => {
+            console.log("Requisição realizada com sucesso.");
+        })
+        .catch(error => {
+            console.error("Houve um erro na requisição:", error);
+        });
+</script>
+
+
+
+
+</html>

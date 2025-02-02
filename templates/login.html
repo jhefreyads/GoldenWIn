@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="manifest" href="/manifest.json">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="GOLDEN WIN">
+    <link rel="apple-touch-icon" href="/icons/icon-192x192.png">
+    <meta name="theme-color" content="#1e1e1e">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GOLDEN WIN - Login</title>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="{{ url_for('static', filename='js/scripts_login.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles_login.css') }}">
+    <script defer src="static/js/chart.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #1e1e1e;
+            color: #d4d4d4;
+            padding-top: 20px;
+        }
+        .login-container {
+            max-width: 400px;
+            margin: 0 auto;
+            background-color: #2e2e2e;
+            border: 1px solid #444;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            position: relative;
+            z-index: 10;
+        }
+
+        .container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+        }
+
+        .login-header {
+            text-align: center;
+            margin-bottom: 20px;
+            position: relative;
+            z-index: 10;
+        }
+        .login-header h2 {
+            color: #fff;
+            font-weight: bold;
+            position: relative;
+            z-index: 10;
+        }
+        .login-form {
+            margin-bottom: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            color: #fff;
+            font-weight: bold;
+        }
+        .form-control {
+            background-color: #3e3e3e;
+            color: #fff;
+            border: 1px solid #444;
+        }
+        .btn-custom {
+            background-color: #007bff;
+            color: #fff;
+            width: 100%;
+            padding: 10px;
+            font-weight: bold;
+            border: none;
+        }
+
+        .btn-custom:hover {
+            background-color: #0056b3;
+        }
+
+        .btn-success {
+            background-color: #3e3e3e;
+            color: #fff;
+            width: 100%;
+            padding: 10px;
+            font-weight: bold;
+            border: none;
+        }
+        
+        .btn-success:hover {
+            background-color: #0056b3;
+        }
+
+        .responsive-logo {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* Estilo para o Modal */
+        .modal-content {
+            background-color: #2e2e2e;
+            color: #fff;
+            border: 1px solid #444;
+        }
+        .modal-header {
+            border-bottom: none;
+            padding-bottom: 0;
+            position: relative;
+            z-index: 10;
+        }
+        .modal-body {
+            padding-top: 20px;
+        }
+
+        body, html {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            width: 100%;
+            height: 100%;
+        }
+
+        canvas {
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+        
+        #chart {
+            position: fixed;
+            text-align: center;
+            top: 50%;
+            left: 35%;
+            transform: translate(-50%, -50%);
+            width: 100%;
+            height: 100%;
+            pointer-events: auto;
+            z-index: 0;
+            opacity: 0.3;
+        }
+
+        /* Estilos específicos para dispositivos móveis */
+        @media (max-width: 768px) {
+            #faceidButton {
+                display: block;
+            }
+        }
+
+        /* Estilos para dispositivos não móveis */
+        @media (min-width: 769px) {
+            #faceidButton {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="chart"></div>
+    <div class="container">
+        <div class="login-container">
+            <div class="login-header">
+                <img src="/static/logo.png" alt="Logo" class="responsive-logo">
+            </div>
+            
+            <!-- Exibição das mensagens flash -->
+            {% with messages = get_flashed_messages(with_categories=True) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category }}" role="alert">
+                        {{ message }}
+                    </div>
+                {% endfor %}
+            {% endif %}
+            {% endwith %}
+            <div id="loadingOverlay" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background-color:rgba(0, 0, 0, 0.5); z-index:1000; text-align:center; color:white; font-size:20px;">
+                <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%);">
+                    <div class="spinner-border" role="status"></div>
+                    <p>Validando credenciais...</p>
+                </div>
+            </div>
+            
+            <form id="loginForm" class="login-form" action="/login" method="POST">
+                <div class="form-group">
+                    <label for="login_user">Usuário</label>
+                    <input type="text" class="form-control" id="login_user" name="login_user" placeholder="Digite seu usuário, email ou CPF" autocomplete="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="password">Senha</label>
+                    <input type="password" class="form-control" id="password" name="password" placeholder="Digite sua senha" autocomplete="current-password" required>
+                </div>
+                <input type="hidden" id="unique_id" name="unique_id">
+                <button type="submit" class="btn btn-custom mr-2">Entrar</button>
+                <label></label>
+                <button type="button" class="btn btn-success" data-toggle="modal" data-target="#firstAccessModal">Primeiro Acesso</button>
+            </form>
+
+            
+        </div>
+    </div>
+
+    <!-- Modal de Primeiro Acesso -->
+    <div class="modal fade" id="firstAccessModal" tabindex="-1" role="dialog" aria-labelledby="firstAccessModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="firstAccessModalLabel">Primeiro Acesso</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <!-- Opção de Envio de Código de Licença -->
+                    <div id="licenseValidationSection">
+                        <h6>Validar Licença</h6>
+                        <div class="form-group">
+                            <label for="license_code">Código de Licença</label>
+                            <input type="text" class="form-control" id="license_code" name="license_code" required>
+                        </div>
+                        <button type="button" class="btn btn-primary" id="validateLicenseButton">Enviar</button>
+                    </div>
+                    <hr>
+                    <!-- Opção de Receber Código por E-mail -->
+                    <div id="emailRequestSection">
+                        <h6>Receber Código</h6>
+                        <div class="form-group">
+                            <label for="emailOrCpf">Digite seu E-mail ou CPF</label>
+                            <input type="text" class="form-control" id="emailOrCpf" name="emailOrCpf" required>
+                        </div>
+                        <button type="button" class="btn btn-primary" id="sendEmailButton">Receber Código</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal de Cadastro -->
+    <div class="modal fade" id="registerModal" tabindex="-1" role="dialog" aria-labelledby="registerModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="registerModalLabel">Cadastrar Novo Usuário</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="registerForm">
+                        <div class="form-group">
+                            <label for="reg_name">Nome</label>
+                            <input type="text" class="form-control" id="reg_name" name="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="reg_cpf">CPF</label>
+                            <input type="text" class="form-control" id="reg_cpf" name="cpf" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="reg_email">E-mail</label>
+                            <input type="email" class="form-control" id="reg_email" name="email" required readonly>
+                        </div>
+                        <div class="form-group">
+                            <label for="reg_password">Senha</label>
+                            <input type="password" class="form-control" id="reg_password" name="password" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="confirm_password">Confirmar Senha</label>
+                            <input type="password" class="form-control" id="confirm_password" name="confirm_password" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Cadastrar</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="cookie-disclaimer" class="cookie-disclaimer">
+        <div class="content-wrapper">
+            <p>Este site utiliza cookies para personalizar a experiência do usuário, analisar o tráfego do site e melhorar nossos serviços. Ao continuar navegando, você concorda com o uso de cookies.</p>
+            <button id="accept-cookies">Entendi</button>
+        </div>
+    </div>
+    <footer>
+        <div class="footer-disclaimer">
+            <p>Este site não oferece aconselhamento financeiro. Os riscos são de responsabilidade do usuário. <a href="#" id="open-disclaimer-modal">Leia o disclaimer completo</a>.</p>
+        </div>
+    </footer>
+    
+    <!-- Modal -->
+    <div id="disclaimer-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal" id="close-disclaimer-modal">✕</span>
+            <h2>Disclaimer Completo</h2>
+            <p>Aqui vai o texto completo do disclaimer, incluindo todas as informações sobre riscos de investimentos, a responsabilidade do usuário e detalhes sobre OTC. Certifique-se de incluir todas as informações necessárias sobre os riscos associados e as limitações do site.</p>
+            <p>Exemplo de texto: Este site não fornece aconselhamento financeiro. As informações fornecidas não devem ser interpretadas como conselhos financeiros ou de investimento. Todos os investimentos envolvem riscos e o desempenho passado não garante resultados futuros. É de sua responsabilidade avaliar e entender os riscos envolvidos antes de tomar qualquer decisão de investimento. O mercado pode ser volátil e resultados podem variar.</p>
+            <p>Para investimentos OTC: Os investimentos OTC podem não refletir o mercado real e podem ser mais arriscados. Você deve estar ciente dos riscos antes de investir.</p>
+        </div>
+    </div>
+    <script>
+        document.getElementById('loginForm').addEventListener('submit', function() {
+    document.getElementById('loadingOverlay').style.display = 'block';
+});
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>

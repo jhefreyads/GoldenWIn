@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GOLDEN WIN</title>
+  
+  
+  <!-- REFIRECIONAMENTO PARA REDES SOCIALS HENRIQUE - 08/06/24 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- AOS CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+  
+  <!-- Slick Carousel CSS -->
+
+  <link href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/static/css/styles_LP.css">
+  <link rel="stylesheet" href="/static/css/assinaturas.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+
+
+  <!-- JS de Contato -->
+  <script src="{{ url_for('static', filename='js/contact.js') }}"></script>
+  
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+
+
+
+
+</head>
+<body>
+<!-- Header -->
+<header class="text-center p-5 bg-dark text-light position-relative" data-aos="fade-down">
+    <div class="header-content">
+        <img src="/static/logo.png" alt="Logo" class="responsive-logo">
+        <p class="lead">Aqui você encontra os melhores sinais com <span id="typed-text"></span></p>
+        
+        <!-- Botões Existentes -->
+        <a id="btnEntrar" type="button" class="btn btn-warning mt-3" data-bs-toggle="modal" data-bs-target="#login-modal">Entrar</a>
+        <a href="#assinaturas" class="btn btn-warning mt-3">Ver Planos</a>
+        <a href="https://t.me/GoldenWinTradeBot" target="_blank" class="btn btn-warning mt-3">
+            <i class="fab fa-telegram-plane"></i> Teste Grátis
+        </a>
+        <!-- Quebra de linha para garantir a separação -->
+        <br>
+
+        <!-- Novo Botão para o Grupo Free -->
+        <a href="https://t.me/goldenwintrade" target="_blank" class="btn btn-warning mt-3">
+            <i class="fab fa-telegram-plane"></i> Acesse nosso grupo free
+        </a>
+
+        <!-- Mensagens Flask -->
+        {% with messages = get_flashed_messages(with_categories=True) %}
+          {% if messages %}
+              {% for category, message in messages %}
+                  <div class="alert alert-{{ category }} flash-message" role="alert">
+                      {{ message }}
+                  </div>
+              {% endfor %}
+          {% endif %}
+      {% endwith %}
+
+        
+    </div>
+</header>
+
+
+
+    
+    <div id="loadingOverlay" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background-color:rgba(0, 0, 0, 0.5); z-index:1000; text-align:center; color:white; font-size:20px;">
+        <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%);">
+            <div class="spinner-border" role="status"></div>
+            <p>Validando credenciais...</p>
+        </div>
+    </div>    
+  
+
+  <!-- Carrossel de imagens -->
+  <section class="carousel" data-aos="fade-up">
+    <div><img src="/static/images/ox2.jpg" alt="Slide 1"></div>
+    <div><img src="/static/images/ox1.jpg" alt="Slide 2"></div>
+    <div><img src="/static/images/ox3.jpg" alt="Slide 3"></div>
+  </section>
+
+  <!-- Serviços -->
+  <section id="services" class="p-6 text-center">
+    <h2 class="mb-5" data-aos="zoom-in">Nossos Serviços</h2>
+    <div class="row">
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="service-box p-4">
+          <h3>Sinais gerados por IA</h3>
+          <p>Sinais criados a partir da utilização de Inteligência Artificial para captação de padrões de comportamento nas cotações</p>
+        </div>
+      </div>
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+    <div class="service-box p-4">
+        <h3>Suporte 24/7 humanizado</h3>
+        <p>
+            <i class="fab fa-telegram"></i>
+            Telegram: <a href="https://t.me/GoldenWinTrade" target="_blank">GoldenWinSuporte</a>
+        </p>
+        <p>
+            <i class="fab fa-whatsapp"></i>
+            WhatsApp: <a href="https://wa.me/5548988090814" target="_blank">+55 (48) 98809-0814</a>
+        </p>
+        <p>
+            <i class="fab fa-instagram"></i>
+            Instagram: <a href="https://www.instagram.com/goldenwin_sinais/" target="_blank">goldenwin_ia</a>
+        </p>
+        
+        <p>
+            <i class="fas fa-envelope"></i>
+            E-mail: <a href="mailto:contato@goldenwin.com.br">contato@goldenwin.com.br</a>
+        </p>
+    </div>
+</div>
+
+      
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
+        <div class="service-box p-4">
+          <h3>Acompanhe as notícias que afetam o mercado financeiro</h3>
+          <p>Nosso Hub principal conta com as notícias mais impactantes no mercado atualizadas em tempo real</p>
+        </div>
+      </div>
+    </div>
+    </section>
+
+  <!-- Assinaturas -->
+  <section id="assinaturas" class="p-6 text-center">
+<h2 class="mb-5" data-aos="zoom-in" style="margin-top: 60px; margin-bottom: 5px">Opções de assinatura</h2>
+    <div class="row">
+      <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
+        <div class="service-box p-4">
+              <div class="card-body">
+                <h5 class="card-title">Basic</h5>
+                <p class="card-text">R$ 9,90 / mês</p>
+                <table class="service-box">
+                  <tbody>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail1" aria-expanded="false" aria-controls="detail1">
+                        Sinais de opções binárias
+                      </td>
+                      <td><span style="color: red;">✅</span></td>
+                    </tr>
+                    <tr id="detail1" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Negocie em tempo real com liquidez garantida.</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail7" aria-expanded="false" aria-controls="detail7">
+                        Sinais OTC 24h
+                      </td>
+                      <td><span style="color: red;">❌</span></td>
+                    </tr>
+                    <tr id="detail7" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Operações contínuas, 24 horas por dia! Aproveite a flexibilidade de negociar sempre que desejar, sem as limitações das bolsas tradicionais.</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail8" aria-expanded="false" aria-controls="detail8">
+                        Aplicativo de Trading Online
+                      </td>
+                      <td><span style="color: green;">❌</span></td>
+                    </tr>
+                    <tr id="detail8" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Plataforma intuitiva para acompanhar e realizar operações de forma prática.</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail2" aria-expanded="false" aria-controls="detail2">
+                        Grupo Exclusivo de Sinais no Telegram
+                      </td>
+                      <td><span style="color: red;">✅</span></td>
+                    </tr>
+                    <tr id="detail2" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Receba alertas e insights de trading diretamente no seu dispositivo.</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail3" aria-expanded="false" aria-controls="detail3">
+                        Suporte 24/7
+                      </td>
+                      <td><span style="color: red;">✅</span></td>
+                    </tr>
+                    <tr id="detail3" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Assistência contínua para resolver suas dúvidas e problemas.</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail4" aria-expanded="false" aria-controls="detail4">
+                        Notificações Personalizadas
+                      </td>
+                      <td><span style="color: green;">✅</span></td>
+                    </tr>
+                    <tr id="detail4" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Alertas sobre variações de preços e eventos importantes do mercado.</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail5" aria-expanded="false" aria-controls="detail5">
+                        Relatórios Diários
+                      </td>
+                      <td><span style="color: green;">✅</span></td>
+                    </tr>
+                    <tr id="detail5" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Análises detalhadas do mercado e desempenho das operações.</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail6" aria-expanded="false" aria-controls="detail6">
+                        Notícias do Calendário Econômico
+                      </td>
+                      <td><span style="color: red;">✅</span></td>
+                    </tr>
+                    <tr id="detail6" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Mantenha-se informado sobre eventos que impactam o mercado.</div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <h2></h2>
+                <h2></h2>
+                    <a href="https://pay.kirvano.com/6bf1abeb-6512-40b9-ab71-cc330fde2f3b" class="btn btn-outline-primary">Assinar</a>
+              </div>
+        </div>
+      </div>
+      
+
+      <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
+        <div class="service-box p-4">
+              <div class="card-body">
+                <h5 class="card-title">Plus</h5>
+                <p class="card-text">R$ 19,90 / mês</p>
+                <table class="service-box">
+                  <tbody>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail1Plus" aria-expanded="false" aria-controls="detail1Plus">
+                        Sinais de opções binárias
+                      </td>
+                      <td><span style="color: green;">✅</span></td>
+                    </tr>
+                    <tr id="detail1Plus" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Negocie em tempo real com liquidez garantida.</div>
+                      </td>
+                    </tr>
+                     <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail7Plus" aria-expanded="false" aria-controls="detail7Plus">
+                        Sinais OTC 24h
+                      </td>
+                      <td><span style="color: green;">✅</span></td>
+                    </tr>
+                    <tr id="detail7Plus" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Operações contínuas, 24 horas por dia! Aproveite a flexibilidade de negociar sempre que desejar, sem as limitações das bolsas tradicionais.</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail8Plus" aria-expanded="false" aria-controls="detail8Plus">
+                        Aplicativo de Trading Online
+                      </td>
+                      <td><span style="color: green;">✅</span></td>
+                    </tr>
+                    <tr id="detail8Plus" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Plataforma intuitiva para acompanhar e realizar operações de forma prática.</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail2Plus" aria-expanded="false" aria-controls="detail2Plus">
+                        Grupo Exclusivo de Sinais no Telegram
+                      </td>
+                      <td><span style="color: green;">✅</span></td>
+                    </tr>
+                    <tr id="detail2Plus" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Receba alertas e insights de trading diretamente no seu dispositivo.</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail3Plus" aria-expanded="false" aria-controls="detail3Plus">
+                        Suporte 24/7
+                      </td>
+                      <td><span style="color: green;">✅</span></td>
+                    </tr>
+                    <tr id="detail3Plus" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Assistência contínua para resolver suas dúvidas e problemas.</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail4Plus" aria-expanded="false" aria-controls="detail4Plus">
+                        Notificações Personalizadas
+                      </td>
+                      <td><span style="color: green;">✅</span></td>
+                    </tr>
+                    <tr id="detail4Plus" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Alertas sobre variações de preços e eventos importantes do mercado.</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail5Plus" aria-expanded="false" aria-controls="detail5Plus">
+                        Relatórios Diários
+                      </td>
+                      <td><span style="color: green;">✅</span></td>
+                    </tr>
+                    <tr id="detail5Plus" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Análises detalhadas do mercado e desempenho das operações.</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="clickable" data-bs-toggle="collapse" data-bs-target="#detail6Plus" aria-expanded="false" aria-controls="detail6Plus">
+                        Notícias do Calendário Econômico
+                      </td>
+                      <td><span style="color: green;">✅</span></td>
+                    </tr>
+                    <tr id="detail6Plus" class="collapse">
+                      <td colspan="2">
+                        <div class="feature-box">Mantenha-se informado sobre eventos que impactam o mercado.</div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <h2></h2>
+                <h2></h2>
+                    <a href="https://pay.kirvano.com/01434698-ccbb-41cd-a5ea-66fded7ca2dd" class="btn btn-outline-primary">Assinar</a>
+              </div>
+            </div>   
+        </div>
+      </div>
+    </section>
+    
+
+
+
+<!-- Modal de Login -->
+<div id="login-modal" class="modal modal-rotate" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-img-content">
+            <div class="modal-img-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-img-body">
+                <div class="modal-img-text-center">
+                    <form id="loginForm" class="login-form" action="/login" method="POST">
+                        <div class="form-group mb-3">
+                            <label for="login_user">Usuário</label>
+                            <input type="text" class="form-control" id="login_user" name="login_user" placeholder="Usuário, Email ou CPF" autocomplete="email" required>
+                        </div>
+                        <div class="form-group mb-3">
+                            <label for="password">Senha</label>
+                            <input type="password" class="form-control" id="password" name="password" placeholder="Digite sua senha" autocomplete="current-password" required>
+                        </div>
+                        <input type="hidden" id="unique_id" name="unique_id">
+                        <div class="modal-footer">
+                            <button type="submit" class="btn btn-custom">Entrar</button>
+                            <button type="button" class="btn btn-custom" data-bs-toggle="modal" data-bs-target="#firstAccessModal">Esqueci minha senha<br>Primeiro Acesso</button>
+                            <button type="button" class="btn btn-custom-close" data-bs-dismiss="modal" aria-label="Fechar Modal">Fechar</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal de Primeiro Acesso -->
+<div class="modal" id="firstAccessModal" tabindex="-1" role="dialog" aria-labelledby="firstAccessModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-img-content">
+            <div class="modal-img-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+            </div>
+            <div class="modal-img-body">
+                <div class="modal-img-text-center">
+                    <!-- Opção de Envio de Código de Licença -->
+                    <div id="licenseValidationSection">
+                        <label for="license_code">Validar Licença</label>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="license_code" name="license_code" placeholder="Licença ou Código de Compra" required>
+                        </div>
+                        <button type="button" class="btn btn-custom" id="validateLicenseButton">Validar</button>
+                    </div>
+                    <!-- Opção de Receber Código por E-mail -->
+                    <div id="emailRequestSection">
+                        <label for="emailOrCpf">Receber Código por E-mail</label>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="emailOrCpf" name="emailOrCpf" placeholder="Digite seu E-mail ou CPF" required>
+                        </div>
+                        <button type="button" class="btn btn-custom" id="sendEmailButton">Enviar Código</button>
+                    </div>
+                    <!-- Elemento para o círculo giratório -->
+                    <div id="loading" class="d-none text-center">
+                        <p id="loadingMessage">Enviando dados...</p>
+                    </div>
+                    <!-- Mensagem de alerta -->
+                    <div id="alertMessage" class="alert alert-warning d-none" role="alert">
+                        Sua mensagem de alerta aqui.
+                    </div>
+                    <!-- Novo botão para fechar o modal -->
+                    <button type="button" class="btn btn-custom-close" data-bs-dismiss="modal" aria-label="Fechar Modal">Fechar</button>
+                    <button type="button" class="btn btn-light btn-large" data-bs-toggle="modal" data-bs-target="#helpModal" title="Ajuda">
+                        <i class="bi bi-question-circle"></i>
+                    </button>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="helpModal" tabindex="-1" aria-labelledby="helpModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="helpModalLabel">Ajuda</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-center">
+                <label>Para encontrar o código da compra, basta ir em "minhas compras" e localizar o código"</label>
+                <img src="static/images/help.jpg" alt="Ajuda" class="img-fluid" style="width: 10000px;">
+                <br>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal de Cadastro -->
+<div class="modal" id="registerModal" tabindex="-1" role="dialog" aria-labelledby="registerModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-img-content"> <!-- Aqui está a classe para o fundo -->
+            <div class="modal-register-content"> <!-- Mantém o conteúdo do formulário aqui -->
+                <div class="modal-img-header">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="registerForm">
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="reg_name" name="name" placeholder="Nome" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="reg_cpf" name="cpf" placeholder="CPF" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-control" id="reg_email" name="email" placeholder="E-mail" required readonly>
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-control" id="reg_password" name="password" placeholder="Senha" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-control" id="confirm_password" name="confirm_password" placeholder="Confirmar Senha" required>
+                        </div>
+                        <button type="submit" class="btn btn-custom">Cadastrar</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Balão de Contato -->
+<div id="contact-bubble">
+    <img src="/static/icons/contact.png" id="contact-icon" alt="Contact Icon" style="width: 60px; height: 60px;">
+    <div id="contact-popup">
+        <!-- Telegram -->
+        <div class="contact-item" id="contact-telegram">
+            <a href="https://t.me/goldenwintradebot?start=Olá%20necessito%20suporte" target="_blank">
+                <i class="fab fa-telegram"></i>
+            </a>
+        </div>
+        <!-- WhatsApp -->
+        <div class="contact-item" id="contact-whatsapp">
+            <a href="https://wa.me/5548988090814?text=Olá%20necessito%20suporte" target="_blank">
+                <i class="fab fa-whatsapp"></i>
+            </a>
+        </div>
+        <!-- Instagram -->
+        <div class="contact-item" id="contact-instagram">
+            <a href="https://www.instagram.com/goldenwin_ia/" target="_blank">
+                <i class="fab fa-instagram"></i>
+            </a>
+        </div>
+        <!-- Email -->
+        <div class="contact-item" id="contact-email">
+            <a href="mailto:suporte@goldenwin.com.br?subject=Solicitação%20de%20suporte%20Golden%20Win%20APP">
+                <i class="fas fa-envelope"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<footer class="text-center p-4 bg-dark text-light">
+  <p>Este site não oferece aconselhamento financeiro. Os riscos são de responsabilidade do usuário.
+      <button type="button" class="btn btn-link" onclick="showDisclaimerModal()">Leia os Termos de Uso</button>
+  </p>
+</footer>
+
+<!-- Bibliotecas JS necessárias -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+<!-- Outros scripts -->
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<!-- Script do disclaimer (após o bootstrap.bundle.min.js) -->
+<script src="{{ url_for('static', filename='js/disclaimer.js') }}"></script>
+<script src="/static/js/scripts_LP.js"></script>
+
+
+
+
+
+<script>
+    // Inicialização do AOS
+    AOS.init();
+    
+    // Inicialização do Typed.js
+    let typed = new Typed('#typed-text', {
+      strings: ["alta frequência diária", "acesso rápido", "assertividade e consistência"],
+      typeSpeed: 30,
+      backSpeed: 50,
+      loop: true
+    });
+    
+    // Inicialização do Slick Carousel
+    $('.carousel').slick({
+        dots: true,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 1,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        arrows: false,
+        responsive: [
+          {
+            breakpoint: 768,  // Para dispositivos com largura menor que 768px
+            settings: {
+              slidesToShow: 1
+            }
+          }
+        ]
+      });
+</script>
+ 
+
+<script>
+    $(document).ready(function() {
+      
+        // Exibir seções quando um link é clicado
+        $('.scroll-to-section').on('click', function(e) {
+            e.preventDefault();
+            const targetId = $(this).attr('href').substring(1);
+            const targetElement = $('#' + targetId);
+            if (targetElement.length) {
+                $('html, body').animate({
+                    scrollTop: targetElement.offset().top
+                }, 500);
+                // Mostra a seção correspondente se estiver oculta
+                targetElement.show();
+            }
+        });
+
+        // Verificação do modal e exibição
+        $('#helpModal').on('hidden.bs.modal', function() {
+            new bootstrap.Modal($('#firstAccessModal')).show();
+        });
+
+        // Evento para mostrar overlay de loading no login
+        $('#loginForm').on('submit', function() {
+            $('#loadingOverlay').show();
+        });
+
+        // Aceitar cookies
+        $('#cookie-btn').on('click', function() {
+            localStorage.setItem('cookiesAccepted', 'true');
+            $('#cookie-text').text('Obrigado por aceitar os cookies!');
+            $(this).hide();
+            setTimeout(hideCookieBanner, 3000);
+        });
+
+        // Função para esconder o banner de cookies
+        function hideCookieBanner() {
+            $('#cookie-banner').hide();
+        }
+
+        // Verifica consentimento de cookies
+        function checkCookieConsent() {
+            const cookiesAccepted = localStorage.getItem('cookiesAccepted');
+            if (!cookiesAccepted) {
+                $('#cookie-banner').css('display', 'flex');
+            }
+        }
+
+        // Chama a verificação de consentimento ao carregar a página
+        checkCookieConsent();
+
+        // Evento para evitar que clique dentro do modal feche o modal
+        $('.modal-img-content').on('click', function(event) {
+            event.stopPropagation();
+        });
+
+        // Verifica a sessão e redireciona ou mostra modal
+$('#btnEntrar').on('click', function(event) {
+    event.preventDefault();
+    const targetModal = $(this).data('target');
+    console.log("Target Modal:", targetModal); // Log para verificar o target
+
+    // Chamada AJAX para verificar a sessão
+    fetch('/check_session')
+    .then(response => response.json())
+    .then(data => {
+        console.log("Dados recebidos:", data); // Log para verificar os dados
+
+        // Verifica se a sessão não está ativa ou se não há user_id
+        if (!data.session_active || !data.user_id) {
+            const modalElement = $(targetModal);
+            console.log("Modal Element:", modalElement); // Log para verificar o elemento modal
+
+            if (modalElement.length) {
+                // Exibe o modal sem redirecionar
+                new bootstrap.Modal(modalElement).show();
+            } else {
+                console.error("Modal não encontrado:", targetModal);
+            }
+        } else {
+            // Redireciona se a sessão estiver ativa e user_id existir
+            window.location.href = "/index";
+        }
+    })
+    .catch(error => {
+        console.error('Erro ao verificar a sessão:', error);
+    });
+});
+
+
+    });
+</script>
+
+<script>
+  function showLastFlashMessage() {
+      // Seleciona todas as mensagens flash
+      const flashMessages = document.querySelectorAll('.flash-message');
+
+      // Se não houver mensagens, retorna
+      if (flashMessages.length === 0) return;
+
+      // Remove todas as mensagens, exceto a última
+      for (let i = 0; i < flashMessages.length - 1; i++) {
+          flashMessages[i].remove();
+      }
+
+      // Mostra a última mensagem, garantindo que ela esteja visível
+      const lastMessage = flashMessages[flashMessages.length - 1];
+      lastMessage.style.display = 'block';
+
+      // Define um timeout para remover a última mensagem após 5 segundos
+      setTimeout(() => {
+          lastMessage.remove();
+      }, 5000);
+  }
+
+  // Chama a função ao carregar a página
+  window.onload = showLastFlashMessage;
+</script>
+
+
+</body>
+</html>

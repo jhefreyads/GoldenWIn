@@ -1,0 +1,370 @@
+{
+    "ADAUSDT": {
+        "M5": {
+            "open_price": "0.329400",
+            "current_price": "0.329000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "ATOMUSDT": {
+        "M5": {
+            "open_price": "4.379000",
+            "current_price": "4.380000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "AUDCAD": {
+        "M5": {
+            "open_price": "0.911250",
+            "current_price": "0.911310",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "AUDCAD-OTC": {
+        "M5": {
+            "open_price": "0.902235",
+            "current_price": "0.901895",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "AUDJPY": {
+        "M5": {
+            "open_price": "98.367000",
+            "current_price": "98.314000",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "AUDNZD": {
+        "M5": {
+            "open_price": "1.088930",
+            "current_price": "1.089020",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "AUDUSD": {
+        "M5": {
+            "open_price": "0.674380",
+            "current_price": "0.674190",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "AVAXUSDT": {
+        "M5": {
+            "open_price": "22.250000",
+            "current_price": "22.250000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "AXSUSDT": {
+        "M5": {
+            "open_price": "4.657000",
+            "current_price": "4.659000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "BCHUSDT": {
+        "M5": {
+            "open_price": "319.900000",
+            "current_price": "319.700000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "BNBUSDT": {
+        "M5": {
+            "open_price": "533.000000",
+            "current_price": "533.400000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "BTCUSDT": {
+        "M5": {
+            "open_price": "58857.640000",
+            "current_price": "58838.000000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "DOGEUSDT": {
+        "M5": {
+            "open_price": "0.099130",
+            "current_price": "0.099110",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "DOTUSDT": {
+        "M5": {
+            "open_price": "4.242000",
+            "current_price": "4.241000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "ETHUSDT": {
+        "M5": {
+            "open_price": "2503.760000",
+            "current_price": "2503.000000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "EURAUD": {
+        "M5": {
+            "open_price": "1.637620",
+            "current_price": "1.637060",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "EURCHF": {
+        "M5": {
+            "open_price": "0.941980",
+            "current_price": "0.941760",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "EURGBP": {
+        "M5": {
+            "open_price": "0.841820",
+            "current_price": "0.841630",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "EURJPY": {
+        "M5": {
+            "open_price": "161.118000",
+            "current_price": "160.973000",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "EURJPY-OTC": {
+        "M5": {
+            "open_price": "163.045465",
+            "current_price": "163.058355",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "EURUSD": {
+        "M5": {
+            "open_price": "1.104560",
+            "current_price": "1.103850",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "EURUSD-OTC": {
+        "M5": {
+            "open_price": "1.110895",
+            "current_price": "1.110765",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "FTTUSDT": {
+        "M5": {
+            "open_price": "1.288600",
+            "current_price": "1.288600",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "GBPAUD": {
+        "M5": {
+            "open_price": "1.945220",
+            "current_price": "1.944930",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "GBPCHF": {
+        "M5": {
+            "open_price": "1.118820",
+            "current_price": "1.118820",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "GBPJPY": {
+        "M5": {
+            "open_price": "191.377000",
+            "current_price": "191.249000",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "GBPJPY-OTC": {
+        "M5": {
+            "open_price": "193.050935",
+            "current_price": "193.044145",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "GBPUSD": {
+        "M5": {
+            "open_price": "1.311990",
+            "current_price": "1.311450",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "GBPUSD-OTC": {
+        "M5": {
+            "open_price": "1.309865",
+            "current_price": "1.309595",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "LINKUSDT": {
+        "M5": {
+            "open_price": "10.580000",
+            "current_price": "10.570000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "LTCUSDT": {
+        "M5": {
+            "open_price": "66.150000",
+            "current_price": "66.120000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "MATICUSDT": {
+        "M5": {
+            "open_price": "0.408500",
+            "current_price": "0.408000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "NZDJPY": {
+        "M5": {
+            "open_price": "90.319000",
+            "current_price": "90.260000",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "NZDUSD": {
+        "M5": {
+            "open_price": "0.619170",
+            "current_price": "0.618960",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "NZDUSD-OTC": {
+        "M5": {
+            "open_price": "0.618205",
+            "current_price": "0.618145",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "SHIBUSDT": {
+        "M5": {
+            "open_price": "0.000014",
+            "current_price": "0.000014",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "SOLUSDT": {
+        "M5": {
+            "open_price": "133.720000",
+            "current_price": "133.710000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "SUSHIUSDT": {
+        "M5": {
+            "open_price": "0.575000",
+            "current_price": "0.575000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "UNIUSDT": {
+        "M5": {
+            "open_price": "6.206000",
+            "current_price": "6.216000",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "USDCAD": {
+        "M5": {
+            "open_price": "1.351330",
+            "current_price": "1.351790",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "USDCHF": {
+        "M5": {
+            "open_price": "0.852800",
+            "current_price": "0.853140",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "USDCHF-OTC": {
+        "M5": {
+            "open_price": "0.847235",
+            "current_price": "0.847815",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "USDJPY": {
+        "M5": {
+            "open_price": "145.871000",
+            "current_price": "145.830000",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "USDJPY-OTC": {
+        "M5": {
+            "open_price": "145.506450",
+            "current_price": "145.498650",
+            "open_time": "2024-09-03 06:05:00",
+            "timeframe": "M5"
+        }
+    },
+    "XLMUSDT": {
+        "M5": {
+            "open_price": "0.093200",
+            "current_price": "0.093300",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    },
+    "XRPUSDT": {
+        "M5": {
+            "open_price": "0.567500",
+            "current_price": "0.567300",
+            "open_time": "2024-08-30 19:35:00",
+            "timeframe": "M5"
+        }
+    }
+}

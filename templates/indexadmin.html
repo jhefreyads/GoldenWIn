@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <link rel="manifest" href="/json/manifest.json">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="GOLDEN WIN">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" href="/icons/icon-192x192.png">
+    <meta name="theme-color" content="#1e1e1e">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GW - Dashboard</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="{{ url_for('static', filename='js/scripts_admin.js') }}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/date-fns@2.29.3/dist/date-fns.min.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    
+    <button class="expand-button">
+        <i class="fas fa-chevron-right"></i>
+    </button>
+    <div class="navbar">
+        <h1>GW - Dashboard</h1>
+    </div>
+    <div class="container">
+        <div class="sidebar collapsed">
+            <div class="tab active" data-target="control-panel">
+                <i class="fas fa-tachometer-alt"></i>
+                <span>Dashboard</span>
+            </div>
+            <div class="tab" data-target="web">
+                <i class="fas fa-desktop"></i>
+                <span>App</span>
+            </div>
+            <div class="tab" data-target="database">
+                <i class="fas fa-database"></i>
+                <span>Banco de Dados</span>
+            </div>
+            <div class="tab" data-target="FTP">
+                <i class="fas fa-server"></i>
+                <span>FTP</span>
+            </div>
+            <div class="tab" data-target="scripts">
+                <i class="fas fa-code"></i>
+                <span>Scripts Python</span>
+            </div>
+            <div class="tab" data-target="settings">
+                <i class="fas fa-cogs"></i>
+                <span>Configurações</span>
+            </div>
+            <div class="tab" data-target="Windows">
+                <i class="fab fa-windows"></i>
+                <span>Windows</span>
+            </div>
+            <div class="tab" data-target="user">
+                <i class="fas fa-user"></i>
+                <span>Usuário</span>
+            </div>
+            <div class="tab" data-target="signals">
+                <i class="fas fa-bullhorn"></i>
+                <span>Sinais</span>
+            </div>    
+            <div class="tab" data-target="docker">
+                <i class="fas fa-box"></i>
+                <span>Docker</span>
+            </div>
+            <div class="tab" data-target="back_edit">
+                <i class="fas fa-chart-bar"></i>
+                <span>Backend</span>
+            </div>
+            <div class="tab" data-target="Mail">
+                <i class="fab fa-telegram"></i>
+                <span>Mail</span>
+            </div>
+            <div class="tab" onclick="confirmLogout(event)">
+                <i class="fas fa-sign-out-alt"></i>
+                <span>Logout</span>
+            </div>
+            
+        </div>
+        <div class="content">
+            <div id="control-panel" class="section active">
+                <div id="all-metrics" class="metrics-container">
+                    <div id="server-metrics">
+                        <h2>Server Metrics</h2>
+                        <p>CPU Usage: <span id="cpu-usage"></span>%</p>
+                        <p>Memory Usage: <span id="memory-usage"></span>%</p>
+                        <p>Disk Usage: <span id="disk-usage"></span>%</p>
+                        <p>Uptime: <span id="uptime"></span></p>
+                    </div>
+                    <div id="windows-metrics">
+                        <h2>Windows Metrics</h2>
+                        <div class="metrics-section" id="win-cpu-usage"></div>
+                        <div class="metrics-section" id="win-memory-usage"></div>
+                        <div class="metrics-section" id="win-disk-usage"></div>
+                        <div class="metrics-section" id="win-uptime"></div>
+                    </div>
+                    <div id="user-metrics">
+                        <h2>User Metrics</h2>
+                        <p>Total Users: <span id="total-users"></span></p>
+                        <p>Active Users: <span id="active-users"></span></p>
+                        <p>Last Login User ID: <span id="last-login-user-id"></span></p>
+                        <p>Last Login Time: <span id="last-login-time"></span></p>
+                    </div>
+                </div>
+            </div>
+            <div id="web" class="section">
+                <h2>WEB</h2>
+                <iframe src="http://77.37.68.34" style="width:100%; height:80vh; border:none;"></iframe>
+            </div>
+            <div id="database" class="section">
+                <h2>Banco de dados</h2>
+                <iframe src="http://77.37.68.34:8081" style="width:100%; height:80vh; border:none;"></iframe>
+            </div>
+            <div id="scripts" class="section">
+                <h2>Scripts Python</h2>
+                <div id="console-ia" class="console">
+                    <h3>IA Console</h3>
+                </div>
+                <div id="console-telegrabot" class="console">
+                    <h3>Telegram Bot Console</h3>
+                </div>
+                <div id="console-candles" class="console">
+                    <h3>MT5 Candles Console</h3>
+                </div>
+                <div id="console-candles_iq" class="console">
+                    <h3>IQ Candles Console</h3>
+                </div>
+                <div id="console-prices_update" class="console">
+                    <h3>Prices Update Console</h3>
+                </div>
+            </div>
+            <div id="settings" class="section">
+                <h2>Configurações</h2>
+                <div class="tab" style="display: flex;">
+                    <button class="tablinks" style="margin-right: 5px;" onclick="openTab('Front_Config')">Front Config</button>
+                    <button class="tablinks" onclick="openTab('Back_Config')">Back Config</button>
+                </div>
+            
+                <div id="Front_Config" class="tab-content active">
+                <h2>FrontEnd</h2>
+                <div id="config"></div>
+                <h1>Adicionar Nova Seção</h1>
+                <input type="text" id="newSection" placeholder="Nome da Nova Seção">
+                <button onclick="addSection()">Adicionar Seção</button>
+                <h1>Adicionar Nova Variável</h1>
+                <select id="sectionSelect"></select>
+                <input type="text" id="newKey" placeholder="Nome da Nova Variável">
+                <input type="text" id="newValue" placeholder="Valor da Nova Variável">
+                <button onclick="addVariable()">Adicionar Variável</button>
+                <button onclick="saveConfig()">Salvar Configurações</button>
+                </div>
+                <div id="Back_Config" class="tab-content">
+                <h2>Backend</h2>
+                <div id="backend_config"></div> <!-- ID atualizado para backend_config -->
+                
+                <h1>Adicionar Nova Seção no Backend</h1>
+                <input type="text" id="newBackendSection" placeholder="Nome da Nova Seção">
+                <button onclick="addBackendSection()">Adicionar Seção</button>
+                <h1>Adicionar Nova Variável no Backend</h1>
+                <select id="backendSectionSelect"></select>
+                <input type="text" id="newBackendKey" placeholder="Nome da Nova Variável">
+                <input type="text" id="newBackendValue" placeholder="Valor da Nova Variável">
+                <button onclick="addBackendVariable()">Adicionar Variável</button>
+                <button onclick="saveBackendConfig()">Salvar Configurações</button>
+            </div>
+        </div>    
+           
+            <div id="user" class="section">
+                <h2>Controle de Usuários</h2>            
+                <div class="tab" style="display: flex;">
+                <button class="tablinks" style="margin-right: 5px;" onclick="openTab('usuarios')">Usuários</button>
+                <button class="tablinks" onclick="openTab('licenses')">Licenças</button>
+                </div>
+
+<div id="usuarios" class="tab-content active">
+    <h2>Usuários</h2>
+    <div class="row justify-content-center">
+        <div class="col-md-12">
+            <div class="config-section">
+                <div class="config-section-header">Cadastro de Usuários</div>
+                <div class="config-section-body">
+                    <form id="createUserForm" action="/create_user_admin" method="POST">
+                        <div class="config-group">
+                            <label for="new_name" class="config-label">Nome</label>
+                            <input type="text" class="config-input" id="new_name" name="new_name" required>
+                        </div>
+                        <div class="config-group">
+                            <label for="new_email" class="config-label">E-mail</label>
+                            <input type="email" class="config-input" id="new_email" name="new_email" required>
+                        </div>
+                        <div class="config-group">
+                            <label for="new_cpf" class="config-label">CPF</label>
+                            <input type="text" class="config-input" id="new_cpf" name="new_cpf" required>
+                        </div>
+                        <div class="config-group">
+                            <label for="new_password" class="config-label">Senha</label>
+                            <input type="password" class="config-input" id="new_password" name="new_password" required>
+                        </div>
+                        <div class="config-group">
+                            <label for="confirm_password" class="config-label">Confirmar Senha</label>
+                            <input type="password" class="config-input" id="confirm_password" name="confirm_password" required>
+                        </div>
+                        <div class="config-group">
+                            <button type="submit" class="config-btn">Criar Usuário</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="licenses" class="tab-content">
+    <h2>Licenças</h2>
+    <div class="row justify-content-center">
+        <div class="col-md-12">
+            <div class="config-section">
+                <div class="config-section-header">Cadastro de Licenças</div>
+                <div class="config-section-body">
+                    <form id="addLicenseForm" action="/add_license" method="post" onsubmit="handleFormSubmit(event)">
+                        <div class="config-group">
+                            <label for="cpf" class="config-label">CPF</label>
+                            <input type="text" class="config-input" id="cpf" name="cpf" required>
+                            <input type="hidden" id="data_pagamento" name="data_pagamento">
+                        </div>
+                        <div class="config-group">
+                            <label for="prazo" class="config-label">Prazo (em dias)</label>
+                            <input type="number" class="config-input" id="prazo" name="prazo" required>
+                            <input type="hidden" id="id_usuario_criacao" name="id_usuario_criacao" value="{{ user_id }}" required>
+                        </div>
+                        <div class="config-group">
+                            <button type="submit" class="config-btn">Adicionar Licença</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            </div>
+            <div id="signals" class="section">
+                <h2>Sinais</h2>
+                <div id="mini_cards_container"></div>
+            </div>
+            <div id="docker" class="section">
+                <h2>Portainer Dashboard</h2>
+                <iframe src="http://77.37.68.34:9000/#!/2/docker/containers" style="width:100%; height:80vh; border:none;"></iframe>
+            </div>
+            <div id="FTP" class="section">
+                <h2>FTP</h2>
+                <iframe src="http://77.37.68.34:8888" style="width:100%; height:80vh; border:none;"></iframe>
+            </div>
+            <div id="back_edit" class="section">
+                <h2>Server</h2>
+                <div>
+                    <h3>Edit Script</h3>
+                    <textarea id="codeArea" rows="20" cols="80"></textarea>
+                    <br>
+                    <button id="saveButton">Save and Restart</button>
+                </div>
+            </div>
+            <div id="Mail" class="section">
+                <h2>Mail</h2>
+                <iframe src="http://77.37.68.34:8085" style="width:100%; height:80vh; border:none;"></iframe>
+            </div>
+            <div id="Windows" class="section">
+                <h2>Windows</h2>
+                <iframe src="http://77.37.68.34:8006" style="width:100%; height:80vh; border:none;"></iframe>
+            </div>
+        </div>
+    </div>
+    <script>
+        const tabs = document.querySelectorAll('.sidebar .tab');
+        const sections = document.querySelectorAll('.content .section');
+        const expandButton = document.querySelector('.expand-button');
+        const sidebar = document.querySelector('.sidebar');
+        const content = document.querySelector('.content');
+
+        tabs.forEach(tab => {
+            tab.addEventListener('click', () => {
+                tabs.forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+
+                const target = tab.getAttribute('data-target');
+                sections.forEach(section => {
+                    section.classList.remove('active');
+                    if (section.id === target) {
+                        section.classList.add('active');
+                    }
+                });
+            });
+        });
+
+        expandButton.addEventListener('click', () => {
+            sidebar.classList.toggle('collapsed');
+            sidebar.classList.toggle('expanded');
+            content.style.marginLeft = sidebar.classList.contains('expanded') ? '250px' : '50px';
+            expandButton.innerHTML = sidebar.classList.contains('expanded')
+                ? '<i class="fas fa-chevron-left"></i>'
+                : '<i class="fas fa-chevron-right"></i>';
+        });
+    </script>
+<script>
+    function openTab(tabId) {
+    // Ocultar todas as abas
+    document.querySelectorAll('.tab-content').forEach(tab => {
+        tab.classList.remove('active');
+    });
+
+    // Remover a classe ativa de todos os botões
+    document.querySelectorAll('.tablinks').forEach(button => {
+        button.classList.remove('active');
+    });
+
+    // Mostrar a aba clicada
+    document.getElementById(tabId).classList.add('active');
+    
+    // Adicionar a classe ativa ao botão clicado
+    document.querySelector(`button[onclick="openTab('${tabId}')"]`).classList.add('active');
+}
+
+</script>
+
+<script>
+        let configData = {};
+
+        // Carrega as configurações do servidor
+        function loadConfig() {
+            fetch('/config')
+                .then(response => response.json())
+                .then(data => {
+                    configData = data;
+                    displayConfig(data);
+                });
+        }
+
+        // Exibe as configurações no DOM
+        function displayConfig(data) {
+            const configDiv = document.getElementById('config');
+            configDiv.innerHTML = '';
+
+            const sectionSelect = document.getElementById('sectionSelect');
+            sectionSelect.innerHTML = '';
+
+            for (const section in data) {
+                const sectionDiv = document.createElement('div');
+                sectionDiv.className = 'config-section';
+
+                const sectionHeader = document.createElement('h2');
+                sectionHeader.innerHTML = `${section} <button onclick="removeSection('${section}')">Remover Seção</button>`;
+                sectionDiv.appendChild(sectionHeader);
+
+                for (const key in data[section]) {
+                    const label = document.createElement('label');
+                    label.innerText = key;
+
+                    const input = document.createElement('input');
+                    input.type = 'text';
+                    input.value = data[section][key];
+                    input.onchange = (event) => updateConfig(section, key, event.target.value);
+
+                    const removeBtn = document.createElement('button');
+                    removeBtn.className = 'remove-btn';
+                    removeBtn.innerText = 'Remover';
+                    removeBtn.onclick = () => removeVariable(section, key);
+
+                    sectionDiv.appendChild(label);
+                    sectionDiv.appendChild(input);
+                    sectionDiv.appendChild(removeBtn);
+                }
+
+                configDiv.appendChild(sectionDiv);
+
+                const option = document.createElement('option');
+                option.value = section;
+                option.text = section;
+                sectionSelect.appendChild(option);
+            }
+        }
+
+        // Atualiza a configuração localmente
+        function updateConfig(section, key, value) {
+            configData[section][key] = value;
+        }
+
+        // Adiciona uma nova seção
+        function addSection() {
+            const newSection = document.getElementById('newSection').value;
+            if (newSection) {
+                configData[newSection] = {};
+                displayConfig(configData);
+            }
+        }
+
+        // Adiciona uma nova variável à seção selecionada
+        function addVariable() {
+            const section = document.getElementById('sectionSelect').value;
+            const key = document.getElementById('newKey').value;
+            const value = document.getElementById('newValue').value;
+            if (section && key) {
+                configData[section][key] = value;
+                displayConfig(configData);
+            }
+        }
+
+        // Remove uma seção
+        function removeSection(section) {
+            fetch('/config', {
+                method: 'DELETE',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ section: section }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                delete configData[section];
+                displayConfig(configData);
+                alert(data.message);
+            });
+        }
+
+        // Remove uma variável
+        function removeVariable(section, key) {
+            fetch('/config', {
+                method: 'DELETE',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ section: section, key: key }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                delete configData[section][key];
+                displayConfig(configData);
+                alert(data.message);
+            });
+        }
+
+        // Salva as configurações no servidor
+        function saveConfig() {
+            fetch('/config', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(configData),
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(data.message);
+            });
+        }
+
+        loadConfig();
+    </script>
+
+
+<script>
+function deleteSignal(signalId) {
+fetch(`/delete_signal/${signalId}`, {
+    method: 'DELETE'
+})
+.then(response => response.json())
+.then(data => {
+    if (data.status === 'success') {
+        alert(data.message);
+        // Opcional: Remover o mini-card da página
+        document.getElementById(`card-details-${signalId}`).parentElement.remove();
+    } else {
+        alert(data.message);
+    }
+})
+.catch(error => {
+    console.error('Erro ao excluir o sinal:', error);
+    alert('Ocorreu um erro ao tentar excluir o sinal.');
+});
+}
+
+</script>
+
+<script>
+   function updateMetrics() {
+    fetch('/metrics/all')
+        .then(response => response.json())
+        .then(data => {
+            // Update server metrics
+            document.getElementById('cpu-usage').innerText = data.server_metrics.cpu_usage;
+            document.getElementById('memory-usage').innerText = data.server_metrics.memory_usage;
+            document.getElementById('disk-usage').innerText = data.server_metrics.disk_usage;
+            document.getElementById('uptime').innerText = data.server_metrics.uptime;
+
+            // Update user metrics
+            document.getElementById('total-users').innerText = data.user_metrics.total_users;
+            document.getElementById('active-users').innerText = data.user_metrics.active_users;
+            document.getElementById('last-login-user-id').innerText = data.user_metrics.last_login_user_id;
+            document.getElementById('last-login-time').innerText = data.user_metrics.last_login_time;
+        })
+        .catch(error => console.error('Error fetching metrics:', error));
+}
+
+// Update metrics every 5 seconds
+setInterval(updateMetrics, 1000);
+updateMetrics();
+</script>
+ <script>
+        // Função para buscar o script atual
+        async function fetchScript() {
+            const response = await fetch('/get-script');
+            const data = await response.json();
+            document.getElementById('codeArea').value = data.code;
+        }
+
+        // Função para salvar o script atualizado
+        async function saveScript() {
+            const code = document.getElementById('codeArea').value;
+
+            const response = await fetch('/save-script', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ code: code })
+            });
+
+            const result = await response.json();
+            alert(result.message);
+        }
+
+        // Chama a função para buscar o script ao carregar a página
+        window.onload = fetchScript;
+
+        // Salva o script ao clicar no botão
+        document.getElementById('saveButton').addEventListener('click', saveScript);
+    </script>
+<script>
+    let backendConfigData = {};
+
+    // Carrega as configurações do backend
+    function loadBackendConfig() {
+        fetch('/windows_config')
+            .then(response => response.json())
+            .then(data => {
+                backendConfigData = data;
+                displayBackendConfig(data);
+            });
+    }
+
+    // Exibe as configurações do backend no DOM
+    function displayBackendConfig(data) {
+        const configDiv = document.getElementById('backend_config');
+        configDiv.innerHTML = '';
+
+        const sectionSelect = document.getElementById('backendSectionSelect');
+        sectionSelect.innerHTML = '';
+
+        for (const section in data) {
+            const sectionDiv = document.createElement('div');
+            sectionDiv.className = 'config-section';
+
+            const sectionHeader = document.createElement('h2');
+            sectionHeader.innerHTML = `${section} <button onclick="removeBackendSection('${section}')">Remover Seção</button>`;
+            sectionDiv.appendChild(sectionHeader);
+
+            for (const key in data[section]) {
+                const label = document.createElement('label');
+                label.innerText = key;
+
+                const input = document.createElement('input');
+                input.type = 'text';
+                input.value = data[section][key];
+                input.onchange = (event) => updateBackendConfig(section, key, event.target.value);
+
+                const removeBtn = document.createElement('button');
+                removeBtn.className = 'remove-btn';
+                removeBtn.innerText = 'Remover';
+                removeBtn.onclick = () => removeBackendVariable(section, key);
+
+                sectionDiv.appendChild(label);
+                sectionDiv.appendChild(input);
+                sectionDiv.appendChild(removeBtn);
+            }
+
+            configDiv.appendChild(sectionDiv);
+
+            const option = document.createElement('option');
+            option.value = section;
+            option.text = section;
+            sectionSelect.appendChild(option);
+        }
+    }
+
+    // Atualiza a configuração do backend localmente
+    function updateBackendConfig(section, key, value) {
+        backendConfigData[section][key] = value;
+    }
+
+    // Adiciona uma nova seção no backend
+    function addBackendSection() {
+        const newSection = document.getElementById('newBackendSection').value;
+        if (newSection) {
+            backendConfigData[newSection] = {};
+            displayBackendConfig(backendConfigData);
+        }
+    }
+
+    // Adiciona uma nova variável à seção selecionada no backend
+    function addBackendVariable() {
+        const section = document.getElementById('backendSectionSelect').value;
+        const key = document.getElementById('newBackendKey').value;
+        const value = document.getElementById('newBackendValue').value;
+        if (section && key) {
+            backendConfigData[section][key] = value;
+            displayBackendConfig(backendConfigData);
+        }
+    }
+
+    // Remove uma seção no backend
+    function removeBackendSection(section) {
+        fetch('/windows_config', {
+            method: 'DELETE',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ section: section }),
+        })
+        .then(response => response.json())
+        .then(data => {
+            delete backendConfigData[section];
+            displayBackendConfig(backendConfigData);
+            alert(data.message);
+        });
+    }
+
+    // Remove uma variável no backend
+    function removeBackendVariable(section, key) {
+        fetch('/windows_config', {
+            method: 'DELETE',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ section: section, key: key }),
+        })
+        .then(response => response.json())
+        .then(data => {
+            delete backendConfigData[section][key];
+            displayBackendConfig(backendConfigData);
+            alert(data.message);
+        });
+    }
+
+    // Salva as configurações no servidor do backend
+    function saveBackendConfig() {
+        fetch('/windows_config', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(backendConfigData),
+        })
+        .then(response => response.json())
+        .then(data => {
+            alert(data.message);
+        });
+    }
+
+    loadBackendConfig();
+</script>
+
+
+
+
+</body>
+</html>
