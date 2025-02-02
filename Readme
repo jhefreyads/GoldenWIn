@@ -1,1 +1,29 @@
-GoldenWin Bot
+Sistema de Trading Automatizado
+Este projeto é um sistema de trading automatizado desenvolvido com foco em performance, escalabilidade e precisão nas operações. O sistema utiliza tecnologias avançadas para coleta, análise e execução de operações financeiras em tempo real, com base em dados históricos e predições do mercado.
+
+Principais Funcionalidades:
+Coleta e Armazenamento de Dados de Mercado: Conecta-se com corretoras para captura de dados de candles em tempo real, processando e armazenando esses dados em um banco de dados PostgreSQL.
+Análises Preditivas com Inteligência Artificial: Implementa algoritmos de IA (como scikit-learn e TensorFlow) para realizar previsões do comportamento do mercado financeiro e otimizar estratégias de trading.
+Trading Automático: Baseado nas análises preditivas, o sistema executa operações de compra e venda de ativos automaticamente, conforme parâmetros definidos.
+Interface Web: Desenvolvida com Flask e HTML, oferece uma visualização em tempo real das operações e dados, com comunicação via SSE para atualização contínua sem sobrecarregar o servidor.
+Integração com APIs de Corretoras e Gateways de Pagamento: O sistema se comunica com corretoras e gateways de pagamento para a execução das operações financeiras, sendo testado e validado com o uso de ferramentas como Postman.
+Gerenciamento de Containers Docker: Utiliza Docker para containerização do sistema, garantindo escalabilidade, facilidade de manutenção e deploy em diferentes ambientes.
+Controle de Usuários e Licenças: Implementação de um sistema de controle de usuários com cadastros automatizados e licenças 100% automatizadas.
+Bot de Atendimento via Telegram: Implementação de um bot de atendimento via Telegram, permitindo que usuários interajam diretamente com o sistema, consultem dados e recebam notificações em tempo real.
+Tecnologias Utilizadas:
+Backend: Python, Flask, SQLAlchemy
+Banco de Dados: PostgreSQL
+Integração e APIs: Requests, Postman
+Inteligência Artificial: scikit-learn, TensorFlow
+Frontend: HTML, SSE
+Containerização: Docker, VPS Linux
+Outras Ferramentas: Pandas, NumPy, APScheduler, ThreadPoolExecutor
+Bot Telegram: python-telegram-bot
+Status:
+O sistema encontra-se em fase de testes e melhorias, com foco na performance e precisão das operações.
+
+Observações:
+Este é um projeto pessoal e o código está sendo compartilhado publicamente para fins de demonstração e aprendizado. Não será oferecido suporte para implementação ou uso do código. Sinta-se à vontade para explorar, contribuir ou melhorar o projeto por conta própria.
+
+Como Contribuir:
+Se você deseja colaborar com o projeto, sinta-se à vontade para abrir pull requests, relatar problemas ou sugerir melhorias. Todas as contribuições são bem-vindas!
